@@ -85,29 +85,17 @@ roster_data <- roster_raw %>%
           BOS_play = X6, 
           )
   ) %>% 
-  bind_rows() %>% 
-  mutate(
-   across(contains("score_tally"), ~str_remove(.x, "\\+"))
-  )
+  bind_rows()
 
 
 # Write data --------------------------------------------------------------
 
- write_ods(pbp_finals, path = "./Outputs/nba_2024_pbp_finals_data.ods", sheet = "NBA 2024 Play-by-play Finals Data")
+ pbp_finals %>% str()
  
- 
- Encoding(pbp_finals$DAL_play) <- "bytes"
- Encoding(pbp_finals$BOS_play) <- "bytes"
- 
- write_csv(pbp_finals, path = "./Outputs/nba_2024_pbp_finals_data.csv")
- 
- 
- 
- 
- 
- 
- 
- 
+ write_ods(pbp_finals, 
+           path = "./Outputs/nba_2024_pbp_finals_data.ods", 
+           sheet = "NBA 2024 Play-by-play Finals Data")
+
  
  
  
