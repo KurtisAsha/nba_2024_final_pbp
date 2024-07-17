@@ -1,0 +1,2123 @@
+order,timestamp,DAL_play,DAL_score_tally,score_board,BOS_score_tally,BOS_play,quarter,timediff
+1,2024-06-06T20:30:00Z,Jump ball: D. Gafford vs. A. Horford (J. Brown gains possession),Jump ball: D. Gafford vs. A. Horford (J. Brown gains possession),Jump ball: D. Gafford vs. A. Horford (J. Brown gains possession),Jump ball: D. Gafford vs. A. Horford (J. Brown gains possession),Jump ball: D. Gafford vs. A. Horford (J. Brown gains possession),q1,0S
+2,2024-06-06T20:30:25Z,,,0-2,2,A. Horford makes 2-pt dunk from 1 ft (assist by J. Tatum),q1,25S
+3,2024-06-06T20:30:44Z,D. Jones makes 3-pt jump shot from 27 ft (assist by D. Gafford),3,3-2,,,q1,44S
+4,2024-06-06T20:30:52Z,,,3-5,3,J. Holiday makes 3-pt jump shot from 27 ft (assist by D. White),q1,52S
+5,2024-06-06T20:31:15Z,L. Dončić makes 2-pt jump shot from 12 ft,2,5-5,,,q1,75S
+6,2024-06-06T20:31:37Z,,,5-5,,J. Brown misses 3-pt jump shot from 25 ft,q1,97S
+7,2024-06-06T20:31:39Z,,,5-5,,Offensive rebound by J. Tatum,q1,99S
+8,2024-06-06T20:31:42Z,,,5-5,,D. White misses 3-pt jump shot from 27 ft,q1,102S
+9,2024-06-06T20:31:44Z,,,5-5,,Offensive rebound by Team,q1,104S
+10,2024-06-06T20:31:57Z,,,5-5,,D. White misses 3-pt jump shot from 23 ft,q1,117S
+11,2024-06-06T20:31:58Z,,,5-5,,Offensive rebound by A. Horford,q1,118S
+12,2024-06-06T20:32:02Z,,,5-5,,J. Brown misses 3-pt jump shot from 27 ft,q1,122S
+13,2024-06-06T20:32:03Z,,,5-5,,Offensive rebound by J. Brown,q1,123S
+14,2024-06-06T20:32:11Z,,,5-5,,A. Horford misses 3-pt jump shot from 26 ft,q1,131S
+15,2024-06-06T20:32:13Z,Defensive rebound by L. Dončić,,5-5,,,q1,133S
+16,2024-06-06T20:32:14Z,Personal foul by J. Tatum (drawn by L. Dončić),,5-5,,,q1,134S
+17,2024-06-06T20:32:27Z,L. Dončić misses 2-pt jump shot from 9 ft,,5-5,,,q1,147S
+18,2024-06-06T20:32:28Z,Offensive rebound by D. Gafford,,5-5,,,q1,148S
+19,2024-06-06T20:32:28Z,D. Gafford makes 2-pt layup at rim,2,7-5,,,q1,148S
+20,2024-06-06T20:32:41Z,,,7-5,,Turnover by J. Tatum (lost ball; steal by D. Gafford),q1,161S
+21,2024-06-06T20:32:47Z,P. Washington makes 2-pt dunk from 2 ft (assist by L. Dončić),2,9-5,,,q1,167S
+22,2024-06-06T20:32:56Z,,,9-8,3,A. Horford makes 3-pt jump shot from 24 ft (assist by J. Tatum),q1,176S
+23,2024-06-06T20:33:11Z,Turnover by L. Dončić (lost ball; steal by J. Brown),,9-8,,,q1,191S
+24,2024-06-06T20:33:15Z,,,9-10,2,J. Brown makes 2-pt dunk from 2 ft (assist by A. Horford),q1,195S
+25,2024-06-06T20:33:33Z,K. Irving misses 2-pt jump shot from 10 ft (block by A. Horford),,9-10,,,q1,213S
+26,2024-06-06T20:33:35Z,,,9-10,,Defensive rebound by J. Holiday,q1,215S
+27,2024-06-06T20:33:45Z,,,9-12,2,J. Holiday makes 2-pt layup from 2 ft (assist by J. Brown),q1,225S
+28,2024-06-06T20:34:03Z,L. Dončić misses 3-pt jump shot from 26 ft,,9-12,,,q1,243S
+29,2024-06-06T20:34:04Z,,,9-12,,Defensive rebound by J. Tatum,q1,244S
+30,2024-06-06T20:34:20Z,,,9-12,,A. Horford misses 3-pt jump shot from 24 ft,q1,260S
+31,2024-06-06T20:34:21Z,Defensive rebound by D. Jones,,9-12,,,q1,261S
+32,2024-06-06T20:34:27Z,K. Irving makes 2-pt jump shot from 13 ft,2,11-12,,,q1,267S
+33,2024-06-06T20:34:43Z,,,11-12,,Turnover by J. Tatum (bad pass),q1,283S
+34,2024-06-06T20:34:43Z,,,11-12,,Loose ball foul by J. Brown (drawn by K. Irving),q1,283S
+35,2024-06-06T20:34:43Z,D. Lively enters the game for D. Gafford,,11-12,,,q1,283S
+36,2024-06-06T20:34:43Z,,,11-12,,K. Porziņģis enters the game for A. Horford,q1,283S
+37,2024-06-06T20:34:51Z,K. Irving makes 2-pt jump shot from 16 ft (assist by D. Lively),2,13-12,,,q1,291S
+38,2024-06-06T20:35:02Z,,,13-12,,Boston full timeout,q1,302S
+39,2024-06-06T20:35:05Z,,,13-12,,Shooting foul by P. Washington (drawn by J. Brown),q1,305S
+40,2024-06-06T20:35:05Z,,,13-13,1,J. Brown makes free throw 1 of 2,q1,305S
+41,2024-06-06T20:35:05Z,,,13-14,1,J. Brown makes free throw 2 of 2,q1,305S
+42,2024-06-06T20:35:22Z,L. Dončić makes 2-pt jump shot from 3 ft,2,15-14,,,q1,322S
+43,2024-06-06T20:35:41Z,,,15-17,3,D. White makes 3-pt jump shot from 26 ft (assist by J. Tatum),q1,341S
+44,2024-06-06T20:35:56Z,D. Jones misses 3-pt jump shot from 27 ft,,15-17,,,q1,356S
+45,2024-06-06T20:35:57Z,,,15-17,,Defensive rebound by J. Holiday,q1,357S
+46,2024-06-06T20:36:05Z,,,15-20,3,D. White makes 3-pt jump shot from 26 ft (assist by J. Holiday),q1,365S
+47,2024-06-06T20:36:19Z,D. Jones misses 2-pt layup from 5 ft,,15-20,,,q1,379S
+48,2024-06-06T20:36:20Z,,,15-20,,Defensive rebound by K. Porziņģis,q1,380S
+49,2024-06-06T20:36:36Z,,,15-20,,Shooting foul by L. Dončić (drawn by K. Porziņģis),q1,396S
+50,2024-06-06T20:36:36Z,,,15-21,1,K. Porziņģis makes free throw 1 of 2,q1,396S
+51,2024-06-06T20:36:36Z,J. Green enters the game for K. Irving,,15-21,,,q1,396S
+52,2024-06-06T20:36:36Z,J. Hardy enters the game for D. Jones,,15-21,,,q1,396S
+53,2024-06-06T20:36:36Z,,,15-21,,S. Hauser enters the game for J. Holiday,q1,396S
+54,2024-06-06T20:36:36Z,,,15-22,1,K. Porziņģis makes free throw 2 of 2,q1,396S
+55,2024-06-06T20:36:49Z,L. Dončić makes 3-pt jump shot from 27 ft,3,18-22,,,q1,409S
+56,2024-06-06T20:37:06Z,,,18-24,2,K. Porziņģis makes 2-pt jump shot from 13 ft,q1,426S
+57,2024-06-06T20:37:22Z,Turnover by L. Dončić (lost ball; steal by J. Brown),,18-24,,,q1,442S
+58,2024-06-06T20:37:32Z,,,18-24,,Turnover by D. White (bad pass; steal by D. Lively),q1,452S
+59,2024-06-06T20:37:38Z,P. Washington misses 2-pt layup from 5 ft,,18-24,,,q1,458S
+60,2024-06-06T20:37:39Z,,,18-24,,Defensive rebound by J. Tatum,q1,459S
+61,2024-06-06T20:37:43Z,,,18-24,,Personal foul by P. Washington (drawn by J. Tatum),q1,463S
+62,2024-06-06T20:37:43Z,M. Kleber enters the game for P. Washington,,18-24,,,q1,463S
+63,2024-06-06T20:37:51Z,,,18-24,,K. Porziņģis misses 3-pt jump shot from 26 ft,q1,471S
+64,2024-06-06T20:37:52Z,Defensive rebound by L. Dončić,,18-24,,,q1,472S
+65,2024-06-06T20:38:04Z,L. Dončić misses 3-pt jump shot from 27 ft,,18-24,,,q1,484S
+66,2024-06-06T20:38:05Z,,,18-24,,Defensive rebound by K. Porziņģis,q1,485S
+67,2024-06-06T20:38:18Z,,,18-24,,Turnover by J. Brown (bad pass),q1,498S
+68,2024-06-06T20:38:32Z,J. Green misses 2-pt jump shot from 12 ft,,18-24,,,q1,512S
+69,2024-06-06T20:38:33Z,Offensive rebound by J. Green,,18-24,,,q1,513S
+70,2024-06-06T20:38:34Z,L. Dončić misses 3-pt jump shot from 26 ft,,18-24,,,q1,514S
+71,2024-06-06T20:38:35Z,,,18-24,,Defensive rebound by S. Hauser,q1,515S
+72,2024-06-06T20:38:44Z,,,18-24,,J. Tatum misses 2-pt layup from 5 ft,q1,524S
+73,2024-06-06T20:38:45Z,Defensive rebound by J. Hardy,,18-24,,,q1,525S
+74,2024-06-06T20:38:50Z,J. Hardy misses 2-pt jump shot from 5 ft,,18-24,,,q1,530S
+75,2024-06-06T20:38:51Z,,,18-24,,Defensive rebound by Team,q1,531S
+76,2024-06-06T20:38:51Z,K. Irving enters the game for L. Dončić,,18-24,,,q1,531S
+77,2024-06-06T20:39:08Z,,,18-26,2,K. Porziņģis makes 2-pt dunk from 2 ft,q1,548S
+78,2024-06-06T20:39:24Z,J. Hardy misses 2-pt layup from 6 ft,,18-26,,,q1,564S
+79,2024-06-06T20:39:26Z,,,18-26,,Defensive rebound by J. Brown,q1,566S
+80,2024-06-06T20:39:39Z,,,18-28,2,K. Porziņģis makes 2-pt jump shot from 16 ft,q1,579S
+81,2024-06-06T20:39:40Z,Dallas full timeout,,18-28,,,q1,580S
+82,2024-06-06T20:39:40Z,D. Gafford enters the game for D. Lively,,18-28,,,q1,580S
+83,2024-06-06T20:39:40Z,,,18-28,,J. Holiday enters the game for J. Brown,q1,580S
+84,2024-06-06T20:39:40Z,,,18-28,,P. Pritchard enters the game for D. White,q1,580S
+85,2024-06-06T20:40:02Z,J. Hardy makes 2-pt jump shot from 14 ft,2,20-28,,,q1,602S
+86,2024-06-06T20:40:23Z,,,20-31,3,J. Tatum makes 3-pt jump shot from 27 ft,q1,623S
+87,2024-06-06T20:40:43Z,K. Irving misses 3-pt jump shot from 24 ft,,20-31,,,q1,643S
+88,2024-06-06T20:40:45Z,,,20-31,,Defensive rebound by J. Tatum,q1,645S
+89,2024-06-06T20:40:51Z,,,20-34,3,K. Porziņģis makes 3-pt jump shot from 29 ft (assist by P. Pritchard),q1,651S
+90,2024-06-06T20:41:02Z,K. Irving misses 2-pt jump shot from 14 ft (block by K. Porziņģis),,20-34,,,q1,662S
+91,2024-06-06T20:41:03Z,,,20-34,,Defensive rebound by K. Porziņģis,q1,663S
+92,2024-06-06T20:41:09Z,,,20-37,3,S. Hauser makes 3-pt jump shot from 23 ft (assist by J. Holiday),q1,669S
+93,2024-06-06T20:41:21Z,J. Hardy misses 3-pt jump shot from 27 ft,,20-37,,,q1,681S
+94,2024-06-06T20:41:25Z,,,20-37,,Defensive rebound by P. Pritchard,q1,685S
+95,2024-06-06T20:41:47Z,,,20-37,,Turnover by J. Tatum (lost ball; steal by K. Irving),q1,707S
+96,2024-06-06T20:41:51Z,J. Green misses 2-pt dunk from 4 ft (block by K. Porziņģis),,20-37,,,q1,711S
+97,2024-06-06T20:41:54Z,,,20-37,,Defensive rebound by S. Hauser,q1,714S
+98,2024-06-06T20:41:57Z,,,20-37,,P. Pritchard misses 3-pt jump shot from 33 ft,q1,717S
+99,2024-06-06T20:41:58Z,,,20-37,,Offensive rebound by J. Holiday,q1,718S
+100,2024-06-06T20:42:00Z,,,20-37,,J. Holiday misses 2-pt hook shot from 8 ft,q1,720S
+101,2024-06-06T20:42:00Z,,,20-37,,Offensive rebound by Team,q1,720S
+102,2024-06-06T20:30:21Z,K. Irving misses 2-pt layup from 4 ft,,20-37,,,q2,21S
+103,2024-06-06T20:30:22Z,Offensive rebound by Team,,20-37,,,q2,22S
+104,2024-06-06T20:30:31Z,K. Irving makes 2-pt hook shot from 5 ft,2,22-37,,,q2,31S
+105,2024-06-06T20:30:50Z,,,22-37,,P. Pritchard misses 3-pt jump shot from 23 ft,q2,50S
+106,2024-06-06T20:30:51Z,,,22-37,,Offensive rebound by P. Pritchard,q2,51S
+107,2024-06-06T20:31:04Z,,,22-39,2,J. Brown makes 2-pt jump shot from 8 ft,q2,64S
+108,2024-06-06T20:31:20Z,D. Gafford makes 2-pt hook shot from 4 ft,2,24-39,,,q2,80S
+109,2024-06-06T20:31:30Z,,,24-42,3,S. Hauser makes 3-pt jump shot from 23 ft (assist by J. Holiday),q2,90S
+110,2024-06-06T20:31:41Z,Shooting foul by S. Hauser (drawn by P. Washington),,24-42,,,q2,101S
+111,2024-06-06T20:31:41Z,P. Washington makes free throw 1 of 2,1,25-42,,,q2,101S
+112,2024-06-06T20:31:41Z,P. Washington makes free throw 2 of 2,1,26-42,,,q2,101S
+113,2024-06-06T20:31:53Z,,,26-44,2,J. Brown makes 2-pt dunk from 2 ft,q2,113S
+114,2024-06-06T20:32:03Z,K. Irving misses 3-pt jump shot from 28 ft,,26-44,,,q2,123S
+115,2024-06-06T20:32:05Z,,,26-44,,Defensive rebound by A. Horford,q2,125S
+116,2024-06-06T20:32:20Z,,,26-44,,P. Pritchard misses 3-pt jump shot from 23 ft,q2,140S
+117,2024-06-06T20:32:21Z,Defensive rebound by P. Washington,,26-44,,,q2,141S
+118,2024-06-06T20:32:30Z,K. Irving misses 2-pt layup from 5 ft,,26-44,,,q2,150S
+119,2024-06-06T20:32:34Z,,,26-44,,Defensive rebound by J. Brown,q2,154S
+120,2024-06-06T20:32:40Z,,,26-44,,Personal foul by K. Irving (drawn by J. Brown),q2,160S
+121,2024-06-06T20:32:40Z,D. Lively enters the game for D. Gafford,,26-44,,,q2,160S
+122,2024-06-06T20:32:40Z,,,26-44,,K. Porziņģis enters the game for S. Hauser,q2,160S
+123,2024-06-06T20:32:58Z,,,26-44,,P. Pritchard misses 3-pt jump shot from 30 ft,q2,178S
+124,2024-06-06T20:33:00Z,Defensive rebound by D. Lively,,26-44,,,q2,180S
+125,2024-06-06T20:33:11Z,Shooting foul by P. Pritchard (drawn by L. Dončić),,26-44,,,q2,191S
+126,2024-06-06T20:33:11Z,L. Dončić misses free throw 1 of 2,,26-44,,,q2,191S
+127,2024-06-06T20:33:11Z,Offensive rebound by Team,,26-44,,,q2,191S
+128,2024-06-06T20:33:11Z,J. Green enters the game for K. Irving,,26-44,,,q2,191S
+129,2024-06-06T20:33:11Z,,,26-44,,J. Tatum enters the game for J. Holiday,q2,191S
+130,2024-06-06T20:33:11Z,,,26-44,,D. White enters the game for P. Pritchard,q2,191S
+131,2024-06-06T20:33:11Z,L. Dončić makes free throw 2 of 2,1,27-44,,,q2,191S
+132,2024-06-06T20:33:33Z,,,27-44,,K. Porziņģis misses 2-pt layup from 4 ft,q2,213S
+133,2024-06-06T20:33:34Z,Defensive rebound by D. Lively,,27-44,,,q2,214S
+134,2024-06-06T20:33:44Z,Personal foul by K. Porziņģis (drawn by D. Lively),,27-44,,,q2,224S
+135,2024-06-06T20:33:57Z,Turnover by D. Lively (out of bounds lost ball),,27-44,,,q2,237S
+136,2024-06-06T20:34:12Z,,,27-44,,J. Tatum misses 3-pt jump shot from 27 ft,q2,252S
+137,2024-06-06T20:34:14Z,Defensive rebound by P. Washington,,27-44,,,q2,254S
+138,2024-06-06T20:34:28Z,P. Washington misses 3-pt jump shot from 28 ft,,27-44,,,q2,268S
+139,2024-06-06T20:34:29Z,,,27-44,,Defensive rebound by A. Horford,q2,269S
+140,2024-06-06T20:34:50Z,,,27-46,2,K. Porziņģis makes 2-pt jump shot from 15 ft,q2,290S
+141,2024-06-06T20:35:03Z,L. Dončić misses 3-pt jump shot from 27 ft,,27-46,,,q2,303S
+142,2024-06-06T20:35:05Z,,,27-46,,Defensive rebound by D. White,q2,305S
+143,2024-06-06T20:35:30Z,,,27-48,2,K. Porziņģis makes 2-pt jump shot from 19 ft,q2,330S
+144,2024-06-06T20:35:31Z,Dallas full timeout,,27-48,,,q2,331S
+145,2024-06-06T20:35:31Z,K. Irving enters the game for J. Green,,27-48,,,q2,331S
+146,2024-06-06T20:35:31Z,M. Kleber enters the game for D. Lively,,27-48,,,q2,331S
+147,2024-06-06T20:35:31Z,,,27-48,,J. Holiday enters the game for K. Porziņģis,q2,331S
+148,2024-06-06T20:35:49Z,D. Jones makes 2-pt jump shot from 6 ft (assist by K. Irving),2,29-48,,,q2,349S
+149,2024-06-06T20:36:05Z,,,29-48,,J. Holiday misses 3-pt jump shot from 27 ft,q2,365S
+150,2024-06-06T20:36:06Z,Defensive rebound by P. Washington,,29-48,,,q2,366S
+151,2024-06-06T20:36:24Z,Personal foul by J. Holiday (drawn by L. Dončić),,29-48,,,q2,384S
+152,2024-06-06T20:36:34Z,L. Dončić misses 2-pt layup from 5 ft,,29-48,,,q2,394S
+153,2024-06-06T20:36:35Z,,,29-48,,Defensive rebound by J. Tatum,q2,395S
+154,2024-06-06T20:36:45Z,,,29-51,3,J. Brown makes 3-pt jump shot from 23 ft (assist by A. Horford),q2,405S
+155,2024-06-06T20:36:55Z,Turnover by L. Dončić (lost ball; steal by J. Brown),,29-51,,,q2,415S
+156,2024-06-06T20:36:59Z,,,29-53,2,J. Brown makes 2-pt dunk from 1 ft,q2,419S
+157,2024-06-06T20:37:11Z,Offensive foul by M. Kleber (drawn by J. Holiday),,29-53,,,q2,431S
+158,2024-06-06T20:37:11Z,Turnover by M. Kleber (offensive foul),,29-53,,,q2,431S
+159,2024-06-06T20:37:27Z,,,29-55,2,D. White makes 2-pt dunk from 2 ft (assist by J. Holiday),q2,447S
+160,2024-06-06T20:37:41Z,Turnover by K. Irving (bad pass),,29-55,,,q2,461S
+161,2024-06-06T20:37:49Z,,,29-58,3,J. Tatum makes 3-pt jump shot from 27 ft (assist by D. White),q2,469S
+162,2024-06-06T20:38:01Z,L. Dončić makes 2-pt layup from 2 ft,2,31-58,,,q2,481S
+163,2024-06-06T20:38:01Z,J. Green enters the game for D. Jones,,31-58,,,q2,481S
+164,2024-06-06T20:38:26Z,,,31-58,,J. Tatum misses 2-pt jump shot from 7 ft (block by M. Kleber),q2,506S
+165,2024-06-06T20:38:27Z,,,31-58,,Offensive rebound by Team,q2,507S
+166,2024-06-06T20:38:27Z,,,31-58,,Turnover by Team (shot clock),q2,507S
+167,2024-06-06T20:38:44Z,P. Washington misses 3-pt jump shot from 27 ft,,31-58,,,q2,524S
+168,2024-06-06T20:38:45Z,,,31-58,,Defensive rebound by J. Holiday,q2,525S
+169,2024-06-06T20:38:55Z,,,31-58,,D. White misses 3-pt jump shot from 23 ft,q2,535S
+170,2024-06-06T20:38:57Z,Defensive rebound by P. Washington,,31-58,,,q2,537S
+171,2024-06-06T20:38:58Z,Personal foul by J. Holiday (drawn by P. Washington),,31-58,,,q2,538S
+172,2024-06-06T20:38:58Z,P. Washington misses free throw 1 of 2,,31-58,,,q2,538S
+173,2024-06-06T20:38:58Z,Offensive rebound by Team,,31-58,,,q2,538S
+174,2024-06-06T20:38:58Z,P. Washington misses free throw 2 of 2,,31-58,,,q2,538S
+175,2024-06-06T20:38:58Z,,,31-58,,Defensive rebound by J. Tatum,q2,538S
+176,2024-06-06T20:39:04Z,,,31-58,,Turnover by J. Tatum (bad pass; steal by K. Irving),q2,544S
+177,2024-06-06T20:39:10Z,L. Dončić makes 2-pt jump shot from 6 ft,2,33-58,,,q2,550S
+178,2024-06-06T20:39:10Z,,,33-58,,Boston full timeout,q2,550S
+179,2024-06-06T20:39:10Z,,,33-58,,K. Porziņģis enters the game for J. Holiday,q2,550S
+180,2024-06-06T20:39:28Z,,,33-60,2,J. Tatum makes 2-pt dunk from 2 ft (assist by D. White),q2,568S
+181,2024-06-06T20:39:52Z,L. Dončić misses 2-pt hook shot from 7 ft,,33-60,,,q2,592S
+182,2024-06-06T20:39:52Z,Offensive rebound by P. Washington,,33-60,,,q2,592S
+183,2024-06-06T20:39:54Z,P. Washington makes 2-pt dunk from 3 ft,2,35-60,,,q2,594S
+184,2024-06-06T20:40:12Z,,,35-63,3,K. Porziņģis makes 3-pt jump shot from 26 ft (assist by D. White),q2,612S
+185,2024-06-06T20:40:35Z,M. Kleber makes 2-pt layup from 6 ft (assist by K. Irving),2,37-63,,,q2,635S
+186,2024-06-06T20:40:42Z,,,37-63,,Shooting foul by M. Kleber (drawn by J. Brown),q2,642S
+187,2024-06-06T20:40:42Z,,,37-63,,J. Brown misses free throw 1 of 2,q2,642S
+188,2024-06-06T20:40:42Z,,,37-63,,Offensive rebound by Team,q2,642S
+189,2024-06-06T20:40:42Z,D. Jones enters the game for P. Washington,,37-63,,,q2,642S
+190,2024-06-06T20:40:42Z,,,37-63,,J. Brown misses free throw 2 of 2,q2,642S
+191,2024-06-06T20:40:42Z,Defensive rebound by L. Dončić,,37-63,,,q2,642S
+192,2024-06-06T20:41:05Z,L. Dončić makes 2-pt jump shot from 15 ft,2,39-63,,,q2,665S
+193,2024-06-06T20:41:27Z,,,39-63,,J. Tatum misses 3-pt jump shot from 27 ft,q2,687S
+194,2024-06-06T20:41:27Z,Defensive rebound by K. Irving,,39-63,,,q2,687S
+195,2024-06-06T20:41:51Z,L. Dončić makes 3-pt jump shot from 27 ft,3,42-63,,,q2,711S
+196,2024-06-06T20:41:59Z,,,42-63,,J. Tatum misses 3-pt jump shot from 27 ft,q2,719S
+197,2024-06-06T20:42:00Z,Defensive rebound by L. Dončić,,42-63,,,q2,720S
+198,2024-06-06T20:30:19Z,L. Dončić makes 2-pt layup from 2 ft,2,44-63,,,q3,19S
+199,2024-06-06T20:30:38Z,,,44-66,3,D. White makes 3-pt jump shot from 27 ft (assist by J. Tatum),q3,38S
+200,2024-06-06T20:31:00Z,K. Irving misses 2-pt jump shot from 15 ft,,44-66,,,q3,60S
+201,2024-06-06T20:31:01Z,Offensive rebound by D. Gafford,,44-66,,,q3,61S
+202,2024-06-06T20:31:01Z,D. Gafford makes 2-pt layup at rim,2,46-66,,,q3,61S
+203,2024-06-06T20:31:12Z,,,46-66,,D. White misses 3-pt jump shot from 27 ft,q3,72S
+204,2024-06-06T20:31:14Z,Defensive rebound by D. Jones,,46-66,,,q3,74S
+205,2024-06-06T20:31:33Z,L. Dončić misses 2-pt jump shot from 4 ft,,46-66,,,q3,93S
+206,2024-06-06T20:31:34Z,,,46-66,,Defensive rebound by A. Horford,q3,94S
+207,2024-06-06T20:31:44Z,,,46-66,,J. Brown misses 3-pt jump shot from 24 ft,q3,104S
+208,2024-06-06T20:31:45Z,Defensive rebound by P. Washington,,46-66,,,q3,105S
+209,2024-06-06T20:31:54Z,K. Irving makes 2-pt jump shot from 10 ft,2,48-66,,,q3,114S
+210,2024-06-06T20:32:13Z,,,48-66,,Turnover by J. Tatum (lost ball; steal by L. Dončić),q3,133S
+211,2024-06-06T20:32:20Z,K. Irving misses 3-pt jump shot from 31 ft,,48-66,,,q3,140S
+212,2024-06-06T20:32:23Z,,,48-66,,Defensive rebound by Team,q3,143S
+213,2024-06-06T20:32:38Z,,,48-66,,A. Horford misses 2-pt jump shot from 16 ft,q3,158S
+214,2024-06-06T20:32:40Z,Defensive rebound by L. Dončić,,48-66,,,q3,160S
+215,2024-06-06T20:32:49Z,K. Irving misses 2-pt jump shot from 10 ft,,48-66,,,q3,169S
+216,2024-06-06T20:32:52Z,,,48-66,,Defensive rebound by J. Holiday,q3,172S
+217,2024-06-06T20:32:59Z,,,48-66,,D. White misses 3-pt jump shot from 24 ft,q3,179S
+218,2024-06-06T20:33:01Z,Defensive rebound by L. Dončić,,48-66,,,q3,181S
+219,2024-06-06T20:33:12Z,L. Dončić misses 3-pt jump shot from 26 ft (block by A. Horford),,48-66,,,q3,192S
+220,2024-06-06T20:33:14Z,,,48-66,,Defensive rebound by J. Brown,q3,194S
+221,2024-06-06T20:33:16Z,,,48-66,,Offensive foul by J. Brown (drawn by L. Dončić),q3,196S
+222,2024-06-06T20:33:16Z,,,48-66,,Turnover by J. Brown (offensive foul),q3,196S
+223,2024-06-06T20:33:16Z,D. Lively enters the game for D. Gafford,,48-66,,,q3,196S
+224,2024-06-06T20:33:33Z,Turnover by K. Irving (lost ball; steal by J. Holiday),,48-66,,,q3,213S
+225,2024-06-06T20:33:37Z,,,48-66,,J. Holiday misses 3-pt jump shot from 26 ft,q3,217S
+226,2024-06-06T20:33:38Z,,,48-66,,Offensive rebound by D. White,q3,218S
+227,2024-06-06T20:33:38Z,,,48-66,,Shooting foul by D. Lively (drawn by D. White),q3,218S
+228,2024-06-06T20:33:38Z,,,48-67,1,D. White makes free throw 1 of 2,q3,218S
+229,2024-06-06T20:33:38Z,,,48-68,1,D. White makes free throw 2 of 2,q3,218S
+230,2024-06-06T20:33:50Z,K. Irving makes 2-pt layup from 2 ft,2,50-68,,,q3,230S
+231,2024-06-06T20:34:10Z,,,50-68,,Turnover by J. Tatum (bad pass),q3,250S
+232,2024-06-06T20:34:16Z,P. Washington makes 2-pt layup from 2 ft,2,52-68,,,q3,256S
+233,2024-06-06T20:34:17Z,,,52-68,,Boston full timeout,q3,257S
+234,2024-06-06T20:34:41Z,,,52-68,,D. White misses 2-pt jump shot from 20 ft,q3,281S
+235,2024-06-06T20:34:43Z,Defensive rebound by L. Dončić,,52-68,,,q3,283S
+236,2024-06-06T20:34:53Z,L. Dončić makes 2-pt layup from 3 ft,2,54-68,,,q3,293S
+237,2024-06-06T20:35:06Z,,,54-68,,Shooting foul by D. Jones (drawn by J. Holiday),q3,306S
+238,2024-06-06T20:35:06Z,,,54-68,,K. Porziņģis enters the game for A. Horford,q3,306S
+239,2024-06-06T20:35:06Z,,,54-69,1,J. Holiday makes free throw 1 of 2,q3,306S
+240,2024-06-06T20:35:06Z,,,54-70,1,J. Holiday makes free throw 2 of 2,q3,306S
+241,2024-06-06T20:35:19Z,P. Washington misses 2-pt layup from 4 ft,,54-70,,,q3,319S
+242,2024-06-06T20:35:20Z,Offensive rebound by P. Washington,,54-70,,,q3,320S
+243,2024-06-06T20:35:20Z,Shooting foul by D. White (drawn by P. Washington),,54-70,,,q3,320S
+244,2024-06-06T20:35:20Z,P. Washington makes free throw 1 of 2,1,55-70,,,q3,320S
+245,2024-06-06T20:35:20Z,P. Washington makes free throw 2 of 2,1,56-70,,,q3,320S
+246,2024-06-06T20:35:31Z,,,56-70,,Personal foul by D. Lively (drawn by K. Porziņģis),q3,331S
+247,2024-06-06T20:35:38Z,,,56-72,2,J. Tatum makes 2-pt layup from 3 ft,q3,338S
+248,2024-06-06T20:35:47Z,L. Dončić makes 3-pt jump shot from 28 ft,3,59-72,,,q3,347S
+249,2024-06-06T20:36:12Z,,,59-72,,J. Brown misses 3-pt jump shot from 29 ft,q3,372S
+250,2024-06-06T20:36:14Z,Defensive rebound by L. Dončić,,59-72,,,q3,374S
+251,2024-06-06T20:36:22Z,D. Jones misses 2-pt layup from 2 ft (block by J. Tatum),,59-72,,,q3,382S
+252,2024-06-06T20:36:24Z,Offensive rebound by D. Lively,,59-72,,,q3,384S
+253,2024-06-06T20:36:25Z,K. Irving misses 3-pt jump shot from 26 ft,,59-72,,,q3,385S
+254,2024-06-06T20:36:26Z,,,59-72,,Defensive rebound by J. Holiday,q3,386S
+255,2024-06-06T20:36:27Z,,,59-72,,Personal foul by D. Lively (drawn by J. Holiday),q3,387S
+256,2024-06-06T20:36:27Z,M. Kleber enters the game for D. Jones,,59-72,,,q3,387S
+257,2024-06-06T20:36:48Z,,,59-72,,Turnover by K. Porziņģis (lost ball; steal by L. Dončić),q3,408S
+258,2024-06-06T20:37:00Z,K. Irving makes 2-pt jump shot from 10 ft,2,61-72,,,q3,420S
+259,2024-06-06T20:37:20Z,,,61-72,,J. Holiday misses 3-pt jump shot from 24 ft,q3,440S
+260,2024-06-06T20:37:21Z,Defensive rebound by Team,,61-72,,,q3,441S
+261,2024-06-06T20:37:21Z,,,61-72,,Loose ball foul by D. White (drawn by P. Washington),q3,441S
+262,2024-06-06T20:37:21Z,,,61-72,,S. Hauser enters the game for D. White,q3,441S
+263,2024-06-06T20:37:32Z,L. Dončić makes 3-pt jump shot from 28 ft,3,64-72,,,q3,452S
+264,2024-06-06T20:37:33Z,,,64-72,,Boston full timeout,q3,453S
+265,2024-06-06T20:37:52Z,,,64-72,,J. Tatum misses 2-pt layup from 5 ft,q3,472S
+266,2024-06-06T20:37:53Z,Defensive rebound by D. Lively,,64-72,,,q3,473S
+267,2024-06-06T20:37:55Z,Turnover by D. Lively (traveling),,64-72,,,q3,475S
+268,2024-06-06T20:38:05Z,,,64-72,,Shooting foul by D. Lively (drawn by J. Brown),q3,485S
+269,2024-06-06T20:38:05Z,,,64-73,1,J. Brown makes free throw 1 of 2,q3,485S
+270,2024-06-06T20:38:05Z,,,64-73,,J. Brown misses free throw 2 of 2,q3,485S
+271,2024-06-06T20:38:05Z,Defensive rebound by L. Dončić,,64-73,,,q3,485S
+272,2024-06-06T20:38:25Z,Turnover by K. Irving (traveling),,64-73,,,q3,505S
+273,2024-06-06T20:38:40Z,,,64-73,,K. Porziņģis misses 3-pt jump shot from 27 ft,q3,520S
+274,2024-06-06T20:38:42Z,,,64-73,,Offensive rebound by J. Tatum,q3,522S
+275,2024-06-06T20:38:45Z,,,64-75,2,K. Porziņģis makes 2-pt dunk from 3 ft (assist by J. Tatum),q3,525S
+276,2024-06-06T20:38:59Z,K. Irving misses 3-pt jump shot from 26 ft,,64-75,,,q3,539S
+277,2024-06-06T20:39:00Z,,,64-75,,Defensive rebound by K. Porziņģis,q3,540S
+278,2024-06-06T20:39:16Z,,,64-75,,Shooting foul by D. Lively (drawn by J. Brown),q3,556S
+279,2024-06-06T20:39:16Z,,,64-76,1,J. Brown makes free throw 1 of 2,q3,556S
+280,2024-06-06T20:39:16Z,T. Hardaway enters the game for K. Irving,,64-76,,,q3,556S
+281,2024-06-06T20:39:16Z,D. Jones enters the game for D. Lively,,64-76,,,q3,556S
+282,2024-06-06T20:39:16Z,,,64-76,,A. Horford enters the game for K. Porziņģis,q3,556S
+283,2024-06-06T20:39:16Z,,,64-77,1,J. Brown makes free throw 2 of 2,q3,556S
+284,2024-06-06T20:39:26Z,D. Jones misses 2-pt dunk from 2 ft (block by J. Brown),,64-77,,,q3,566S
+285,2024-06-06T20:39:27Z,Offensive rebound by D. Jones,,64-77,,,q3,567S
+286,2024-06-06T20:39:34Z,D. Jones misses 2-pt dunk from 5 ft (block by J. Brown),,64-77,,,q3,574S
+287,2024-06-06T20:39:36Z,,,64-77,,Defensive rebound by J. Tatum,q3,576S
+288,2024-06-06T20:39:38Z,,,64-77,,A. Horford misses 3-pt jump shot from 26 ft,q3,578S
+289,2024-06-06T20:39:41Z,Defensive rebound by L. Dončić,,64-77,,,q3,581S
+290,2024-06-06T20:39:49Z,L. Dončić misses 3-pt jump shot from 28 ft,,64-77,,,q3,589S
+291,2024-06-06T20:39:51Z,,,64-77,,Defensive rebound by S. Hauser,q3,591S
+292,2024-06-06T20:40:08Z,,,64-80,3,J. Tatum makes 3-pt jump shot from 26 ft (assist by J. Holiday),q3,608S
+293,2024-06-06T20:40:09Z,Dallas full timeout,,64-80,,,q3,609S
+294,2024-06-06T20:40:21Z,L. Dončić misses 3-pt jump shot from 26 ft,,64-80,,,q3,621S
+295,2024-06-06T20:40:23Z,,,64-80,,Defensive rebound by J. Brown,q3,623S
+296,2024-06-06T20:40:23Z,D. Gafford enters the game for L. Dončić,,64-80,,,q3,623S
+297,2024-06-06T20:40:23Z,K. Irving enters the game for P. Washington,,64-80,,,q3,623S
+298,2024-06-06T20:40:47Z,,,64-83,3,A. Horford makes 3-pt jump shot from 23 ft (assist by J. Brown),q3,647S
+299,2024-06-06T20:41:00Z,K. Irving misses 2-pt layup from 3 ft (block by J. Brown),,64-83,,,q3,660S
+300,2024-06-06T20:41:01Z,Offensive rebound by Team,,64-83,,,q3,661S
+301,2024-06-06T20:41:09Z,K. Irving misses 2-pt layup from 3 ft,,64-83,,,q3,669S
+302,2024-06-06T20:41:10Z,,,64-83,,Defensive rebound by Team,q3,670S
+303,2024-06-06T20:41:26Z,,,64-86,3,J. Brown makes 3-pt jump shot from 27 ft,q3,686S
+304,2024-06-06T20:41:45Z,T. Hardaway misses 2-pt jump shot from 16 ft,,64-86,,,q3,705S
+305,2024-06-06T20:41:46Z,Offensive rebound by D. Gafford,,64-86,,,q3,706S
+306,2024-06-06T20:41:46Z,Shooting foul by S. Hauser (drawn by D. Gafford),,64-86,,,q3,706S
+307,2024-06-06T20:41:46Z,D. Gafford makes free throw 1 of 2,1,65-86,,,q3,706S
+308,2024-06-06T20:41:46Z,J. Green enters the game for K. Irving,,65-86,,,q3,706S
+309,2024-06-06T20:41:46Z,D. Gafford makes free throw 2 of 2,1,66-86,,,q3,706S
+310,2024-06-06T20:41:58Z,,,66-86,,J. Brown misses 2-pt layup from 6 ft,q3,718S
+311,2024-06-06T20:42:00Z,Defensive rebound by D. Jones,,66-86,,,q3,720S
+312,2024-06-06T20:30:21Z,,,66-88,2,J. Brown makes 2-pt layup from 3 ft (assist by D. White),q4,21S
+313,2024-06-06T20:30:42Z,D. Jones misses 2-pt dunk from 4 ft (block by K. Porziņģis),,66-88,,,q4,42S
+314,2024-06-06T20:30:44Z,Offensive rebound by D. Jones,,66-88,,,q4,44S
+315,2024-06-06T20:30:49Z,P. Washington makes 2-pt layup from 1 ft (assist by M. Kleber),2,68-88,,,q4,49S
+316,2024-06-06T20:31:00Z,,,68-88,,Personal foul by K. Irving (drawn by D. White),q4,60S
+317,2024-06-06T20:31:12Z,,,68-88,,J. Tatum misses 3-pt jump shot from 28 ft,q4,72S
+318,2024-06-06T20:31:14Z,Defensive rebound by K. Irving,,68-88,,,q4,74S
+319,2024-06-06T20:31:23Z,L. Dončić makes 2-pt layup from 4 ft,2,70-88,,,q4,83S
+320,2024-06-06T20:31:23Z,Shooting foul by J. Brown (drawn by L. Dončić),,70-88,,,q4,83S
+321,2024-06-06T20:31:23Z,L. Dončić misses free throw 1 of 1,,70-88,,,q4,83S
+322,2024-06-06T20:31:23Z,,,70-88,,Defensive rebound by K. Porziņģis,q4,83S
+323,2024-06-06T20:31:23Z,,,70-88,,J. Holiday enters the game for J. Brown,q4,83S
+324,2024-06-06T20:31:46Z,,,70-88,,Turnover by D. White (bad pass; steal by D. Jones),q4,106S
+325,2024-06-06T20:31:52Z,D. Jones misses 2-pt layup from 2 ft,,70-88,,,q4,112S
+326,2024-06-06T20:31:54Z,,,70-88,,Defensive rebound by K. Porziņģis,q4,114S
+327,2024-06-06T20:32:03Z,,,70-88,,K. Porziņģis misses 2-pt jump shot from 14 ft,q4,123S
+328,2024-06-06T20:32:05Z,Defensive rebound by D. Jones,,70-88,,,q4,125S
+329,2024-06-06T20:32:21Z,Shooting foul by D. White (drawn by L. Dončić),,70-88,,,q4,141S
+330,2024-06-06T20:32:21Z,L. Dončić makes free throw 1 of 2,1,71-88,,,q4,141S
+331,2024-06-06T20:32:21Z,D. Lively enters the game for M. Kleber,,71-88,,,q4,141S
+332,2024-06-06T20:32:21Z,L. Dončić misses free throw 2 of 2,,71-88,,,q4,141S
+333,2024-06-06T20:32:23Z,Offensive rebound by Team,,71-88,,,q4,143S
+334,2024-06-06T20:32:30Z,L. Dončić misses 3-pt jump shot from 27 ft,,71-88,,,q4,150S
+335,2024-06-06T20:32:31Z,,,71-88,,Defensive rebound by J. Holiday,q4,151S
+336,2024-06-06T20:32:42Z,,,71-90,2,J. Holiday makes 2-pt layup from 2 ft,q4,162S
+337,2024-06-06T20:32:51Z,P. Washington misses 3-pt jump shot from 23 ft,,71-90,,,q4,171S
+338,2024-06-06T20:32:52Z,,,71-90,,Defensive rebound by J. Tatum,q4,172S
+339,2024-06-06T20:33:06Z,,,71-90,,K. Porziņģis misses 2-pt jump shot from 16 ft,q4,186S
+340,2024-06-06T20:33:08Z,Defensive rebound by K. Irving,,71-90,,,q4,188S
+341,2024-06-06T20:33:22Z,Turnover by L. Dončić (lost ball; steal by D. White),,71-90,,,q4,202S
+342,2024-06-06T20:33:26Z,,,71-92,2,D. White makes 2-pt layup from 2 ft,q4,206S
+343,2024-06-06T20:33:26Z,Dallas full timeout,,71-92,,,q4,206S
+344,2024-06-06T20:33:26Z,J. Green enters the game for D. Jones,,71-92,,,q4,206S
+345,2024-06-06T20:33:26Z,,,71-92,,A. Horford enters the game for K. Porziņģis,q4,206S
+346,2024-06-06T20:33:43Z,L. Dončić misses 2-pt jump shot from 14 ft,,71-92,,,q4,223S
+347,2024-06-06T20:33:45Z,,,71-92,,Defensive rebound by J. Tatum,q4,225S
+348,2024-06-06T20:34:03Z,,,71-92,,J. Holiday misses 2-pt jump shot from 6 ft,q4,243S
+349,2024-06-06T20:34:04Z,Defensive rebound by D. Lively,,71-92,,,q4,244S
+350,2024-06-06T20:34:26Z,P. Washington misses 2-pt jump shot from 8 ft,,71-92,,,q4,266S
+351,2024-06-06T20:34:27Z,Offensive rebound by P. Washington,,71-92,,,q4,267S
+352,2024-06-06T20:34:30Z,P. Washington makes 2-pt layup from 3 ft,2,73-92,,,q4,270S
+353,2024-06-06T20:34:57Z,,,73-94,2,J. Tatum makes 2-pt jump shot from 19 ft,q4,297S
+354,2024-06-06T20:35:09Z,D. Lively makes 2-pt dunk from 2 ft (assist by P. Washington),2,75-94,,,q4,309S
+355,2024-06-06T20:35:33Z,,,75-94,,J. Tatum misses 2-pt jump shot from 21 ft,q4,333S
+356,2024-06-06T20:35:34Z,,,75-94,,Offensive rebound by J. Holiday,q4,334S
+357,2024-06-06T20:35:35Z,,,75-94,,J. Tatum misses 2-pt layup from 4 ft,q4,335S
+358,2024-06-06T20:35:36Z,,,75-94,,Offensive rebound by A. Horford,q4,336S
+359,2024-06-06T20:35:36Z,,,75-96,2,A. Horford makes 2-pt layup at rim,q4,336S
+360,2024-06-06T20:35:51Z,Shooting foul by J. Holiday (drawn by D. Lively),,75-96,,,q4,351S
+361,2024-06-06T20:35:51Z,D. Lively misses free throw 1 of 2,,75-96,,,q4,351S
+362,2024-06-06T20:35:51Z,Offensive rebound by Team,,75-96,,,q4,351S
+363,2024-06-06T20:35:51Z,,,75-96,,J. Brown enters the game for P. Pritchard,q4,351S
+364,2024-06-06T20:35:51Z,D. Lively misses free throw 2 of 2,,75-96,,,q4,351S
+365,2024-06-06T20:35:51Z,,,75-96,,Defensive rebound by A. Horford,q4,351S
+366,2024-06-06T20:36:11Z,,,75-99,3,J. Holiday makes 3-pt jump shot from 24 ft (assist by A. Horford),q4,371S
+367,2024-06-06T20:36:31Z,L. Dončić misses 2-pt jump shot from 8 ft,,75-99,,,q4,391S
+368,2024-06-06T20:36:32Z,,,75-99,,Defensive rebound by A. Horford,q4,392S
+369,2024-06-06T20:36:43Z,,,75-99,,Shooting foul by P. Washington (drawn by J. Brown),q4,403S
+370,2024-06-06T20:36:43Z,,,75-100,1,J. Brown makes free throw 1 of 3,q4,403S
+371,2024-06-06T20:36:43Z,,,75-100,,J. Brown misses free throw 2 of 3,q4,403S
+372,2024-06-06T20:36:43Z,,,75-100,,Offensive rebound by Team,q4,403S
+373,2024-06-06T20:36:43Z,D. Exum enters the game for L. Dončić,,75-100,,,q4,403S
+374,2024-06-06T20:36:43Z,J. Hardy enters the game for K. Irving,,75-100,,,q4,403S
+375,2024-06-06T20:36:43Z,,,75-100,,J. Brown misses free throw 3 of 3,q4,403S
+376,2024-06-06T20:36:43Z,Defensive rebound by J. Green,,75-100,,,q4,403S
+377,2024-06-06T20:36:59Z,J. Hardy misses 3-pt jump shot from 25 ft,,75-100,,,q4,419S
+378,2024-06-06T20:37:01Z,,,75-100,,Defensive rebound by J. Brown,q4,421S
+379,2024-06-06T20:37:02Z,,,75-100,,Boston full timeout,q4,422S
+380,2024-06-06T20:37:02Z,T. Hardaway enters the game for D. Lively,,75-100,,,q4,422S
+381,2024-06-06T20:37:02Z,D. Powell enters the game for P. Washington,,75-100,,,q4,422S
+382,2024-06-06T20:37:18Z,,,75-100,,J. Tatum misses 2-pt jump shot from 19 ft,q4,438S
+383,2024-06-06T20:37:19Z,Defensive rebound by J. Green,,75-100,,,q4,439S
+384,2024-06-06T20:37:34Z,J. Hardy makes 3-pt jump shot from 27 ft (assist by D. Exum),3,78-100,,,q4,454S
+385,2024-06-06T20:37:52Z,,,78-100,,Personal foul by J. Hardy (drawn by J. Tatum),q4,472S
+386,2024-06-06T20:37:52Z,,,78-100,,P. Pritchard enters the game for J. Brown,q4,472S
+387,2024-06-06T20:38:07Z,,,78-100,,P. Pritchard misses 2-pt jump shot from 21 ft,q4,487S
+388,2024-06-06T20:38:08Z,Defensive rebound by J. Hardy,,78-100,,,q4,488S
+389,2024-06-06T20:38:15Z,J. Hardy makes 2-pt layup from 2 ft,2,80-100,,,q4,495S
+390,2024-06-06T20:38:41Z,,,80-100,,Shooting foul by D. Powell (drawn by J. Tatum),q4,521S
+391,2024-06-06T20:38:41Z,,,80-101,1,J. Tatum makes free throw 1 of 2,q4,521S
+392,2024-06-06T20:38:41Z,,,80-101,,S. Hauser enters the game for J. Holiday,q4,521S
+393,2024-06-06T20:38:41Z,,,80-101,,L. Kornet enters the game for A. Horford,q4,521S
+394,2024-06-06T20:38:41Z,,,80-101,,J. Tatum misses free throw 2 of 2,q4,521S
+395,2024-06-06T20:38:41Z,Defensive rebound by D. Exum,,80-101,,,q4,521S
+396,2024-06-06T20:38:51Z,T. Hardaway misses 3-pt jump shot from 25 ft,,80-101,,,q4,531S
+397,2024-06-06T20:38:52Z,,,80-101,,Defensive rebound by J. Tatum,q4,532S
+398,2024-06-06T20:39:13Z,,,80-101,,P. Pritchard misses 2-pt jump shot from 17 ft,q4,553S
+399,2024-06-06T20:39:14Z,Defensive rebound by J. Hardy,,80-101,,,q4,554S
+400,2024-06-06T20:39:20Z,Shooting foul by L. Kornet (drawn by J. Hardy),,80-101,,,q4,560S
+401,2024-06-06T20:39:20Z,J. Hardy makes free throw 1 of 2,1,81-101,,,q4,560S
+402,2024-06-06T20:39:20Z,,,81-101,,O. Brissett enters the game for J. Tatum,q4,560S
+403,2024-06-06T20:39:20Z,,,81-101,,S. Mykhailiuk enters the game for D. White,q4,560S
+404,2024-06-06T20:39:20Z,J. Hardy makes free throw 2 of 2,1,82-101,,,q4,560S
+405,2024-06-06T20:39:38Z,,,82-103,2,S. Mykhailiuk makes 2-pt jump shot from 9 ft (assist by S. Hauser),q4,578S
+406,2024-06-06T20:39:46Z,Turnover by D. Exum (bad pass; steal by L. Kornet),,82-103,,,q4,586S
+407,2024-06-06T20:39:57Z,,,82-103,,S. Hauser misses 2-pt jump shot from 7 ft,q4,597S
+408,2024-06-06T20:39:58Z,,,82-103,,Offensive rebound by L. Kornet,q4,598S
+409,2024-06-06T20:39:58Z,,,82-105,2,L. Kornet makes 2-pt layup from 4 ft,q4,598S
+410,2024-06-06T20:40:11Z,Personal foul by P. Pritchard (drawn by J. Hardy),,82-105,,,q4,611S
+411,2024-06-06T20:40:11Z,J. Hardy makes free throw 1 of 2,1,83-105,,,q4,611S
+412,2024-06-06T20:40:11Z,J. Hardy makes free throw 2 of 2,1,84-105,,,q4,611S
+413,2024-06-06T20:40:24Z,,,84-107,2,S. Hauser makes 2-pt jump shot from 21 ft (assist by P. Pritchard),q4,624S
+414,2024-06-06T20:40:34Z,J. Hardy makes 2-pt jump shot from 9 ft,2,86-107,,,q4,634S
+415,2024-06-06T20:40:56Z,,,86-107,,Turnover by P. Pritchard (bad pass; steal by T. Hardaway),q4,656S
+416,2024-06-06T20:41:02Z,J. Green makes 3-pt jump shot from 24 ft (assist by J. Hardy),3,89-107,,,q4,662S
+417,2024-06-06T20:41:20Z,,,89-107,,P. Pritchard misses 3-pt jump shot from 28 ft,q4,680S
+418,2024-06-06T20:41:22Z,Defensive rebound by D. Exum,,89-107,,,q4,682S
+419,2024-06-06T20:41:30Z,J. Green misses 2-pt layup from 3 ft,,89-107,,,q4,690S
+420,2024-06-06T20:41:32Z,,,89-107,,Defensive rebound by S. Hauser,q4,692S
+421,2024-06-06T20:41:54Z,,,89-107,,Turnover by Team (shot clock),q4,714S
+1,2024-06-09T20:00:00Z,Jump ball: D. Gafford vs. A. Horford (D. Jones gains possession),Jump ball: D. Gafford vs. A. Horford (D. Jones gains possession),Jump ball: D. Gafford vs. A. Horford (D. Jones gains possession),Jump ball: D. Gafford vs. A. Horford (D. Jones gains possession),Jump ball: D. Gafford vs. A. Horford (D. Jones gains possession),q1,0S
+2,2024-06-09T20:00:22Z,L. Dončić makes 2-pt jump shot from 14 ft,2,2-0,,,q1,22S
+3,2024-06-09T20:00:30Z,,,2-2,2,J. Holiday makes 2-pt layup from 1 ft (assist by D. White),q1,30S
+4,2024-06-09T20:00:49Z,K. Irving makes 2-pt layup from 1 ft,2,4-2,,,q1,49S
+5,2024-06-09T20:01:01Z,,,4-2,,Turnover by J. Brown (bad pass),q1,61S
+6,2024-06-09T20:01:12Z,P. Washington makes 3-pt jump shot from 28 ft (assist by K. Irving),3,7-2,,,q1,72S
+7,2024-06-09T20:01:32Z,,,7-2,,J. Brown misses 2-pt jump shot from 7 ft,q1,92S
+8,2024-06-09T20:01:33Z,Defensive rebound by Team,,7-2,,,q1,93S
+9,2024-06-09T20:01:48Z,L. Dončić misses 2-pt jump shot from 17 ft,,7-2,,,q1,108S
+10,2024-06-09T20:01:52Z,,,7-2,,Defensive rebound by J. Brown,q1,112S
+11,2024-06-09T20:01:55Z,,,7-4,2,A. Horford makes 2-pt dunk from 1 ft (assist by J. Brown),q1,115S
+12,2024-06-09T20:02:08Z,P. Washington misses 2-pt layup from 4 ft,,7-4,,,q1,128S
+13,2024-06-09T20:02:10Z,Offensive rebound by Team,,7-4,,,q1,130S
+14,2024-06-09T20:02:10Z,,,7-4,,Loose ball foul by J. Holiday (drawn by D. Gafford),q1,130S
+15,2024-06-09T20:02:20Z,L. Dončić makes 2-pt jump shot from 12 ft,2,9-4,,,q1,140S
+16,2024-06-09T20:02:40Z,,,9-6,2,J. Holiday makes 2-pt layup from 2 ft (assist by J. Tatum),q1,160S
+17,2024-06-09T20:02:55Z,D. Gafford misses 2-pt layup from 7 ft,,9-6,,,q1,175S
+18,2024-06-09T20:02:57Z,Offensive rebound by Team,,9-6,,,q1,177S
+19,2024-06-09T20:02:57Z,,,9-6,,Loose ball foul by A. Horford (drawn by D. Gafford),q1,177S
+20,2024-06-09T20:03:09Z,L. Dončić makes 2-pt jump shot from 10 ft,2,11-6,,,q1,189S
+21,2024-06-09T20:03:27Z,,,11-6,,J. Tatum misses 2-pt layup from 2 ft,q1,207S
+22,2024-06-09T20:03:28Z,Defensive rebound by D. Gafford,,11-6,,,q1,208S
+23,2024-06-09T20:03:34Z,K. Irving misses 2-pt layup from 6 ft (block by D. White),,11-6,,,q1,214S
+24,2024-06-09T20:03:35Z,Offensive rebound by Team,,11-6,,,q1,215S
+25,2024-06-09T20:03:35Z,D. Lively enters the game for D. Gafford,,11-6,,,q1,215S
+26,2024-06-09T20:03:41Z,K. Irving makes 2-pt jump shot from 20 ft (assist by L. Dončić),2,13-6,,,q1,221S
+27,2024-06-09T20:03:42Z,,,13-6,,Boston full timeout,q1,222S
+28,2024-06-09T20:03:56Z,,,13-6,,J. Holiday misses 3-pt jump shot from 26 ft,q1,236S
+29,2024-06-09T20:03:58Z,,,13-6,,Offensive rebound by J. Brown,q1,238S
+30,2024-06-09T20:04:04Z,,,13-6,,A. Horford misses 3-pt jump shot from 23 ft,q1,244S
+31,2024-06-09T20:04:06Z,Defensive rebound by L. Dončić,,13-6,,,q1,246S
+32,2024-06-09T20:04:16Z,L. Dončić misses 3-pt jump shot from 26 ft,,13-6,,,q1,256S
+33,2024-06-09T20:04:17Z,,,13-6,,Defensive rebound by A. Horford,q1,257S
+34,2024-06-09T20:04:33Z,,,13-6,,J. Tatum misses 3-pt jump shot from 27 ft,q1,273S
+35,2024-06-09T20:04:34Z,Defensive rebound by P. Washington,,13-6,,,q1,274S
+36,2024-06-09T20:04:45Z,Turnover by L. Dončić (lost ball; steal by D. White),,13-6,,,q1,285S
+37,2024-06-09T20:04:49Z,,,13-6,,Shooting foul by P. Washington (drawn by D. White),q1,289S
+38,2024-06-09T20:04:49Z,Dallas full timeout,,13-6,,,q1,289S
+39,2024-06-09T20:04:49Z,Instant Replay (Challenge: Ruling Stands),,13-6,,,q1,289S
+40,2024-06-09T20:04:49Z,M. Kleber enters the game for P. Washington,,13-6,,,q1,289S
+41,2024-06-09T20:04:49Z,,,13-6,,K. Porziņģis enters the game for A. Horford,q1,289S
+42,2024-06-09T20:04:49Z,,,13-7,1,D. White makes free throw 1 of 2,q1,289S
+43,2024-06-09T20:04:49Z,,,13-8,1,D. White makes free throw 2 of 2,q1,289S
+44,2024-06-09T20:05:06Z,M. Kleber misses 3-pt jump shot from 25 ft,,13-8,,,q1,306S
+45,2024-06-09T20:05:08Z,Offensive rebound by D. Lively,,13-8,,,q1,308S
+46,2024-06-09T20:05:13Z,D. Lively misses 2-pt layup from 5 ft (block by J. Holiday),,13-8,,,q1,313S
+47,2024-06-09T20:05:14Z,Offensive rebound by D. Lively,,13-8,,,q1,314S
+48,2024-06-09T20:05:15Z,Turnover by D. Lively (bad pass; steal by J. Brown),,13-8,,,q1,315S
+49,2024-06-09T20:05:17Z,,,13-10,2,J. Brown makes 2-pt dunk from 1 ft,q1,317S
+50,2024-06-09T20:05:36Z,M. Kleber misses 2-pt jump shot from 23 ft,,13-10,,,q1,336S
+51,2024-06-09T20:05:37Z,,,13-10,,Defensive rebound by K. Porziņģis,q1,337S
+52,2024-06-09T20:05:44Z,,,13-10,,Personal foul by M. Kleber (drawn by J. Tatum),q1,344S
+53,2024-06-09T20:05:54Z,,,13-10,,Personal foul by K. Irving (drawn by J. Tatum),q1,354S
+54,2024-06-09T20:06:02Z,,,13-10,,Shooting foul by D. Jones (drawn by K. Porziņģis),q1,362S
+55,2024-06-09T20:06:02Z,,,13-11,1,K. Porziņģis makes free throw 1 of 2,q1,362S
+56,2024-06-09T20:06:02Z,J. Green enters the game for K. Irving,,13-11,,,q1,362S
+57,2024-06-09T20:06:02Z,,,13-12,1,K. Porziņģis makes free throw 2 of 2,q1,362S
+58,2024-06-09T20:06:10Z,M. Kleber misses 2-pt layup from 2 ft (block by K. Porziņģis),,13-12,,,q1,370S
+59,2024-06-09T20:06:11Z,,,13-12,,Defensive rebound by J. Tatum,q1,371S
+60,2024-06-09T20:06:23Z,,,13-12,,J. Tatum misses 2-pt jump shot from 13 ft,q1,383S
+61,2024-06-09T20:06:25Z,Defensive rebound by D. Lively,,13-12,,,q1,385S
+62,2024-06-09T20:06:38Z,Shooting foul by J. Tatum (drawn by L. Dončić),,13-12,,,q1,398S
+63,2024-06-09T20:06:38Z,L. Dončić misses free throw 1 of 2,,13-12,,,q1,398S
+64,2024-06-09T20:06:38Z,Offensive rebound by Team,,13-12,,,q1,398S
+65,2024-06-09T20:06:38Z,,,13-12,,S. Hauser enters the game for D. White,q1,398S
+66,2024-06-09T20:06:38Z,L. Dončić misses free throw 2 of 2,,13-12,,,q1,398S
+67,2024-06-09T20:06:40Z,,,13-12,,Defensive rebound by K. Porziņģis,q1,400S
+68,2024-06-09T20:06:55Z,,,13-12,,S. Hauser misses 3-pt jump shot from 28 ft,q1,415S
+69,2024-06-09T20:06:57Z,Defensive rebound by L. Dončić,,13-12,,,q1,417S
+70,2024-06-09T20:07:03Z,Turnover by L. Dončić (bad pass),,13-12,,,q1,423S
+71,2024-06-09T20:07:07Z,,,13-12,,Turnover by J. Brown (traveling),q1,427S
+72,2024-06-09T20:07:23Z,L. Dončić makes 2-pt jump shot from 18 ft,2,15-12,,,q1,443S
+73,2024-06-09T20:07:42Z,,,15-14,2,K. Porziņģis makes 2-pt jump shot from 13 ft,q1,462S
+74,2024-06-09T20:07:59Z,Turnover by L. Dončić (traveling),,15-14,,,q1,479S
+75,2024-06-09T20:07:59Z,P. Washington enters the game for D. Jones,,15-14,,,q1,479S
+76,2024-06-09T20:08:11Z,,,15-14,,K. Porziņģis misses 3-pt jump shot from 27 ft,q1,491S
+77,2024-06-09T20:08:12Z,Defensive rebound by D. Lively,,15-14,,,q1,492S
+78,2024-06-09T20:08:20Z,L. Dončić makes 3-pt jump shot from 26 ft,3,18-14,,,q1,500S
+79,2024-06-09T20:08:40Z,,,18-14,,S. Hauser misses 3-pt jump shot from 25 ft,q1,520S
+80,2024-06-09T20:08:41Z,,,18-14,,Offensive rebound by J. Tatum,q1,521S
+81,2024-06-09T20:08:41Z,,,18-14,,J. Tatum misses 2-pt layup at rim,q1,521S
+82,2024-06-09T20:08:43Z,Defensive rebound by M. Kleber,,18-14,,,q1,523S
+83,2024-06-09T20:08:51Z,P. Washington makes 2-pt jump shot from 6 ft,2,20-14,,,q1,531S
+84,2024-06-09T20:09:08Z,,,20-14,,J. Brown misses 3-pt jump shot from 28 ft,q1,548S
+85,2024-06-09T20:09:09Z,,,20-14,,Offensive rebound by Team,q1,549S
+86,2024-06-09T20:09:09Z,Loose ball foul by J. Green (drawn by J. Holiday),,20-14,,,q1,549S
+87,2024-06-09T20:09:09Z,,,20-15,1,J. Holiday makes free throw 1 of 2,q1,549S
+88,2024-06-09T20:09:09Z,K. Irving enters the game for M. Kleber,,20-15,,,q1,549S
+89,2024-06-09T20:09:09Z,,,20-15,,A. Horford enters the game for K. Porziņģis,q1,549S
+90,2024-06-09T20:09:09Z,,,20-15,,D. White enters the game for J. Tatum,q1,549S
+91,2024-06-09T20:09:09Z,,,20-16,1,J. Holiday makes free throw 2 of 2,q1,549S
+92,2024-06-09T20:09:22Z,Shooting foul by J. Holiday (drawn by L. Dončić),,20-16,,,q1,562S
+93,2024-06-09T20:09:22Z,L. Dončić makes free throw 1 of 2,1,21-16,,,q1,562S
+94,2024-06-09T20:09:22Z,L. Dončić makes free throw 2 of 2,1,22-16,,,q1,562S
+95,2024-06-09T20:09:40Z,,,22-16,,Personal foul by K. Irving (drawn by S. Hauser),q1,580S
+96,2024-06-09T20:09:40Z,M. Kleber enters the game for L. Dončić,,22-16,,,q1,580S
+97,2024-06-09T20:09:40Z,,,22-17,1,S. Hauser makes free throw 1 of 2,q1,580S
+98,2024-06-09T20:09:40Z,D. Gafford enters the game for D. Lively,,22-17,,,q1,580S
+99,2024-06-09T20:09:40Z,,,22-17,,K. Porziņģis enters the game for J. Holiday,q1,580S
+100,2024-06-09T20:09:40Z,,,22-18,1,S. Hauser makes free throw 2 of 2,q1,580S
+101,2024-06-09T20:09:58Z,Turnover by K. Irving (traveling),,22-18,,,q1,598S
+102,2024-06-09T20:10:05Z,,,22-18,,Personal foul by M. Kleber (drawn by K. Porziņģis),q1,605S
+103,2024-06-09T20:10:05Z,,,22-19,1,K. Porziņģis makes free throw 1 of 2,q1,605S
+104,2024-06-09T20:10:05Z,,,22-20,1,K. Porziņģis makes free throw 2 of 2,q1,605S
+105,2024-06-09T20:10:29Z,M. Kleber misses 3-pt jump shot from 29 ft,,22-20,,,q1,629S
+106,2024-06-09T20:10:30Z,Offensive rebound by Team,,22-20,,,q1,630S
+107,2024-06-09T20:10:30Z,,,22-20,,Loose ball foul by J. Brown (drawn by D. Gafford),q1,630S
+108,2024-06-09T20:10:30Z,D. Gafford misses free throw 1 of 2,,22-20,,,q1,630S
+109,2024-06-09T20:10:30Z,Offensive rebound by Team,,22-20,,,q1,630S
+110,2024-06-09T20:10:30Z,D. Gafford misses free throw 2 of 2,,22-20,,,q1,630S
+111,2024-06-09T20:10:30Z,Offensive rebound by P. Washington,,22-20,,,q1,630S
+112,2024-06-09T20:10:32Z,Turnover by P. Washington (lost ball; steal by D. White),,22-20,,,q1,632S
+113,2024-06-09T20:10:51Z,,,22-22,2,K. Porziņģis makes 2-pt jump shot from 16 ft (assist by J. Brown),q1,651S
+114,2024-06-09T20:11:15Z,K. Irving makes 2-pt jump shot from 8 ft,2,24-22,,,q1,675S
+115,2024-06-09T20:11:29Z,,,24-22,,D. White misses 3-pt jump shot from 27 ft,q1,689S
+116,2024-06-09T20:11:31Z,Defensive rebound by D. Gafford,,24-22,,,q1,691S
+117,2024-06-09T20:11:52Z,K. Irving makes 2-pt layup from 1 ft,2,26-22,,,q1,712S
+118,2024-06-09T20:11:55Z,,,26-25,3,A. Horford makes 3-pt jump shot from 24 ft (assist by J. Brown),q1,715S
+119,2024-06-09T20:12:00Z,Shooting foul by K. Porziņģis (drawn by J. Green),,26-25,,,q1,720S
+120,2024-06-09T20:12:00Z,J. Green misses free throw 1 of 3,,26-25,,,q1,720S
+121,2024-06-09T20:12:00Z,Offensive rebound by Team,,26-25,,,q1,720S
+122,2024-06-09T20:12:00Z,J. Green makes free throw 2 of 3,1,27-25,,,q1,720S
+123,2024-06-09T20:12:00Z,J. Hardy enters the game for K. Irving,,27-25,,,q1,720S
+124,2024-06-09T20:12:00Z,J. Green makes free throw 3 of 3,1,28-25,,,q1,720S
+125,2024-06-09T20:00:19Z,,,28-27,2,D. White makes 2-pt jump shot from 10 ft (assist by J. Brown),q2,19S
+126,2024-06-09T20:00:36Z,L. Dončić makes 2-pt jump shot from 16 ft,2,30-27,,,q2,36S
+127,2024-06-09T20:00:52Z,,,30-29,2,J. Brown makes 2-pt dunk from 1 ft (assist by J. Tatum),q2,52S
+128,2024-06-09T20:01:05Z,L. Dončić makes 3-pt jump shot from 24 ft (assist by K. Irving),3,33-29,,,q2,65S
+129,2024-06-09T20:01:23Z,,,33-29,,P. Pritchard misses 3-pt jump shot from 29 ft,q2,83S
+130,2024-06-09T20:01:24Z,Defensive rebound by D. Exum,,33-29,,,q2,84S
+131,2024-06-09T20:01:30Z,Turnover by D. Exum (out of bounds lost ball),,33-29,,,q2,90S
+132,2024-06-09T20:01:36Z,,,33-29,,Turnover by J. Brown (out of bounds lost ball),q2,96S
+133,2024-06-09T20:01:52Z,L. Dončić makes 2-pt jump shot from 14 ft,2,35-29,,,q2,112S
+134,2024-06-09T20:02:12Z,,,35-29,,Turnover by D. White (bad pass),q2,132S
+135,2024-06-09T20:02:12Z,,,35-29,,J. Holiday enters the game for J. Brown,q2,132S
+136,2024-06-09T20:02:22Z,L. Dončić misses 3-pt jump shot from 26 ft,,35-29,,,q2,142S
+137,2024-06-09T20:02:23Z,,,35-29,,Defensive rebound by J. Holiday,q2,143S
+138,2024-06-09T20:02:31Z,,,35-31,2,J. Tatum makes 2-pt layup from 2 ft (assist by J. Holiday),q2,151S
+139,2024-06-09T20:02:47Z,K. Irving misses 2-pt jump shot from 13 ft,,35-31,,,q2,167S
+140,2024-06-09T20:02:48Z,,,35-31,,Defensive rebound by J. Holiday,q2,168S
+141,2024-06-09T20:03:01Z,,,35-33,2,K. Porziņģis makes 2-pt jump shot from 9 ft (assist by J. Tatum),q2,181S
+142,2024-06-09T20:03:14Z,L. Dončić misses 3-pt jump shot from 26 ft,,35-33,,,q2,194S
+143,2024-06-09T20:03:15Z,,,35-33,,Defensive rebound by D. White,q2,195S
+144,2024-06-09T20:03:22Z,,,35-33,,J. Tatum misses 3-pt jump shot from 24 ft,q2,202S
+145,2024-06-09T20:03:24Z,,,35-33,,Offensive rebound by P. Pritchard,q2,204S
+146,2024-06-09T20:03:34Z,,,35-33,,J. Tatum misses 2-pt layup from 1 ft,q2,214S
+147,2024-06-09T20:03:35Z,Defensive rebound by L. Dončić,,35-33,,,q2,215S
+148,2024-06-09T20:03:39Z,Offensive foul by D. Lively (drawn by K. Porziņģis),,35-33,,,q2,219S
+149,2024-06-09T20:03:39Z,Turnover by D. Lively (offensive foul),,35-33,,,q2,219S
+150,2024-06-09T20:03:39Z,J. Green enters the game for D. Exum,,35-33,,,q2,219S
+151,2024-06-09T20:03:39Z,D. Jones enters the game for K. Irving,,35-33,,,q2,219S
+152,2024-06-09T20:03:39Z,,,35-33,,A. Horford enters the game for K. Porziņģis,q2,219S
+153,2024-06-09T20:03:59Z,,,35-36,3,D. White makes 3-pt jump shot from 24 ft (assist by J. Tatum),q2,239S
+154,2024-06-09T20:04:21Z,P. Washington misses 3-pt jump shot from 28 ft,,35-36,,,q2,261S
+155,2024-06-09T20:04:23Z,,,35-36,,Defensive rebound by A. Horford,q2,263S
+156,2024-06-09T20:04:29Z,,,35-36,,D. White misses 2-pt layup from 2 ft (block by P. Washington),q2,269S
+157,2024-06-09T20:04:31Z,,,35-36,,Offensive rebound by D. White,q2,271S
+158,2024-06-09T20:04:45Z,,,35-36,,Turnover by J. Tatum (lost ball; steal by L. Dončić),q2,285S
+159,2024-06-09T20:04:53Z,D. Lively misses 2-pt hook shot from 5 ft,,35-36,,,q2,293S
+160,2024-06-09T20:04:55Z,,,35-36,,Defensive rebound by A. Horford,q2,295S
+161,2024-06-09T20:05:00Z,,,35-36,,Boston full timeout,q2,300S
+162,2024-06-09T20:05:00Z,M. Kleber enters the game for D. Lively,,35-36,,,q2,300S
+163,2024-06-09T20:05:15Z,,,35-36,,D. White misses 3-pt jump shot from 26 ft,q2,315S
+164,2024-06-09T20:05:18Z,Defensive rebound by M. Kleber,,35-36,,,q2,318S
+165,2024-06-09T20:05:36Z,Def 3 sec tech foul by Team,,35-36,,,q2,336S
+166,2024-06-09T20:05:36Z,L. Dončić misses technical free throw,,35-36,,,q2,336S
+167,2024-06-09T20:05:36Z,Offensive rebound by Team,,35-36,,,q2,336S
+168,2024-06-09T20:05:36Z,K. Irving enters the game for P. Washington,,35-36,,,q2,336S
+169,2024-06-09T20:05:36Z,,,35-36,,J. Brown enters the game for D. White,q2,336S
+170,2024-06-09T20:05:46Z,J. Green misses 3-pt jump shot from 27 ft,,35-36,,,q2,346S
+171,2024-06-09T20:05:47Z,,,35-36,,Defensive rebound by J. Tatum,q2,347S
+172,2024-06-09T20:05:55Z,,,35-38,2,J. Brown makes 2-pt layup from 1 ft,q2,355S
+173,2024-06-09T20:06:18Z,J. Green misses 3-pt jump shot from 23 ft,,35-38,,,q2,378S
+174,2024-06-09T20:06:20Z,Offensive rebound by D. Jones,,35-38,,,q2,380S
+175,2024-06-09T20:06:23Z,J. Green makes 2-pt layup from 2 ft (assist by D. Jones),2,37-38,,,q2,383S
+176,2024-06-09T20:06:38Z,,,37-40,2,J. Holiday makes 2-pt layup from 3 ft (assist by P. Pritchard),q2,398S
+177,2024-06-09T20:06:51Z,D. Jones makes 2-pt layup from 3 ft (assist by L. Dončić),2,39-40,,,q2,411S
+178,2024-06-09T20:07:04Z,,,39-40,,Turnover by J. Brown (bad pass; steal by D. Jones),q2,424S
+179,2024-06-09T20:07:04Z,D. Jones makes 2-pt layup from 1 ft,2,41-40,,,q2,424S
+180,2024-06-09T20:07:04Z,Shooting foul by J. Tatum (drawn by D. Jones),,41-40,,,q2,424S
+181,2024-06-09T20:07:04Z,P. Washington enters the game for L. Dončić,,41-40,,,q2,424S
+182,2024-06-09T20:07:04Z,D. Jones makes free throw 1 of 1,1,42-40,,,q2,424S
+183,2024-06-09T20:07:17Z,,,42-42,2,J. Holiday makes 2-pt layup from 3 ft (assist by J. Tatum),q2,437S
+184,2024-06-09T20:07:33Z,K. Irving misses 2-pt jump shot from 10 ft,,42-42,,,q2,453S
+185,2024-06-09T20:07:34Z,,,42-42,,Defensive rebound by A. Horford,q2,454S
+186,2024-06-09T20:07:44Z,,,42-42,,Personal foul by M. Kleber (drawn by J. Tatum),q2,464S
+187,2024-06-09T20:07:44Z,D. Lively enters the game for M. Kleber,,42-42,,,q2,464S
+188,2024-06-09T20:07:54Z,,,42-42,,J. Tatum misses 3-pt jump shot from 26 ft,q2,474S
+189,2024-06-09T20:07:56Z,,,42-42,,Offensive rebound by J. Holiday,q2,476S
+190,2024-06-09T20:08:01Z,,,42-42,,J. Holiday misses 2-pt jump shot from 14 ft,q2,481S
+191,2024-06-09T20:08:02Z,Defensive rebound by J. Green,,42-42,,,q2,482S
+192,2024-06-09T20:08:04Z,Dallas full timeout,,42-42,,,q2,484S
+193,2024-06-09T20:08:04Z,L. Dončić enters the game for J. Green,,42-42,,,q2,484S
+194,2024-06-09T20:08:04Z,,,42-42,,K. Porziņģis enters the game for A. Horford,q2,484S
+195,2024-06-09T20:08:04Z,,,42-42,,D. White enters the game for P. Pritchard,q2,484S
+196,2024-06-09T20:08:16Z,D. Jones misses 3-pt jump shot from 26 ft,,42-42,,,q2,496S
+197,2024-06-09T20:08:18Z,,,42-42,,Defensive rebound by J. Holiday,q2,498S
+198,2024-06-09T20:08:30Z,,,42-44,2,J. Holiday makes 2-pt layup from 2 ft (assist by J. Tatum),q2,510S
+199,2024-06-09T20:08:41Z,K. Irving misses 2-pt jump shot from 10 ft,,42-44,,,q2,521S
+200,2024-06-09T20:08:42Z,,,42-44,,Defensive rebound by K. Porziņģis,q2,522S
+201,2024-06-09T20:08:58Z,,,42-44,,D. White misses 2-pt jump shot from 9 ft,q2,538S
+202,2024-06-09T20:08:59Z,Defensive rebound by D. Lively,,42-44,,,q2,539S
+203,2024-06-09T20:09:09Z,D. Jones makes 2-pt dunk from 1 ft (assist by L. Dončić),2,44-44,,,q2,549S
+204,2024-06-09T20:09:30Z,,,44-46,2,J. Holiday makes 2-pt layup from 5 ft (assist by J. Tatum),q2,570S
+205,2024-06-09T20:09:44Z,L. Dončić makes 3-pt jump shot from 27 ft,3,47-46,,,q2,584S
+206,2024-06-09T20:10:01Z,,,47-48,2,J. Tatum makes 2-pt layup from 3 ft,q2,601S
+207,2024-06-09T20:10:01Z,,,47-48,,Shooting foul by D. Jones (drawn by J. Tatum),q2,601S
+208,2024-06-09T20:10:01Z,,,47-49,1,J. Tatum makes free throw 1 of 1,q2,601S
+209,2024-06-09T20:10:18Z,K. Irving misses 2-pt jump shot from 17 ft,,47-49,,,q2,618S
+210,2024-06-09T20:10:21Z,Offensive rebound by D. Lively,,47-49,,,q2,621S
+211,2024-06-09T20:10:26Z,K. Irving makes 2-pt jump shot from 10 ft (assist by D. Jones),2,49-49,,,q2,626S
+212,2024-06-09T20:10:45Z,,,49-49,,Personal foul by L. Dončić (drawn by J. Brown),q2,645S
+213,2024-06-09T20:10:45Z,,,49-50,1,J. Brown makes free throw 1 of 2,q2,645S
+214,2024-06-09T20:10:45Z,D. Gafford enters the game for D. Jones,,49-50,,,q2,645S
+215,2024-06-09T20:10:45Z,J. Green enters the game for D. Lively,,49-50,,,q2,645S
+216,2024-06-09T20:10:45Z,,,49-50,,A. Horford enters the game for K. Porziņģis,q2,645S
+217,2024-06-09T20:10:45Z,,,49-51,1,J. Brown makes free throw 2 of 2,q2,645S
+218,2024-06-09T20:11:03Z,P. Washington misses 2-pt layup from 4 ft,,49-51,,,q2,663S
+219,2024-06-09T20:11:04Z,,,49-51,,Defensive rebound by A. Horford,q2,664S
+220,2024-06-09T20:11:23Z,,,49-54,3,J. Holiday makes 3-pt jump shot from 23 ft (assist by J. Tatum),q2,683S
+221,2024-06-09T20:11:38Z,D. Gafford makes 2-pt dunk from 1 ft (assist by K. Irving),2,51-54,,,q2,698S
+222,2024-06-09T20:11:38Z,,,51-54,,Violation by Team (def goaltending),q2,698S
+223,2024-06-09T20:00:16Z,,,51-54,,J. Tatum misses 3-pt jump shot from 26 ft,q3,16S
+224,2024-06-09T20:00:18Z,Defensive rebound by D. Gafford,,51-54,,,q3,18S
+225,2024-06-09T20:00:36Z,D. Gafford makes 2-pt dunk from 1 ft (assist by L. Dončić),2,53-54,,,q3,36S
+226,2024-06-09T20:00:46Z,,,53-54,,Turnover by J. Brown (lost ball; steal by L. Dončić),q3,46S
+227,2024-06-09T20:01:00Z,P. Washington makes 2-pt jump shot from 9 ft (assist by L. Dončić),2,55-54,,,q3,60S
+228,2024-06-09T20:01:28Z,,,55-54,,D. White misses 3-pt jump shot from 28 ft,q3,88S
+229,2024-06-09T20:01:29Z,,,55-54,,Offensive rebound by J. Holiday,q3,89S
+230,2024-06-09T20:01:30Z,,,55-56,2,J. Tatum makes 2-pt layup from 2 ft (assist by J. Holiday),q3,90S
+231,2024-06-09T20:01:30Z,,,55-56,,Shooting foul by K. Irving (drawn by J. Tatum),q3,90S
+232,2024-06-09T20:01:30Z,,,55-57,1,J. Tatum makes free throw 1 of 1,q3,90S
+233,2024-06-09T20:01:46Z,D. Gafford makes 2-pt layup from 4 ft (assist by L. Dončić),2,57-57,,,q3,106S
+234,2024-06-09T20:02:05Z,,,57-57,,J. Brown misses 3-pt jump shot from 24 ft,q3,125S
+235,2024-06-09T20:02:06Z,Defensive rebound by L. Dončić,,57-57,,,q3,126S
+236,2024-06-09T20:02:11Z,Turnover by L. Dončić (lost ball; steal by J. Brown),,57-57,,,q3,131S
+237,2024-06-09T20:02:16Z,,,57-59,2,J. Holiday makes 2-pt layup from 3 ft (assist by A. Horford),q3,136S
+238,2024-06-09T20:02:26Z,K. Irving misses 3-pt jump shot from 32 ft,,57-59,,,q3,146S
+239,2024-06-09T20:02:28Z,,,57-59,,Defensive rebound by J. Holiday,q3,148S
+240,2024-06-09T20:02:38Z,,,57-62,3,D. White makes 3-pt jump shot from 23 ft (assist by J. Tatum),q3,158S
+241,2024-06-09T20:03:03Z,L. Dončić makes 2-pt jump shot from 17 ft (assist by P. Washington),2,59-62,,,q3,183S
+242,2024-06-09T20:03:24Z,,,59-62,,J. Brown misses 3-pt jump shot from 27 ft (block by D. Gafford),q3,204S
+243,2024-06-09T20:03:27Z,Defensive rebound by L. Dončić,,59-62,,,q3,207S
+244,2024-06-09T20:03:44Z,P. Washington misses 3-pt jump shot from 24 ft,,59-62,,,q3,224S
+245,2024-06-09T20:03:46Z,,,59-62,,Defensive rebound by D. White,q3,226S
+246,2024-06-09T20:03:57Z,,,59-62,,J. Brown misses 2-pt jump shot from 13 ft,q3,237S
+247,2024-06-09T20:03:58Z,Defensive rebound by P. Washington,,59-62,,,q3,238S
+248,2024-06-09T20:04:05Z,D. Jones misses 3-pt jump shot from 24 ft,,59-62,,,q3,245S
+249,2024-06-09T20:04:06Z,Offensive rebound by D. Jones,,59-62,,,q3,246S
+250,2024-06-09T20:04:08Z,Turnover by D. Jones (bad pass; steal by J. Holiday),,59-62,,,q3,248S
+251,2024-06-09T20:04:08Z,,,59-62,,Personal foul by P. Washington (drawn by J. Holiday),q3,248S
+252,2024-06-09T20:04:08Z,,,59-63,1,J. Tatum makes free throw 1 of 1,q3,248S
+253,2024-06-09T20:04:08Z,D. Lively enters the game for D. Gafford,,59-63,,,q3,248S
+254,2024-06-09T20:04:17Z,,,59-63,,D. White misses 3-pt jump shot from 27 ft,q3,257S
+255,2024-06-09T20:04:19Z,Defensive rebound by L. Dončić,,59-63,,,q3,259S
+256,2024-06-09T20:04:30Z,D. Lively makes 2-pt dunk from 1 ft (assist by L. Dončić),2,61-63,,,q3,270S
+257,2024-06-09T20:04:31Z,,,61-63,,Boston full timeout,q3,271S
+258,2024-06-09T20:04:31Z,,,61-63,,K. Porziņģis enters the game for A. Horford,q3,271S
+259,2024-06-09T20:04:47Z,,,61-63,,K. Porziņģis misses 3-pt jump shot from 27 ft,q3,287S
+260,2024-06-09T20:04:49Z,,,61-63,,Offensive rebound by D. White,q3,289S
+261,2024-06-09T20:05:00Z,,,61-65,2,K. Porziņģis makes 2-pt jump shot from 15 ft (assist by J. Brown),q3,300S
+262,2024-06-09T20:05:17Z,K. Irving misses 2-pt jump shot from 12 ft,,61-65,,,q3,317S
+263,2024-06-09T20:05:18Z,,,61-65,,Defensive rebound by D. White,q3,318S
+264,2024-06-09T20:05:23Z,,,61-65,,D. White misses 3-pt jump shot from 28 ft,q3,323S
+265,2024-06-09T20:05:24Z,Defensive rebound by P. Washington,,61-65,,,q3,324S
+266,2024-06-09T20:05:43Z,P. Washington makes 2-pt jump shot from 8 ft (assist by L. Dončić),2,63-65,,,q3,343S
+267,2024-06-09T20:05:54Z,,,63-67,2,J. Tatum makes 2-pt layup from 2 ft (assist by J. Brown),q3,354S
+268,2024-06-09T20:05:54Z,,,63-67,,Shooting foul by P. Washington (drawn by J. Tatum),q3,354S
+269,2024-06-09T20:05:54Z,M. Kleber enters the game for P. Washington,,63-67,,,q3,354S
+270,2024-06-09T20:05:54Z,,,63-67,,J. Tatum misses free throw 1 of 1,q3,354S
+271,2024-06-09T20:05:54Z,Defensive rebound by Team,,63-67,,,q3,354S
+272,2024-06-09T20:05:54Z,,,63-67,,Loose ball foul by K. Porziņģis (drawn by D. Lively),q3,354S
+273,2024-06-09T20:06:15Z,Turnover by L. Dončić (bad pass; steal by J. Tatum),,63-67,,,q3,375S
+274,2024-06-09T20:06:17Z,,,63-67,,Personal foul by M. Kleber (drawn by J. Tatum),q3,377S
+275,2024-06-09T20:06:30Z,,,63-67,,J. Tatum misses 2-pt layup from 3 ft,q3,390S
+276,2024-06-09T20:06:31Z,Defensive rebound by L. Dončić,,63-67,,,q3,391S
+277,2024-06-09T20:06:41Z,D. Jones misses 3-pt jump shot from 27 ft,,63-67,,,q3,401S
+278,2024-06-09T20:06:43Z,,,63-67,,Defensive rebound by Team,q3,403S
+279,2024-06-09T20:07:03Z,,,63-69,2,J. Brown makes 2-pt layup from 2 ft (assist by D. White),q3,423S
+280,2024-06-09T20:07:04Z,Dallas full timeout,,63-69,,,q3,424S
+281,2024-06-09T20:07:04Z,J. Green enters the game for K. Irving,,63-69,,,q3,424S
+282,2024-06-09T20:07:04Z,J. Hardy enters the game for D. Jones,,63-69,,,q3,424S
+283,2024-06-09T20:07:04Z,P. Washington enters the game for M. Kleber,,63-69,,,q3,424S
+284,2024-06-09T20:07:04Z,,,63-69,,S. Hauser enters the game for D. White,q3,424S
+285,2024-06-09T20:07:29Z,P. Washington misses 3-pt jump shot from 26 ft,,63-69,,,q3,449S
+286,2024-06-09T20:07:30Z,,,63-69,,Defensive rebound by J. Tatum,q3,450S
+287,2024-06-09T20:07:44Z,,,63-69,,K. Porziņģis misses 3-pt jump shot from 28 ft,q3,464S
+288,2024-06-09T20:07:45Z,Defensive rebound by D. Lively,,63-69,,,q3,465S
+289,2024-06-09T20:08:06Z,Turnover by L. Dončić (bad pass; steal by J. Brown),,63-69,,,q3,486S
+290,2024-06-09T20:08:09Z,,,63-71,2,J. Holiday makes 2-pt dunk at rim (assist by J. Brown),q3,489S
+291,2024-06-09T20:08:22Z,J. Green misses 3-pt jump shot from 24 ft,,63-71,,,q3,502S
+292,2024-06-09T20:08:23Z,,,63-71,,Defensive rebound by J. Holiday,q3,503S
+293,2024-06-09T20:08:33Z,,,63-71,,Personal foul by J. Green (drawn by J. Brown),q3,513S
+294,2024-06-09T20:08:33Z,,,63-72,1,J. Brown makes free throw 1 of 2,q3,513S
+295,2024-06-09T20:08:33Z,K. Irving enters the game for L. Dončić,,63-72,,,q3,513S
+296,2024-06-09T20:08:33Z,,,63-73,1,J. Brown makes free throw 2 of 2,q3,513S
+297,2024-06-09T20:08:48Z,K. Irving misses 3-pt jump shot from 26 ft,,63-73,,,q3,528S
+298,2024-06-09T20:08:52Z,,,63-73,,Defensive rebound by J. Tatum,q3,532S
+299,2024-06-09T20:09:03Z,,,63-75,2,J. Holiday makes 2-pt layup from 3 ft (assist by J. Tatum),q3,543S
+300,2024-06-09T20:09:03Z,Dallas full timeout,,63-75,,,q3,543S
+301,2024-06-09T20:09:03Z,L. Dončić enters the game for J. Green,,63-75,,,q3,543S
+302,2024-06-09T20:09:03Z,D. Exum enters the game for J. Hardy,,63-75,,,q3,543S
+303,2024-06-09T20:09:03Z,D. Gafford enters the game for D. Lively,,63-75,,,q3,543S
+304,2024-06-09T20:09:14Z,L. Dončić makes 3-pt jump shot from 26 ft (assist by D. Exum),3,66-75,,,q3,554S
+305,2024-06-09T20:09:34Z,,,66-77,2,J. Tatum makes 2-pt layup from 1 ft,q3,574S
+306,2024-06-09T20:09:45Z,Shooting foul by J. Brown (drawn by L. Dončić),,66-77,,,q3,585S
+307,2024-06-09T20:09:45Z,L. Dončić makes free throw 1 of 2,1,67-77,,,q3,585S
+308,2024-06-09T20:09:45Z,L. Dončić misses free throw 2 of 2,,67-77,,,q3,585S
+309,2024-06-09T20:09:45Z,,,67-77,,Defensive rebound by J. Tatum,q3,585S
+310,2024-06-09T20:09:56Z,,,67-80,3,J. Brown makes 3-pt jump shot from 27 ft (assist by K. Porziņģis),q3,596S
+311,2024-06-09T20:10:18Z,D. Exum makes 3-pt jump shot from 28 ft (assist by L. Dončić),3,70-80,,,q3,618S
+312,2024-06-09T20:10:46Z,,,70-80,,S. Hauser misses 3-pt jump shot from 26 ft,q3,646S
+313,2024-06-09T20:10:48Z,,,70-80,,Offensive rebound by J. Holiday,q3,648S
+314,2024-06-09T20:10:58Z,,,70-80,,Turnover by J. Tatum (lost ball; steal by L. Dončić),q3,658S
+315,2024-06-09T20:11:03Z,D. Gafford misses 2-pt dunk from 1 ft (block by K. Porziņģis),,70-80,,,q3,663S
+316,2024-06-09T20:11:04Z,,,70-80,,Defensive rebound by J. Brown,q3,664S
+317,2024-06-09T20:11:08Z,,,70-80,,S. Hauser misses 3-pt jump shot from 24 ft,q3,668S
+318,2024-06-09T20:11:09Z,Defensive rebound by D. Gafford,,70-80,,,q3,669S
+319,2024-06-09T20:11:19Z,Shooting foul by S. Hauser (drawn by P. Washington),,70-80,,,q3,679S
+320,2024-06-09T20:11:19Z,P. Washington makes free throw 1 of 2,1,71-80,,,q3,679S
+321,2024-06-09T20:11:19Z,D. Jones enters the game for L. Dončić,,71-80,,,q3,679S
+322,2024-06-09T20:11:19Z,,,71-80,,A. Horford enters the game for K. Porziņģis,q3,679S
+323,2024-06-09T20:11:19Z,P. Washington makes free throw 2 of 2,1,72-80,,,q3,679S
+324,2024-06-09T20:11:31Z,,,72-80,,J. Tatum misses 3-pt jump shot from 28 ft,q3,691S
+325,2024-06-09T20:11:34Z,,,72-80,,Offensive rebound by J. Brown,q3,694S
+326,2024-06-09T20:11:37Z,,,72-80,,S. Hauser misses 3-pt jump shot from 24 ft,q3,697S
+327,2024-06-09T20:11:39Z,Defensive rebound by D. Gafford,,72-80,,,q3,699S
+328,2024-06-09T20:11:57Z,Shooting foul by J. Holiday (drawn by K. Irving),,72-80,,,q3,717S
+329,2024-06-09T20:11:57Z,K. Irving makes free throw 1 of 2,1,73-80,,,q3,717S
+330,2024-06-09T20:11:57Z,J. Green enters the game for P. Washington,,73-80,,,q3,717S
+331,2024-06-09T20:11:57Z,,,73-80,,P. Pritchard enters the game for J. Holiday,q3,717S
+332,2024-06-09T20:11:57Z,K. Irving makes free throw 2 of 2,1,74-80,,,q3,717S
+333,2024-06-09T20:12:00Z,,,74-83,3,P. Pritchard makes 3-pt jump shot from 34 ft,q3,720S
+334,2024-06-09T20:12:00Z,,,74-83,,Instant Replay (Request: Ruling Stands),q3,720S
+335,2024-06-09T20:00:24Z,P. Washington makes 2-pt hook shot from 5 ft (assist by L. Dončić),2,76-83,,,q4,24S
+336,2024-06-09T20:00:44Z,,,76-83,,Turnover by J. Tatum (traveling),q4,44S
+337,2024-06-09T20:00:55Z,L. Dončić misses 2-pt jump shot from 14 ft,,76-83,,,q4,55S
+338,2024-06-09T20:00:56Z,Offensive rebound by D. Gafford,,76-83,,,q4,56S
+339,2024-06-09T20:00:56Z,D. Gafford misses 2-pt layup at rim,,76-83,,,q4,56S
+340,2024-06-09T20:00:58Z,,,76-83,,Defensive rebound by A. Horford,q4,58S
+341,2024-06-09T20:01:05Z,,,76-83,,J. Tatum misses 3-pt jump shot from 26 ft,q4,65S
+342,2024-06-09T20:01:07Z,Defensive rebound by P. Washington,,76-83,,,q4,67S
+343,2024-06-09T20:01:14Z,Turnover by L. Dončić (lost ball; steal by P. Pritchard),,76-83,,,q4,74S
+344,2024-06-09T20:01:19Z,,,76-85,2,J. Brown makes 2-pt dunk from 2 ft (assist by J. Tatum),q4,79S
+345,2024-06-09T20:01:34Z,D. Gafford makes 2-pt layup from 1 ft (assist by K. Irving),2,78-85,,,q4,94S
+346,2024-06-09T20:01:53Z,,,78-88,3,J. Tatum makes 3-pt jump shot from 23 ft (assist by P. Pritchard),q4,113S
+347,2024-06-09T20:02:14Z,L. Dončić misses 2-pt jump shot from 17 ft,,78-88,,,q4,134S
+348,2024-06-09T20:02:15Z,,,78-88,,Defensive rebound by J. Tatum,q4,135S
+349,2024-06-09T20:02:28Z,,,78-88,,A. Horford misses 3-pt jump shot from 26 ft,q4,148S
+350,2024-06-09T20:02:29Z,Defensive rebound by K. Irving,,78-88,,,q4,149S
+351,2024-06-09T20:02:41Z,K. Irving misses 2-pt hook shot from 4 ft,,78-88,,,q4,161S
+352,2024-06-09T20:02:42Z,Offensive rebound by D. Gafford,,78-88,,,q4,162S
+353,2024-06-09T20:02:43Z,Shooting foul by D. White (drawn by D. Gafford),,78-88,,,q4,163S
+354,2024-06-09T20:02:43Z,D. Gafford misses free throw 1 of 2,,78-88,,,q4,163S
+355,2024-06-09T20:02:43Z,Offensive rebound by Team,,78-88,,,q4,163S
+356,2024-06-09T20:02:43Z,D. Jones enters the game for L. Dončić,,78-88,,,q4,163S
+357,2024-06-09T20:02:43Z,M. Kleber enters the game for P. Washington,,78-88,,,q4,163S
+358,2024-06-09T20:02:43Z,,,78-88,,J. Holiday enters the game for J. Brown,q4,163S
+359,2024-06-09T20:02:43Z,D. Gafford makes free throw 2 of 2,1,79-88,,,q4,163S
+360,2024-06-09T20:03:03Z,,,79-90,2,D. White makes 2-pt jump shot from 9 ft (assist by J. Tatum),q4,183S
+361,2024-06-09T20:03:19Z,D. Gafford makes 2-pt dunk from 1 ft (assist by K. Irving),2,81-90,,,q4,199S
+362,2024-06-09T20:03:45Z,,,81-90,,J. Tatum misses 2-pt jump shot from 19 ft,q4,225S
+363,2024-06-09T20:03:46Z,Defensive rebound by K. Irving,,81-90,,,q4,226S
+364,2024-06-09T20:03:54Z,K. Irving makes 2-pt layup from 1 ft,2,83-90,,,q4,234S
+365,2024-06-09T20:03:54Z,,,83-90,,Boston full timeout,q4,234S
+366,2024-06-09T20:03:54Z,L. Dončić enters the game for D. Exum,,83-90,,,q4,234S
+367,2024-06-09T20:03:54Z,,,83-90,,K. Porziņģis enters the game for P. Pritchard,q4,234S
+368,2024-06-09T20:04:17Z,,,83-93,3,D. White makes 3-pt jump shot from 27 ft,q4,257S
+369,2024-06-09T20:04:36Z,K. Irving misses 2-pt jump shot from 19 ft,,83-93,,,q4,276S
+370,2024-06-09T20:04:37Z,,,83-93,,Defensive rebound by A. Horford,q4,277S
+371,2024-06-09T20:04:54Z,,,83-93,,Shooting foul by K. Irving (drawn by J. Tatum),q4,294S
+372,2024-06-09T20:04:54Z,,,83-94,1,J. Tatum makes free throw 1 of 2,q4,294S
+373,2024-06-09T20:04:54Z,P. Washington enters the game for M. Kleber,,83-94,,,q4,294S
+374,2024-06-09T20:04:54Z,,,83-94,,J. Brown enters the game for A. Horford,q4,294S
+375,2024-06-09T20:04:54Z,,,83-95,1,J. Tatum makes free throw 2 of 2,q4,294S
+376,2024-06-09T20:05:15Z,L. Dončić misses 2-pt jump shot from 15 ft,,83-95,,,q4,315S
+377,2024-06-09T20:05:16Z,,,83-95,,Defensive rebound by K. Porziņģis,q4,316S
+378,2024-06-09T20:05:24Z,,,83-95,,J. Tatum misses 2-pt layup from 5 ft,q4,324S
+379,2024-06-09T20:05:25Z,Defensive rebound by D. Jones,,83-95,,,q4,325S
+380,2024-06-09T20:05:35Z,P. Washington misses 3-pt jump shot from 23 ft,,83-95,,,q4,335S
+381,2024-06-09T20:05:37Z,Offensive rebound by P. Washington,,83-95,,,q4,337S
+382,2024-06-09T20:05:39Z,P. Washington makes 2-pt layup from 1 ft,2,85-95,,,q4,339S
+383,2024-06-09T20:05:58Z,,,85-95,,J. Holiday misses 3-pt jump shot from 23 ft,q4,358S
+384,2024-06-09T20:05:59Z,Defensive rebound by D. Gafford,,85-95,,,q4,359S
+385,2024-06-09T20:06:10Z,L. Dončić misses 3-pt jump shot from 26 ft,,85-95,,,q4,370S
+386,2024-06-09T20:06:12Z,,,85-95,,Defensive rebound by J. Tatum,q4,372S
+387,2024-06-09T20:06:33Z,,,85-97,2,J. Brown makes 2-pt jump shot from 11 ft,q4,393S
+388,2024-06-09T20:06:49Z,K. Irving makes 2-pt layup from 3 ft,2,87-97,,,q4,409S
+389,2024-06-09T20:07:13Z,,,87-97,,J. Brown misses 2-pt jump shot from 11 ft,q4,433S
+390,2024-06-09T20:07:13Z,Defensive rebound by L. Dončić,,87-97,,,q4,433S
+391,2024-06-09T20:07:20Z,D. Gafford makes 2-pt dunk from 1 ft (assist by K. Irving),2,89-97,,,q4,440S
+392,2024-06-09T20:07:20Z,,,89-97,,Boston full timeout,q4,440S
+393,2024-06-09T20:07:20Z,,,89-97,,A. Horford enters the game for K. Porziņģis,q4,440S
+394,2024-06-09T20:07:42Z,,,89-97,,D. White misses 3-pt jump shot from 23 ft,q4,462S
+395,2024-06-09T20:07:44Z,Defensive rebound by D. Gafford,,89-97,,,q4,464S
+396,2024-06-09T20:07:53Z,Turnover by L. Dončić (bad pass; steal by D. White),,89-97,,,q4,473S
+397,2024-06-09T20:07:57Z,,,89-100,3,J. Holiday makes 3-pt jump shot from 27 ft (assist by A. Horford),q4,477S
+398,2024-06-09T20:08:12Z,K. Irving misses 3-pt jump shot from 27 ft,,89-100,,,q4,492S
+399,2024-06-09T20:08:14Z,,,89-100,,Defensive rebound by J. Tatum,q4,494S
+400,2024-06-09T20:08:23Z,,,89-100,,J. Tatum misses 2-pt dunk from 3 ft,q4,503S
+401,2024-06-09T20:08:24Z,,,89-100,,Offensive rebound by J. Holiday,q4,504S
+402,2024-06-09T20:08:26Z,,,89-103,3,D. White makes 3-pt jump shot from 26 ft (assist by J. Holiday),q4,506S
+403,2024-06-09T20:08:28Z,Dallas full timeout,,89-103,,,q4,508S
+404,2024-06-09T20:08:28Z,M. Kleber enters the game for D. Gafford,,89-103,,,q4,508S
+405,2024-06-09T20:08:43Z,D. Jones makes 2-pt layup from 2 ft (assist by L. Dončić),2,91-103,,,q4,523S
+406,2024-06-09T20:09:01Z,,,91-103,,D. White misses 2-pt jump shot from 11 ft,q4,541S
+407,2024-06-09T20:09:02Z,Defensive rebound by L. Dončić,,91-103,,,q4,542S
+408,2024-06-09T20:09:09Z,Shooting foul by D. White (drawn by D. Jones),,91-103,,,q4,549S
+409,2024-06-09T20:09:09Z,D. Jones makes free throw 1 of 2,1,92-103,,,q4,549S
+410,2024-06-09T20:09:09Z,D. Jones makes free throw 2 of 2,1,93-103,,,q4,549S
+411,2024-06-09T20:09:28Z,,,93-103,,Turnover by J. Brown (bad pass; steal by L. Dončić),q4,568S
+412,2024-06-09T20:09:39Z,Turnover by K. Irving (lost ball; steal by A. Horford),,93-103,,,q4,579S
+413,2024-06-09T20:10:02Z,,,93-103,,J. Tatum misses 2-pt jump shot from 16 ft,q4,602S
+414,2024-06-09T20:10:03Z,Defensive rebound by L. Dončić,,93-103,,,q4,603S
+415,2024-06-09T20:10:11Z,Shooting foul by J. Brown (drawn by P. Washington),,93-103,,,q4,611S
+416,2024-06-09T20:10:11Z,P. Washington makes free throw 1 of 2,1,94-103,,,q4,611S
+417,2024-06-09T20:10:11Z,P. Washington makes free throw 2 of 2,1,95-103,,,q4,611S
+418,2024-06-09T20:10:34Z,,,95-103,,J. Brown misses 3-pt jump shot from 30 ft,q4,634S
+419,2024-06-09T20:10:35Z,Defensive rebound by L. Dončić,,95-103,,,q4,635S
+420,2024-06-09T20:10:45Z,L. Dončić makes 2-pt layup from 2 ft,2,97-103,,,q4,645S
+421,2024-06-09T20:10:45Z,Shooting foul by A. Horford (drawn by L. Dončić),,97-103,,,q4,645S
+422,2024-06-09T20:10:45Z,L. Dončić makes free throw 1 of 1,1,98-103,,,q4,645S
+423,2024-06-09T20:11:05Z,,,98-103,,J. Tatum misses 2-pt dunk from 3 ft (block by D. Jones),q4,665S
+424,2024-06-09T20:11:06Z,Defensive rebound by P. Washington,,98-103,,,q4,666S
+425,2024-06-09T20:11:10Z,P. Washington misses 2-pt dunk from 2 ft (block by D. White),,98-103,,,q4,670S
+426,2024-06-09T20:11:11Z,,,98-103,,Defensive rebound by J. Holiday,q4,671S
+427,2024-06-09T20:11:31Z,,,98-105,2,J. Brown makes 2-pt layup from 3 ft,q4,691S
+428,2024-06-09T20:11:31Z,Dallas full timeout,,98-105,,,q4,691S
+429,2024-06-09T20:11:33Z,L. Dončić misses 3-pt jump shot from 25 ft,,98-105,,,q4,693S
+430,2024-06-09T20:11:35Z,,,98-105,,Defensive rebound by J. Holiday,q4,695S
+431,2024-06-09T20:11:59Z,,,98-105,,Turnover by Team (shot clock),q4,719S
+1,2024-06-12T20:30:00Z,Jump ball: A. Horford vs. D. Gafford (L. Dončić gains possession),Jump ball: A. Horford vs. D. Gafford (L. Dončić gains possession),Jump ball: A. Horford vs. D. Gafford (L. Dončić gains possession),Jump ball: A. Horford vs. D. Gafford (L. Dončić gains possession),Jump ball: A. Horford vs. D. Gafford (L. Dončić gains possession),q1,0S
+2,2024-06-12T20:30:14Z,,,0-2,2,K. Irving makes 2-pt layup from 3 ft (assist by L. Dončić),q1,14S
+3,2024-06-12T20:30:37Z,A. Horford makes 2-pt jump shot from 10 ft (assist by J. Brown),2,2-2,,,q1,37S
+4,2024-06-12T20:30:46Z,,,2-5,3,L. Dončić makes 3-pt jump shot from 27 ft,q1,46S
+5,2024-06-12T20:30:58Z,Turnover by J. Tatum (lost ball; steal by D. Jones),,2-5,,,q1,58S
+6,2024-06-12T20:31:02Z,,,2-7,2,D. Jones makes 2-pt layup from 2 ft,q1,62S
+7,2024-06-12T20:31:15Z,J. Holiday misses 3-pt jump shot from 22 ft,,2-7,,,q1,75S
+8,2024-06-12T20:31:18Z,,,2-7,,Defensive rebound by L. Dončić,q1,78S
+9,2024-06-12T20:31:25Z,,,2-7,,Turnover by L. Dončić (lost ball; steal by A. Horford),q1,85S
+10,2024-06-12T20:31:30Z,D. White misses 3-pt jump shot from 25 ft,,2-7,,,q1,90S
+11,2024-06-12T20:31:34Z,,,2-7,,Defensive rebound by K. Irving,q1,94S
+12,2024-06-12T20:31:48Z,,,2-9,2,L. Dončić makes 2-pt layup from 5 ft,q1,108S
+13,2024-06-12T20:31:49Z,Boston full timeout,,2-9,,,q1,109S
+14,2024-06-12T20:32:05Z,A. Horford makes 3-pt jump shot from 23 ft (assist by J. Brown),3,5-9,,,q1,125S
+15,2024-06-12T20:32:26Z,,,5-9,,D. Jones misses 3-pt jump shot from 22 ft (block by A. Horford),q1,146S
+16,2024-06-12T20:32:26Z,,,5-9,,Offensive rebound by Team,q1,146S
+17,2024-06-12T20:32:28Z,,,5-11,2,K. Irving makes 2-pt jump shot from 6 ft (assist by L. Dončić),q1,148S
+18,2024-06-12T20:32:45Z,D. White misses 3-pt jump shot from 22 ft,,5-11,,,q1,165S
+19,2024-06-12T20:32:45Z,,,5-11,,Defensive rebound by D. Gafford,q1,165S
+20,2024-06-12T20:33:04Z,,,5-11,,K. Irving misses 2-pt layup from 5 ft,q1,184S
+21,2024-06-12T20:33:07Z,Defensive rebound by J. Brown,,5-11,,,q1,187S
+22,2024-06-12T20:33:13Z,J. Tatum misses 2-pt layup from 2 ft (block by D. Gafford),,5-11,,,q1,193S
+23,2024-06-12T20:33:15Z,Offensive rebound by J. Holiday,,5-11,,,q1,195S
+24,2024-06-12T20:33:15Z,J. Holiday misses 2-pt layup from 2 ft,,5-11,,,q1,195S
+25,2024-06-12T20:33:15Z,,,5-11,,Defensive rebound by P. Washington,q1,195S
+26,2024-06-12T20:33:15Z,,,5-11,,Personal foul by J. Tatum (drawn by P. Washington),q1,195S
+27,2024-06-12T20:33:27Z,,,5-11,,L. Dončić misses 3-pt jump shot from 26 ft,q1,207S
+28,2024-06-12T20:33:31Z,Defensive rebound by J. Brown,,5-11,,,q1,211S
+29,2024-06-12T20:33:36Z,J. Brown misses 3-pt jump shot from 25 ft,,5-11,,,q1,216S
+30,2024-06-12T20:33:38Z,,,5-11,,Defensive rebound by L. Dončić,q1,218S
+31,2024-06-12T20:33:43Z,,,5-13,2,D. Gafford makes 2-pt dunk from 3 ft (assist by P. Washington),q1,223S
+32,2024-06-12T20:34:03Z,J. Holiday misses 2-pt hook shot from 6 ft,,5-13,,,q1,243S
+33,2024-06-12T20:34:06Z,,,5-13,,Defensive rebound by D. Jones,q1,246S
+34,2024-06-12T20:34:19Z,,,5-13,,K. Irving misses 3-pt jump shot from 27 ft,q1,259S
+35,2024-06-12T20:34:21Z,Defensive rebound by J. Tatum,,5-13,,,q1,261S
+36,2024-06-12T20:34:36Z,J. Holiday makes 2-pt jump shot from 15 ft,2,7-13,,,q1,276S
+37,2024-06-12T20:34:49Z,,,7-13,,Personal foul by J. Brown (drawn by L. Dončić),q1,289S
+38,2024-06-12T20:34:49Z,,,7-13,,J. Hardy enters the game for D. Gafford,q1,289S
+39,2024-06-12T20:34:49Z,,,7-13,,D. Lively enters the game for D. Jones,q1,289S
+40,2024-06-12T20:34:55Z,,,7-15,2,L. Dončić makes 2-pt layup from 2 ft,q1,295S
+41,2024-06-12T20:35:13Z,D. White misses 3-pt jump shot from 23 ft,,7-15,,,q1,313S
+42,2024-06-12T20:35:16Z,,,7-15,,Defensive rebound by D. Lively,q1,316S
+43,2024-06-12T20:35:23Z,,,7-17,2,K. Irving makes 2-pt layup from 7 ft,q1,323S
+44,2024-06-12T20:35:34Z,J. Tatum makes 2-pt layup from 2 ft (assist by D. White),2,9-17,,,q1,334S
+45,2024-06-12T20:35:50Z,,,9-19,2,L. Dončić makes 2-pt jump shot from 5 ft,q1,350S
+46,2024-06-12T20:36:04Z,Turnover by J. Brown (traveling),,9-19,,,q1,364S
+47,2024-06-12T20:36:04Z,X. Tillman enters the game for A. Horford,,9-19,,,q1,364S
+48,2024-06-12T20:36:04Z,,,9-19,,M. Kleber enters the game for P. Washington,q1,364S
+49,2024-06-12T20:36:12Z,,,9-21,2,D. Lively makes 2-pt layup from 3 ft (assist by L. Dončić),q1,372S
+50,2024-06-12T20:36:12Z,,,9-21,,Shooting foul by X. Tillman (drawn by D. Lively),q1,372S
+51,2024-06-12T20:36:12Z,,,9-22,1,D. Lively makes free throw 1 of 1,q1,372S
+52,2024-06-12T20:36:27Z,J. Tatum makes 3-pt jump shot from 26 ft,3,12-22,,,q1,387S
+53,2024-06-12T20:36:44Z,,,12-22,,L. Dončić misses 3-pt jump shot from 28 ft,q1,404S
+54,2024-06-12T20:36:46Z,Defensive rebound by D. White,,12-22,,,q1,406S
+55,2024-06-12T20:36:55Z,Personal foul by L. Dončić (drawn by J. Tatum),,12-22,,,q1,415S
+56,2024-06-12T20:37:03Z,J. Brown misses 3-pt jump shot from 27 ft,,12-22,,,q1,423S
+57,2024-06-12T20:37:06Z,,,12-22,,Defensive rebound by D. Lively,q1,426S
+58,2024-06-12T20:37:12Z,,,12-25,3,K. Irving makes 3-pt jump shot from 29 ft,q1,432S
+59,2024-06-12T20:37:26Z,Shooting foul by K. Irving (drawn by J. Brown),,12-25,,,q1,446S
+60,2024-06-12T20:37:26Z,J. Brown misses free throw 1 of 3,,12-25,,,q1,446S
+61,2024-06-12T20:37:26Z,Offensive rebound by Team,,12-25,,,q1,446S
+62,2024-06-12T20:37:26Z,J. Brown makes free throw 2 of 3,1,13-25,,,q1,446S
+63,2024-06-12T20:37:26Z,S. Hauser enters the game for D. White,,13-25,,,q1,446S
+64,2024-06-12T20:37:26Z,,,13-25,,P. Washington enters the game for L. Dončić,q1,446S
+65,2024-06-12T20:37:26Z,J. Brown makes free throw 3 of 3,1,14-25,,,q1,446S
+66,2024-06-12T20:37:38Z,,,14-25,,Turnover by J. Hardy (step out of bounds),q1,458S
+67,2024-06-12T20:37:54Z,J. Tatum misses 3-pt jump shot from 26 ft,,14-25,,,q1,474S
+68,2024-06-12T20:37:57Z,,,14-25,,Defensive rebound by M. Kleber,q1,477S
+69,2024-06-12T20:38:03Z,,,14-25,,J. Hardy misses 2-pt layup from 3 ft,q1,483S
+70,2024-06-12T20:38:06Z,Defensive rebound by S. Hauser,,14-25,,,q1,486S
+71,2024-06-12T20:38:09Z,J. Brown makes 2-pt layup from 1 ft (assist by S. Hauser),2,16-25,,,q1,489S
+72,2024-06-12T20:38:25Z,,,16-25,,P. Washington misses 2-pt hook shot from 5 ft,q1,505S
+73,2024-06-12T20:38:27Z,Defensive rebound by J. Tatum,,16-25,,,q1,507S
+74,2024-06-12T20:38:34Z,J. Tatum makes 3-pt jump shot from 26 ft (assist by J. Brown),3,19-25,,,q1,514S
+75,2024-06-12T20:38:37Z,,,19-25,,Dallas full timeout,q1,517S
+76,2024-06-12T20:38:37Z,,,19-25,,L. Dončić enters the game for J. Hardy,q1,517S
+77,2024-06-12T20:38:54Z,,,19-25,,K. Irving misses 2-pt jump shot from 23 ft,q1,534S
+78,2024-06-12T20:38:56Z,,,19-25,,Offensive rebound by Team,q1,536S
+79,2024-06-12T20:38:56Z,A. Horford enters the game for X. Tillman,,19-25,,,q1,536S
+80,2024-06-12T20:39:07Z,,,19-25,,M. Kleber misses 3-pt jump shot from 26 ft (block by J. Brown),q1,547S
+81,2024-06-12T20:39:08Z,Defensive rebound by Team,,19-25,,,q1,548S
+82,2024-06-12T20:39:25Z,Def 3 sec tech foul by Team,,19-25,,,q1,565S
+83,2024-06-12T20:39:25Z,J. Tatum makes technical free throw,1,20-25,,,q1,565S
+84,2024-06-12T20:39:25Z,,,20-25,,D. Exum enters the game for K. Irving,q1,565S
+85,2024-06-12T20:39:25Z,,,20-25,,D. Gafford enters the game for D. Lively,q1,565S
+86,2024-06-12T20:39:36Z,S. Hauser makes 3-pt jump shot from 24 ft (assist by J. Brown),3,23-25,,,q1,576S
+87,2024-06-12T20:39:59Z,,,23-27,2,L. Dončić makes 2-pt jump shot from 16 ft,q1,599S
+88,2024-06-12T20:40:14Z,Shooting foul by D. Exum (drawn by J. Tatum),,23-27,,,q1,614S
+89,2024-06-12T20:40:14Z,J. Tatum makes free throw 1 of 2,1,24-27,,,q1,614S
+90,2024-06-12T20:40:14Z,D. White enters the game for J. Holiday,,24-27,,,q1,614S
+91,2024-06-12T20:40:14Z,,,24-27,,D. Jones enters the game for M. Kleber,q1,614S
+92,2024-06-12T20:40:14Z,J. Tatum makes free throw 2 of 2,1,25-27,,,q1,614S
+93,2024-06-12T20:40:26Z,,,25-29,2,D. Exum makes 2-pt dunk from 3 ft,q1,626S
+94,2024-06-12T20:40:44Z,J. Tatum misses 3-pt jump shot from 26 ft,,25-29,,,q1,644S
+95,2024-06-12T20:40:48Z,,,25-29,,Defensive rebound by P. Washington,q1,648S
+96,2024-06-12T20:40:58Z,,,25-29,,Shooting foul by S. Hauser (drawn by L. Dončić),q1,658S
+97,2024-06-12T20:40:58Z,,,25-30,1,L. Dončić makes free throw 1 of 2,q1,658S
+98,2024-06-12T20:40:58Z,,,25-31,1,L. Dončić makes free throw 2 of 2,q1,658S
+99,2024-06-12T20:41:12Z,J. Brown misses 2-pt jump shot from 10 ft,,25-31,,,q1,672S
+100,2024-06-12T20:41:14Z,,,25-31,,Defensive rebound by L. Dončić,q1,674S
+101,2024-06-12T20:41:23Z,,,25-31,,L. Dončić misses 3-pt jump shot from 26 ft,q1,683S
+102,2024-06-12T20:41:26Z,Defensive rebound by S. Hauser,,25-31,,,q1,686S
+103,2024-06-12T20:41:32Z,S. Hauser makes 3-pt jump shot from 27 ft (assist by J. Tatum),3,28-31,,,q1,692S
+104,2024-06-12T20:41:52Z,,,28-31,,L. Dončić misses 3-pt jump shot from 26 ft,q1,712S
+105,2024-06-12T20:41:55Z,Defensive rebound by D. White,,28-31,,,q1,715S
+106,2024-06-12T20:41:59Z,J. Tatum makes 2-pt dunk from 2 ft (assist by D. White),2,30-31,,,q1,719S
+107,2024-06-12T20:30:15Z,A. Horford misses 3-pt jump shot from 26 ft,,30-31,,,q2,15S
+108,2024-06-12T20:30:19Z,,,30-31,,Defensive rebound by T. Hardaway,q2,19S
+109,2024-06-12T20:30:30Z,,,30-31,,T. Hardaway misses 3-pt jump shot from 29 ft,q2,30S
+110,2024-06-12T20:30:34Z,Defensive rebound by A. Horford,,30-31,,,q2,34S
+111,2024-06-12T20:30:56Z,Turnover by J. Brown (lost ball; steal by D. Lively),,30-31,,,q2,56S
+112,2024-06-12T20:31:08Z,,,30-31,,K. Irving misses 2-pt jump shot from 12 ft,q2,68S
+113,2024-06-12T20:31:10Z,,,30-31,,Offensive rebound by Team,q2,70S
+114,2024-06-12T20:31:23Z,,,30-31,,L. Dončić misses 2-pt jump shot from 15 ft,q2,83S
+115,2024-06-12T20:31:24Z,,,30-31,,Offensive rebound by Team,q2,84S
+116,2024-06-12T20:31:24Z,,,30-31,,Turnover by Team (shot clock),q2,84S
+117,2024-06-12T20:31:37Z,D. White misses 3-pt jump shot from 25 ft,,30-31,,,q2,97S
+118,2024-06-12T20:31:38Z,,,30-31,,Defensive rebound by Team,q2,98S
+119,2024-06-12T20:31:50Z,,,30-31,,Turnover by K. Irving (out of bounds lost ball),q2,110S
+120,2024-06-12T20:32:08Z,J. Brown makes 2-pt layup from 1 ft (assist by A. Horford),2,32-31,,,q2,128S
+121,2024-06-12T20:32:23Z,,,32-31,,Personal foul by D. White (drawn by D. Jones),q2,143S
+122,2024-06-12T20:32:23Z,J. Holiday enters the game for J. Brown,,32-31,,,q2,143S
+123,2024-06-12T20:32:23Z,J. Tatum enters the game for S. Hauser,,32-31,,,q2,143S
+124,2024-06-12T20:32:35Z,,,32-31,,Turnover by L. Dončić (bad pass; steal by J. Tatum),q2,155S
+125,2024-06-12T20:32:41Z,D. White misses 2-pt jump shot from 10 ft,,32-31,,,q2,161S
+126,2024-06-12T20:32:43Z,,,32-31,,Defensive rebound by D. Jones,q2,163S
+127,2024-06-12T20:32:50Z,,,32-33,2,K. Irving makes 2-pt jump shot from 9 ft,q2,170S
+128,2024-06-12T20:33:08Z,D. White makes 3-pt jump shot from 26 ft (assist by J. Holiday),3,35-33,,,q2,188S
+129,2024-06-12T20:33:28Z,,,35-33,,L. Dončić misses 2-pt jump shot from 12 ft,q2,208S
+130,2024-06-12T20:33:31Z,Defensive rebound by P. Pritchard,,35-33,,,q2,211S
+131,2024-06-12T20:33:44Z,P. Pritchard misses 3-pt jump shot from 27 ft,,35-33,,,q2,224S
+132,2024-06-12T20:33:49Z,,,35-33,,Defensive rebound by K. Irving,q2,229S
+133,2024-06-12T20:33:54Z,,,35-33,,D. Lively misses 2-pt dunk from 2 ft,q2,234S
+134,2024-06-12T20:33:57Z,,,35-33,,Offensive rebound by D. Jones,q2,237S
+135,2024-06-12T20:34:01Z,,,35-33,,L. Dončić misses 2-pt jump shot from 8 ft,q2,241S
+136,2024-06-12T20:34:03Z,Defensive rebound by Team,,35-33,,,q2,243S
+137,2024-06-12T20:34:03Z,Boston full timeout,,35-33,,,q2,243S
+138,2024-06-12T20:34:03Z,Instant Replay (Challenge: Ruling Stands),,35-33,,,q2,243S
+139,2024-06-12T20:34:03Z,X. Tillman enters the game for A. Horford,,35-33,,,q2,243S
+140,2024-06-12T20:34:03Z,,,35-33,,D. Gafford enters the game for D. Jones,q2,243S
+141,2024-06-12T20:34:03Z,,,35-33,,P. Washington enters the game for D. Lively,q2,243S
+142,2024-06-12T20:34:27Z,J. Tatum misses 2-pt jump shot from 8 ft,,35-33,,,q2,267S
+143,2024-06-12T20:34:29Z,,,35-33,,Defensive rebound by D. Gafford,q2,269S
+144,2024-06-12T20:34:42Z,,,35-33,,L. Dončić misses 2-pt layup from 3 ft (block by X. Tillman),q2,282S
+145,2024-06-12T20:34:43Z,Defensive rebound by Team,,35-33,,,q2,283S
+146,2024-06-12T20:34:43Z,,,35-33,,Loose ball foul by D. Gafford (drawn by X. Tillman),q2,283S
+147,2024-06-12T20:34:56Z,Offensive foul by X. Tillman (drawn by K. Irving),,35-33,,,q2,296S
+148,2024-06-12T20:34:56Z,Turnover by X. Tillman (offensive foul),,35-33,,,q2,296S
+149,2024-06-12T20:34:56Z,,,35-33,,J. Green enters the game for L. Dončić,q2,296S
+150,2024-06-12T20:35:16Z,,,35-33,,K. Irving misses 2-pt hook shot from 8 ft,q2,316S
+151,2024-06-12T20:35:20Z,Defensive rebound by J. Tatum,,35-33,,,q2,320S
+152,2024-06-12T20:35:32Z,J. Holiday misses 2-pt layup from 5 ft,,35-33,,,q2,332S
+153,2024-06-12T20:35:34Z,,,35-33,,Defensive rebound by P. Washington,q2,334S
+154,2024-06-12T20:35:47Z,,,35-36,3,K. Irving makes 3-pt jump shot from 24 ft (assist by J. Green),q2,347S
+155,2024-06-12T20:36:01Z,J. Tatum makes 3-pt jump shot from 28 ft,3,38-36,,,q2,361S
+156,2024-06-12T20:36:21Z,,,38-38,2,D. Gafford makes 2-pt dunk from 1 ft (assist by K. Irving),q2,381S
+157,2024-06-12T20:36:42Z,J. Tatum makes 2-pt layup from 1 ft,2,40-38,,,q2,402S
+158,2024-06-12T20:36:59Z,,,40-38,,P. Washington misses 2-pt jump shot from 6 ft,q2,419S
+159,2024-06-12T20:37:03Z,Defensive rebound by J. Tatum,,40-38,,,q2,423S
+160,2024-06-12T20:37:08Z,P. Pritchard misses 3-pt jump shot from 22 ft,,40-38,,,q2,428S
+161,2024-06-12T20:37:12Z,Offensive rebound by X. Tillman,,40-38,,,q2,432S
+162,2024-06-12T20:37:19Z,J. Tatum misses 3-pt jump shot from 26 ft,,40-38,,,q2,439S
+163,2024-06-12T20:37:24Z,,,40-38,,Defensive rebound by T. Hardaway,q2,444S
+164,2024-06-12T20:37:34Z,,,40-38,,Personal foul by P. Pritchard (drawn by K. Irving),q2,454S
+165,2024-06-12T20:37:34Z,J. Brown enters the game for P. Pritchard,,40-38,,,q2,454S
+166,2024-06-12T20:37:34Z,S. Hauser enters the game for X. Tillman,,40-38,,,q2,454S
+167,2024-06-12T20:37:34Z,A. Horford enters the game for D. White,,40-38,,,q2,454S
+168,2024-06-12T20:37:34Z,,,40-38,,L. Dončić enters the game for D. Gafford,q2,454S
+169,2024-06-12T20:37:34Z,,,40-38,,D. Lively enters the game for T. Hardaway,q2,454S
+170,2024-06-12T20:37:45Z,,,40-41,3,K. Irving makes 3-pt jump shot from 26 ft,q2,465S
+171,2024-06-12T20:38:01Z,J. Brown misses 3-pt jump shot from 31 ft,,40-41,,,q2,481S
+172,2024-06-12T20:38:04Z,,,40-41,,Defensive rebound by K. Irving,q2,484S
+173,2024-06-12T20:38:11Z,,,40-41,,P. Washington misses 3-pt jump shot from 25 ft,q2,491S
+174,2024-06-12T20:38:15Z,,,40-41,,Offensive rebound by J. Green,q2,495S
+175,2024-06-12T20:38:19Z,,,40-44,3,K. Irving makes 3-pt jump shot from 26 ft,q2,499S
+176,2024-06-12T20:38:35Z,S. Hauser makes 3-pt jump shot from 22 ft (assist by J. Tatum),3,43-44,,,q2,515S
+177,2024-06-12T20:38:52Z,,,43-46,2,L. Dončić makes 2-pt jump shot from 7 ft,q2,532S
+178,2024-06-12T20:39:14Z,J. Tatum misses 2-pt layup from 3 ft,,43-46,,,q2,554S
+179,2024-06-12T20:39:16Z,Offensive rebound by J. Holiday,,43-46,,,q2,556S
+180,2024-06-12T20:39:17Z,A. Horford misses 3-pt jump shot from 26 ft,,43-46,,,q2,557S
+181,2024-06-12T20:39:20Z,Offensive rebound by J. Holiday,,43-46,,,q2,560S
+182,2024-06-12T20:39:21Z,J. Holiday makes 2-pt layup from 4 ft,2,45-46,,,q2,561S
+183,2024-06-12T20:39:31Z,,,45-46,,Personal foul by J. Holiday (drawn by K. Irving),q2,571S
+184,2024-06-12T20:39:31Z,,,45-46,,Dallas full timeout,q2,571S
+185,2024-06-12T20:39:31Z,D. White enters the game for S. Hauser,,45-46,,,q2,571S
+186,2024-06-12T20:39:47Z,,,45-48,2,L. Dončić makes 2-pt jump shot from 12 ft,q2,587S
+187,2024-06-12T20:40:09Z,J. Tatum misses 3-pt jump shot from 23 ft,,45-48,,,q2,609S
+188,2024-06-12T20:40:09Z,,,45-48,,Defensive rebound by D. Lively,q2,609S
+189,2024-06-12T20:40:20Z,,,45-48,,K. Irving misses 2-pt layup from 2 ft,q2,620S
+190,2024-06-12T20:40:20Z,Defensive rebound by J. Brown,,45-48,,,q2,620S
+191,2024-06-12T20:40:28Z,A. Horford makes 3-pt jump shot from 23 ft (assist by J. Holiday),3,48-48,,,q2,628S
+192,2024-06-12T20:40:46Z,,,48-50,2,D. Lively makes 2-pt dunk from 1 ft (assist by P. Washington),q2,646S
+193,2024-06-12T20:41:10Z,D. White misses 3-pt jump shot from 22 ft,,48-50,,,q2,670S
+194,2024-06-12T20:41:11Z,,,48-50,,Defensive rebound by Team,q2,671S
+195,2024-06-12T20:41:11Z,Loose ball foul by J. Brown (drawn by K. Irving),,48-50,,,q2,671S
+196,2024-06-12T20:41:11Z,,,48-50,,T. Hardaway enters the game for J. Green,q2,671S
+197,2024-06-12T20:41:24Z,,,48-50,,Turnover by P. Washington (lost ball; steal by A. Horford),q2,684S
+198,2024-06-12T20:41:27Z,J. Tatum makes 2-pt layup from 3 ft (assist by J. Brown),2,50-50,,,q2,687S
+199,2024-06-12T20:41:45Z,,,50-50,,L. Dončić misses 3-pt jump shot from 27 ft,q2,705S
+200,2024-06-12T20:41:48Z,,,50-50,,Offensive rebound by P. Washington,q2,708S
+201,2024-06-12T20:41:51Z,,,50-50,,Shooting foul by J. Holiday (drawn by P. Washington),q2,711S
+202,2024-06-12T20:41:51Z,,,50-50,,P. Washington misses free throw 1 of 2,q2,711S
+203,2024-06-12T20:41:51Z,,,50-50,,Offensive rebound by Team,q2,711S
+204,2024-06-12T20:41:51Z,,,50-50,,J. Green enters the game for L. Dončić,q2,711S
+205,2024-06-12T20:41:51Z,,,50-50,,D. Jones enters the game for T. Hardaway,q2,711S
+206,2024-06-12T20:41:51Z,,,50-50,,M. Kleber enters the game for K. Irving,q2,711S
+207,2024-06-12T20:41:51Z,,,50-51,1,P. Washington makes free throw 2 of 2,q2,711S
+208,2024-06-12T20:41:55Z,J. Tatum misses 3-pt jump shot from 27 ft,,50-51,,,q2,715S
+209,2024-06-12T20:41:59Z,,,50-51,,Defensive rebound by P. Washington,q2,719S
+210,2024-06-12T20:30:18Z,J. Brown makes 2-pt jump shot from 12 ft,2,52-51,,,q3,18S
+211,2024-06-12T20:30:35Z,,,52-53,2,L. Dončić makes 2-pt layup from 3 ft,q3,35S
+212,2024-06-12T20:30:54Z,J. Holiday makes 2-pt layup from 3 ft (assist by D. White),2,54-53,,,q3,54S
+213,2024-06-12T20:31:08Z,,,54-53,,K. Irving misses 2-pt layup from 3 ft,q3,68S
+214,2024-06-12T20:31:12Z,,,54-53,,Offensive rebound by D. Gafford,q3,72S
+215,2024-06-12T20:31:12Z,,,54-55,2,D. Gafford makes 2-pt dunk at rim,q3,72S
+216,2024-06-12T20:31:30Z,J. Tatum makes 2-pt layup from 3 ft (assist by J. Brown),2,56-55,,,q3,90S
+217,2024-06-12T20:31:54Z,,,56-55,,Shooting foul by D. White (drawn by L. Dončić),q3,114S
+218,2024-06-12T20:31:54Z,,,56-56,1,L. Dončić makes free throw 1 of 2,q3,114S
+219,2024-06-12T20:31:54Z,,,56-57,1,L. Dončić makes free throw 2 of 2,q3,114S
+220,2024-06-12T20:32:08Z,J. Brown makes 2-pt jump shot from 9 ft,2,58-57,,,q3,128S
+221,2024-06-12T20:32:27Z,,,58-59,2,K. Irving makes 2-pt jump shot from 12 ft (assist by D. Jones),q3,147S
+222,2024-06-12T20:32:40Z,J. Holiday makes 3-pt jump shot from 27 ft,3,61-59,,,q3,160S
+223,2024-06-12T20:33:01Z,,,61-59,,Turnover by K. Irving (bad pass; steal by J. Holiday),q3,181S
+224,2024-06-12T20:33:15Z,J. Tatum makes 3-pt jump shot from 27 ft (assist by J. Brown),3,64-59,,,q3,195S
+225,2024-06-12T20:33:16Z,,,64-59,,Dallas full timeout,q3,196S
+226,2024-06-12T20:33:16Z,,,64-59,,T. Hardaway enters the game for D. Gafford,q3,196S
+227,2024-06-12T20:33:16Z,,,64-59,,D. Lively enters the game for D. Jones,q3,196S
+228,2024-06-12T20:33:35Z,,,64-59,,Personal foul by J. Tatum (drawn by K. Irving),q3,215S
+229,2024-06-12T20:33:41Z,,,64-59,,L. Dončić misses 2-pt jump shot from 9 ft,q3,221S
+230,2024-06-12T20:33:44Z,Defensive rebound by A. Horford,,64-59,,,q3,224S
+231,2024-06-12T20:33:44Z,Personal foul by L. Dončić (drawn by D. White),,64-59,,,q3,224S
+232,2024-06-12T20:33:53Z,J. Brown makes 2-pt dunk from 2 ft (assist by J. Tatum),2,66-59,,,q3,233S
+233,2024-06-12T20:34:12Z,,,66-61,2,K. Irving makes 2-pt jump shot from 9 ft,q3,252S
+234,2024-06-12T20:34:33Z,J. Tatum misses 3-pt jump shot from 23 ft,,66-61,,,q3,273S
+235,2024-06-12T20:34:36Z,,,66-61,,Defensive rebound by P. Washington,q3,276S
+236,2024-06-12T20:34:43Z,,,66-61,,T. Hardaway misses 3-pt jump shot from 24 ft,q3,283S
+237,2024-06-12T20:34:46Z,Defensive rebound by A. Horford,,66-61,,,q3,286S
+238,2024-06-12T20:35:01Z,J. Brown makes 3-pt jump shot from 23 ft (assist by A. Horford),3,69-61,,,q3,301S
+239,2024-06-12T20:35:19Z,,,69-61,,L. Dončić misses 2-pt layup from 3 ft,q3,319S
+240,2024-06-12T20:35:22Z,Defensive rebound by J. Holiday,,69-61,,,q3,322S
+241,2024-06-12T20:35:26Z,Personal foul by P. Washington (drawn by D. White),,69-61,,,q3,326S
+242,2024-06-12T20:35:26Z,X. Tillman enters the game for A. Horford,,69-61,,,q3,326S
+243,2024-06-12T20:35:38Z,J. Tatum misses 3-pt jump shot from 23 ft,,69-61,,,q3,338S
+244,2024-06-12T20:35:41Z,,,69-61,,Defensive rebound by D. Lively,q3,341S
+245,2024-06-12T20:35:46Z,,,69-61,,T. Hardaway misses 2-pt layup from 3 ft (block by D. White),q3,346S
+246,2024-06-12T20:35:49Z,Defensive rebound by X. Tillman,,69-61,,,q3,349S
+247,2024-06-12T20:35:51Z,J. Tatum makes 2-pt dunk from 1 ft (assist by J. Holiday),2,71-61,,,q3,351S
+248,2024-06-12T20:36:08Z,,,71-63,2,L. Dončić makes 2-pt layup from 3 ft,q3,368S
+249,2024-06-12T20:36:28Z,J. Tatum misses 3-pt jump shot from 28 ft,,71-63,,,q3,388S
+250,2024-06-12T20:36:31Z,,,71-63,,Defensive rebound by L. Dončić,q3,391S
+251,2024-06-12T20:36:31Z,S. Hauser enters the game for D. White,,71-63,,,q3,391S
+252,2024-06-12T20:36:31Z,,,71-63,,M. Kleber enters the game for P. Washington,q3,391S
+253,2024-06-12T20:36:42Z,,,71-63,,K. Irving misses 2-pt jump shot from 6 ft,q3,402S
+254,2024-06-12T20:36:45Z,,,71-63,,Offensive rebound by D. Lively,q3,405S
+255,2024-06-12T20:36:49Z,,,71-65,2,L. Dončić makes 2-pt layup from 1 ft (assist by D. Lively),q3,409S
+256,2024-06-12T20:37:11Z,J. Brown misses 3-pt jump shot from 24 ft,,71-65,,,q3,431S
+257,2024-06-12T20:37:13Z,,,71-65,,Defensive rebound by D. Lively,q3,433S
+258,2024-06-12T20:37:28Z,,,71-65,,K. Irving misses 2-pt jump shot from 13 ft,q3,448S
+259,2024-06-12T20:37:30Z,Defensive rebound by Team,,71-65,,,q3,450S
+260,2024-06-12T20:37:38Z,Personal foul by K. Irving (drawn by J. Brown),,71-65,,,q3,458S
+261,2024-06-12T20:37:48Z,J. Brown misses 2-pt jump shot from 16 ft,,71-65,,,q3,468S
+262,2024-06-12T20:37:51Z,,,71-65,,Defensive rebound by D. Lively,q3,471S
+263,2024-06-12T20:38:10Z,,,71-65,,L. Dončić misses 2-pt jump shot from 6 ft (block by X. Tillman),q3,490S
+264,2024-06-12T20:38:10Z,Defensive rebound by X. Tillman,,71-65,,,q3,490S
+265,2024-06-12T20:38:10Z,Boston full timeout,,71-65,,,q3,490S
+266,2024-06-12T20:38:10Z,D. White enters the game for J. Tatum,,71-65,,,q3,490S
+267,2024-06-12T20:38:10Z,,,71-65,,D. Gafford enters the game for L. Dončić,q3,490S
+268,2024-06-12T20:38:10Z,,,71-65,,J. Green enters the game for D. Lively,q3,490S
+269,2024-06-12T20:38:26Z,J. Brown misses 3-pt jump shot from 25 ft,,71-65,,,q3,506S
+270,2024-06-12T20:38:29Z,Offensive rebound by S. Hauser,,71-65,,,q3,509S
+271,2024-06-12T20:38:36Z,Shooting foul by D. Gafford (drawn by J. Brown),,71-65,,,q3,516S
+272,2024-06-12T20:38:36Z,J. Brown makes free throw 1 of 2,1,72-65,,,q3,516S
+273,2024-06-12T20:38:36Z,J. Brown makes free throw 2 of 2,1,73-65,,,q3,516S
+274,2024-06-12T20:39:00Z,,,73-65,,M. Kleber misses 2-pt jump shot from 6 ft,q3,540S
+275,2024-06-12T20:39:04Z,Defensive rebound by X. Tillman,,73-65,,,q3,544S
+276,2024-06-12T20:39:12Z,J. Brown makes 2-pt jump shot from 19 ft (assist by J. Holiday),2,75-65,,,q3,552S
+277,2024-06-12T20:39:28Z,,,75-65,,T. Hardaway misses 2-pt jump shot from 17 ft,q3,568S
+278,2024-06-12T20:39:31Z,Defensive rebound by D. White,,75-65,,,q3,571S
+279,2024-06-12T20:39:46Z,X. Tillman makes 3-pt jump shot from 23 ft (assist by J. Brown),3,78-65,,,q3,586S
+280,2024-06-12T20:40:11Z,,,78-67,2,K. Irving makes 2-pt jump shot from 22 ft (assist by D. Gafford),q3,611S
+281,2024-06-12T20:40:16Z,Personal foul by J. Green (drawn by D. White),,78-67,,,q3,616S
+282,2024-06-12T20:40:16Z,D. White makes free throw 1 of 2,1,79-67,,,q3,616S
+283,2024-06-12T20:40:16Z,A. Horford enters the game for X. Tillman,,79-67,,,q3,616S
+284,2024-06-12T20:40:16Z,,,79-67,,L. Dončić enters the game for D. Gafford,q3,616S
+285,2024-06-12T20:40:16Z,,,79-67,,D. Jones enters the game for T. Hardaway,q3,616S
+286,2024-06-12T20:40:16Z,,,79-67,,P. Washington enters the game for M. Kleber,q3,616S
+287,2024-06-12T20:40:16Z,D. White makes free throw 2 of 2,1,80-67,,,q3,616S
+288,2024-06-12T20:40:36Z,,,80-67,,K. Irving misses 2-pt jump shot from 12 ft,q3,636S
+289,2024-06-12T20:40:40Z,Defensive rebound by D. White,,80-67,,,q3,640S
+290,2024-06-12T20:40:47Z,S. Hauser misses 3-pt jump shot from 24 ft,,80-67,,,q3,647S
+291,2024-06-12T20:40:49Z,,,80-67,,Defensive rebound by P. Washington,q3,649S
+292,2024-06-12T20:40:56Z,,,80-70,3,P. Washington makes 3-pt jump shot from 25 ft (assist by J. Green),q3,656S
+293,2024-06-12T20:41:19Z,D. White makes 3-pt jump shot from 30 ft,3,83-70,,,q3,679S
+294,2024-06-12T20:41:36Z,,,83-70,,P. Washington misses 2-pt hook shot from 11 ft,q3,696S
+295,2024-06-12T20:41:38Z,Defensive rebound by A. Horford,,83-70,,,q3,698S
+296,2024-06-12T20:41:53Z,J. Brown makes 2-pt dunk from 2 ft,2,85-70,,,q3,713S
+297,2024-06-12T20:41:57Z,,,85-70,,Personal take foul by D. White (drawn by D. Jones),q3,717S
+298,2024-06-12T20:41:57Z,J. Tatum enters the game for S. Hauser,,85-70,,,q3,717S
+299,2024-06-12T20:42:00Z,,,85-70,,K. Irving misses 2-pt layup from 2 ft (block by D. White),q3,720S
+300,2024-06-12T20:42:00Z,,,85-70,,Offensive rebound by Team,q3,720S
+301,2024-06-12T20:30:13Z,,,85-70,,Offensive foul by L. Dončić (drawn by J. Brown),q4,13S
+302,2024-06-12T20:30:13Z,,,85-70,,Turnover by L. Dončić (offensive foul),q4,13S
+303,2024-06-12T20:30:31Z,J. Brown makes 3-pt jump shot from 23 ft (assist by J. Tatum),3,88-70,,,q4,31S
+304,2024-06-12T20:30:43Z,,,88-70,,K. Irving misses 2-pt jump shot from 9 ft,q4,43S
+305,2024-06-12T20:30:43Z,Defensive rebound by Team,,88-70,,,q4,43S
+306,2024-06-12T20:30:43Z,,,88-70,,Loose ball foul by K. Irving (drawn by A. Horford),q4,43S
+307,2024-06-12T20:30:53Z,D. White makes 3-pt jump shot from 25 ft (assist by P. Pritchard),3,91-70,,,q4,53S
+308,2024-06-12T20:30:54Z,,,91-70,,Dallas full timeout,q4,54S
+309,2024-06-12T20:31:14Z,,,91-70,,L. Dončić misses 2-pt hook shot from 4 ft,q4,74S
+310,2024-06-12T20:31:18Z,Defensive rebound by J. Brown,,91-70,,,q4,78S
+311,2024-06-12T20:31:39Z,P. Pritchard misses 2-pt jump shot from 16 ft,,91-70,,,q4,99S
+312,2024-06-12T20:31:42Z,,,91-70,,Defensive rebound by D. Lively,q4,102S
+313,2024-06-12T20:31:46Z,,,91-73,3,P. Washington makes 3-pt jump shot from 25 ft (assist by L. Dončić),q4,106S
+314,2024-06-12T20:32:07Z,J. Brown misses 3-pt jump shot from 24 ft,,91-73,,,q4,127S
+315,2024-06-12T20:32:09Z,,,91-73,,Defensive rebound by J. Green,q4,129S
+316,2024-06-12T20:32:16Z,,,91-73,,Personal foul by P. Pritchard (drawn by D. Lively),q4,136S
+317,2024-06-12T20:32:16Z,J. Holiday enters the game for J. Brown,,91-73,,,q4,136S
+318,2024-06-12T20:32:26Z,,,91-75,2,L. Dončić makes 2-pt layup from 4 ft,q4,146S
+319,2024-06-12T20:32:36Z,Personal foul by L. Dončić (drawn by P. Pritchard),,91-75,,,q4,156S
+320,2024-06-12T20:32:49Z,P. Pritchard misses 2-pt jump shot from 20 ft,,91-75,,,q4,169S
+321,2024-06-12T20:32:52Z,,,91-75,,Defensive rebound by L. Dončić,q4,172S
+322,2024-06-12T20:32:58Z,,,91-75,,L. Dončić misses 3-pt jump shot from 25 ft,q4,178S
+323,2024-06-12T20:33:04Z,,,91-75,,Offensive rebound by D. Lively,q4,184S
+324,2024-06-12T20:33:04Z,,,91-77,2,D. Lively makes 2-pt layup at rim,q4,184S
+325,2024-06-12T20:33:24Z,J. Tatum misses 2-pt jump shot from 15 ft,,91-77,,,q4,204S
+326,2024-06-12T20:33:28Z,,,91-77,,Defensive rebound by L. Dončić,q4,208S
+327,2024-06-12T20:33:36Z,,,91-80,3,J. Green makes 3-pt jump shot from 24 ft (assist by L. Dončić),q4,216S
+328,2024-06-12T20:33:37Z,Boston full timeout,,91-80,,,q4,217S
+329,2024-06-12T20:33:37Z,J. Brown enters the game for P. Pritchard,,91-80,,,q4,217S
+330,2024-06-12T20:33:56Z,Turnover by J. Tatum (lost ball; steal by D. Lively),,91-80,,,q4,236S
+331,2024-06-12T20:33:59Z,,,91-80,,Shooting foul by J. Brown (drawn by P. Washington),q4,239S
+332,2024-06-12T20:33:59Z,,,91-81,1,P. Washington makes free throw 1 of 2,q4,239S
+333,2024-06-12T20:33:59Z,,,91-82,1,P. Washington makes free throw 2 of 2,q4,239S
+334,2024-06-12T20:34:15Z,J. Brown makes 2-pt jump shot from 11 ft (assist by J. Tatum),2,93-82,,,q4,255S
+335,2024-06-12T20:34:33Z,,,93-84,2,K. Irving makes 2-pt jump shot from 7 ft,q4,273S
+336,2024-06-12T20:34:49Z,J. Tatum misses 2-pt layup from 3 ft,,93-84,,,q4,289S
+337,2024-06-12T20:34:51Z,,,93-84,,Defensive rebound by D. Lively,q4,291S
+338,2024-06-12T20:34:59Z,,,93-87,3,P. Washington makes 3-pt jump shot from 23 ft (assist by L. Dončić),q4,299S
+339,2024-06-12T20:35:21Z,J. Brown misses 3-pt jump shot from 30 ft,,93-87,,,q4,321S
+340,2024-06-12T20:35:21Z,,,93-87,,Defensive rebound by P. Washington,q4,321S
+341,2024-06-12T20:35:34Z,,,93-87,,L. Dončić misses 2-pt layup from 3 ft,q4,334S
+342,2024-06-12T20:35:36Z,Defensive rebound by J. Brown,,93-87,,,q4,336S
+343,2024-06-12T20:35:39Z,Turnover by A. Horford (traveling),,93-87,,,q4,339S
+344,2024-06-12T20:35:49Z,,,93-87,,Shooting foul by J. Holiday (drawn by K. Irving),q4,349S
+345,2024-06-12T20:35:49Z,,,93-88,1,K. Irving makes free throw 1 of 3,q4,349S
+346,2024-06-12T20:35:49Z,,,93-89,1,K. Irving makes free throw 2 of 3,q4,349S
+347,2024-06-12T20:35:49Z,,,93-90,1,K. Irving makes free throw 3 of 3,q4,349S
+348,2024-06-12T20:36:06Z,Turnover by J. Brown (lost ball; steal by L. Dončić),,93-90,,,q4,366S
+349,2024-06-12T20:36:18Z,,,93-90,,P. Washington misses 3-pt jump shot from 24 ft,q4,378S
+350,2024-06-12T20:36:26Z,Defensive rebound by J. Tatum,,93-90,,,q4,386S
+351,2024-06-12T20:36:34Z,J. Holiday misses 3-pt jump shot from 25 ft,,93-90,,,q4,394S
+352,2024-06-12T20:36:35Z,,,93-90,,Defensive rebound by D. Lively,q4,395S
+353,2024-06-12T20:36:35Z,,,93-90,,Dallas full timeout,q4,395S
+354,2024-06-12T20:36:52Z,,,93-90,,Personal foul by D. White (drawn by L. Dončić),q4,412S
+355,2024-06-12T20:37:03Z,,,93-90,,L. Dončić misses 2-pt jump shot from 3 ft,q4,423S
+356,2024-06-12T20:37:05Z,Defensive rebound by J. Brown,,93-90,,,q4,425S
+357,2024-06-12T20:37:22Z,Personal foul by L. Dončić (drawn by J. Brown),,93-90,,,q4,442S
+358,2024-06-12T20:37:22Z,Boston full timeout,,93-90,,,q4,442S
+359,2024-06-12T20:37:32Z,A. Horford misses 3-pt jump shot from 24 ft,,93-90,,,q4,452S
+360,2024-06-12T20:37:36Z,,,93-90,,Defensive rebound by J. Green,q4,456S
+361,2024-06-12T20:37:42Z,,,93-90,,K. Irving misses 2-pt jump shot from 9 ft,q4,462S
+362,2024-06-12T20:37:45Z,Defensive rebound by J. Tatum,,93-90,,,q4,465S
+363,2024-06-12T20:37:48Z,Personal foul by L. Dončić (drawn by J. Brown),,93-90,,,q4,468S
+364,2024-06-12T20:37:48Z,,,93-90,,Dallas full timeout,q4,468S
+365,2024-06-12T20:37:48Z,,,93-90,,Instant Replay (Challenge: Ruling Stands),q4,468S
+366,2024-06-12T20:37:48Z,,,93-90,,T. Hardaway enters the game for L. Dončić,q4,468S
+367,2024-06-12T20:38:06Z,J. Brown misses 2-pt jump shot from 13 ft,,93-90,,,q4,486S
+368,2024-06-12T20:38:09Z,,,93-90,,Defensive rebound by D. Lively,q4,489S
+369,2024-06-12T20:38:23Z,,,93-92,2,K. Irving makes 2-pt jump shot from 17 ft,q4,503S
+370,2024-06-12T20:38:49Z,J. Tatum misses 2-pt jump shot from 5 ft,,93-92,,,q4,529S
+371,2024-06-12T20:38:52Z,Offensive rebound by J. Brown,,93-92,,,q4,532S
+372,2024-06-12T20:38:52Z,J. Brown makes 2-pt layup at rim,2,95-92,,,q4,532S
+373,2024-06-12T20:38:55Z,,,95-92,,Offensive foul by P. Washington (drawn by J. Holiday),q4,535S
+374,2024-06-12T20:38:55Z,,,95-92,,Turnover by P. Washington (offensive foul),q4,535S
+375,2024-06-12T20:39:12Z,D. White makes 3-pt jump shot from 26 ft (assist by J. Holiday),3,98-92,,,q4,552S
+376,2024-06-12T20:39:28Z,,,98-92,,Shooting foul by J. Holiday (drawn by K. Irving),q4,568S
+377,2024-06-12T20:39:28Z,,,98-93,1,K. Irving makes free throw 1 of 2,q4,568S
+378,2024-06-12T20:39:28Z,,,98-94,1,K. Irving makes free throw 2 of 2,q4,568S
+379,2024-06-12T20:39:43Z,J. Tatum makes 2-pt dunk from 2 ft (assist by D. White),2,100-94,,,q4,583S
+380,2024-06-12T20:40:01Z,,,100-94,,K. Irving misses 2-pt layup from 5 ft,q4,601S
+381,2024-06-12T20:40:03Z,Defensive rebound by D. White,,100-94,,,q4,603S
+382,2024-06-12T20:40:04Z,Turnover by D. White (bad pass; steal by J. Green),,100-94,,,q4,604S
+383,2024-06-12T20:40:05Z,,,100-94,,J. Green misses 2-pt layup from 4 ft,q4,605S
+384,2024-06-12T20:40:05Z,,,100-94,,Offensive rebound by D. Lively,q4,605S
+385,2024-06-12T20:40:05Z,,,100-96,2,D. Lively makes 2-pt dunk at rim,q4,605S
+386,2024-06-12T20:40:26Z,J. Tatum misses 3-pt jump shot from 28 ft,,100-96,,,q4,626S
+387,2024-06-12T20:40:30Z,,,100-96,,Defensive rebound by T. Hardaway,q4,630S
+388,2024-06-12T20:40:40Z,,,100-98,2,D. Lively makes 2-pt dunk at rim (assist by K. Irving),q4,640S
+389,2024-06-12T20:40:59Z,J. Brown makes 2-pt jump shot from 21 ft,2,102-98,,,q4,659S
+390,2024-06-12T20:41:11Z,,,102-98,,P. Washington misses 3-pt jump shot from 23 ft,q4,671S
+391,2024-06-12T20:41:14Z,Defensive rebound by A. Horford,,102-98,,,q4,674S
+392,2024-06-12T20:41:18Z,Turnover by A. Horford (out of bounds lost ball),,102-98,,,q4,678S
+393,2024-06-12T20:41:35Z,,,102-98,,K. Irving misses 3-pt jump shot from 26 ft,q4,695S
+394,2024-06-12T20:41:38Z,Defensive rebound by Team,,102-98,,,q4,698S
+395,2024-06-12T20:41:38Z,,,102-98,,Loose ball foul by P. Washington (drawn by D. White),q4,698S
+396,2024-06-12T20:41:38Z,D. White makes free throw 1 of 2,1,103-98,,,q4,698S
+397,2024-06-12T20:41:38Z,D. White makes free throw 2 of 2,1,104-98,,,q4,698S
+398,2024-06-12T20:41:38Z,,,104-98,,Dallas full timeout,q4,698S
+399,2024-06-12T20:41:41Z,,,104-98,,T. Hardaway misses 3-pt jump shot from 25 ft,q4,701S
+400,2024-06-12T20:41:44Z,Defensive rebound by J. Brown,,104-98,,,q4,704S
+401,2024-06-12T20:41:46Z,Personal take foul by J. Green (drawn by J. Tatum),,104-98,,,q4,706S
+402,2024-06-12T20:41:46Z,J. Tatum makes free throw 1 of 2,1,105-98,,,q4,706S
+403,2024-06-12T20:41:46Z,J. Tatum makes free throw 2 of 2,1,106-98,,,q4,706S
+404,2024-06-12T20:41:50Z,,,106-98,,Personal take foul by A. Horford (drawn by P. Washington),q4,710S
+405,2024-06-12T20:41:50Z,,,106-98,,P. Washington misses free throw 1 of 2,q4,710S
+406,2024-06-12T20:41:50Z,,,106-98,,Offensive rebound by Team,q4,710S
+407,2024-06-12T20:41:50Z,,,106-99,1,P. Washington makes free throw 2 of 2,q4,710S
+1,2024-06-14T20:30:00Z,Jump ball: A. Horford vs. D. Gafford (J. Tatum gains possession),Jump ball: A. Horford vs. D. Gafford (J. Tatum gains possession),Jump ball: A. Horford vs. D. Gafford (J. Tatum gains possession),Jump ball: A. Horford vs. D. Gafford (J. Tatum gains possession),Jump ball: A. Horford vs. D. Gafford (J. Tatum gains possession),q1,0S
+2,2024-06-14T20:30:24Z,J. Tatum misses 2-pt jump shot from 8 ft,,0-0,,,q1,24S
+3,2024-06-14T20:30:26Z,,,0-0,,Defensive rebound by L. Dončić,q1,26S
+4,2024-06-14T20:30:39Z,,,0-0,,P. Washington misses 2-pt hook shot from 4 ft,q1,39S
+5,2024-06-14T20:30:41Z,Defensive rebound by A. Horford,,0-0,,,q1,41S
+6,2024-06-14T20:30:51Z,D. White misses 3-pt jump shot from 24 ft,,0-0,,,q1,51S
+7,2024-06-14T20:30:54Z,,,0-0,,Defensive rebound by K. Irving,q1,54S
+8,2024-06-14T20:31:01Z,,,0-2,2,K. Irving makes 2-pt layup from 2 ft,q1,61S
+9,2024-06-14T20:31:15Z,J. Brown misses 3-pt jump shot from 25 ft,,0-2,,,q1,75S
+10,2024-06-14T20:31:17Z,,,0-2,,Defensive rebound by L. Dončić,q1,77S
+11,2024-06-14T20:31:24Z,,,0-4,2,L. Dončić makes 2-pt layup from 1 ft,q1,84S
+12,2024-06-14T20:31:45Z,J. Brown makes 2-pt layup from 3 ft (assist by D. White),2,2-4,,,q1,105S
+13,2024-06-14T20:31:52Z,,,2-4,,Turnover by D. Gafford (bad pass),q1,112S
+14,2024-06-14T20:32:01Z,J. Tatum makes 3-pt jump shot from 25 ft (assist by J. Holiday),3,5-4,,,q1,121S
+15,2024-06-14T20:32:22Z,,,5-4,,Turnover by P. Washington (bad pass; steal by A. Horford),q1,142S
+16,2024-06-14T20:32:30Z,Shooting foul by P. Washington (drawn by J. Tatum),,5-4,,,q1,150S
+17,2024-06-14T20:32:30Z,J. Tatum makes free throw 1 of 2,1,6-4,,,q1,150S
+18,2024-06-14T20:32:30Z,,,6-4,,D. Lively enters the game for D. Gafford,q1,150S
+19,2024-06-14T20:32:30Z,J. Tatum makes free throw 2 of 2,1,7-4,,,q1,150S
+20,2024-06-14T20:32:48Z,,,7-6,2,L. Dončić makes 2-pt jump shot from 12 ft,q1,168S
+21,2024-06-14T20:32:58Z,Offensive foul by J. Brown (drawn by K. Irving),,7-6,,,q1,178S
+22,2024-06-14T20:32:58Z,Turnover by J. Brown (offensive foul),,7-6,,,q1,178S
+23,2024-06-14T20:33:11Z,,,7-6,,L. Dončić misses 3-pt jump shot from 26 ft,q1,191S
+24,2024-06-14T20:33:17Z,Defensive rebound by D. White,,7-6,,,q1,197S
+25,2024-06-14T20:33:22Z,J. Brown makes 2-pt layup from 1 ft (assist by J. Tatum),2,9-6,,,q1,202S
+26,2024-06-14T20:33:31Z,,,9-8,2,L. Dončić makes 2-pt layup from 3 ft,q1,211S
+27,2024-06-14T20:33:52Z,J. Tatum misses 3-pt jump shot from 28 ft,,9-8,,,q1,232S
+28,2024-06-14T20:33:55Z,,,9-8,,Defensive rebound by D. Jones,q1,235S
+29,2024-06-14T20:34:06Z,,,9-8,,D. Jones misses 2-pt layup from 3 ft,q1,246S
+30,2024-06-14T20:34:08Z,Defensive rebound by J. Brown,,9-8,,,q1,248S
+31,2024-06-14T20:34:17Z,J. Brown misses 3-pt jump shot from 28 ft,,9-8,,,q1,257S
+32,2024-06-14T20:34:20Z,,,9-8,,Defensive rebound by D. Lively,q1,260S
+33,2024-06-14T20:34:30Z,,,9-8,,L. Dončić misses 3-pt jump shot from 26 ft,q1,270S
+34,2024-06-14T20:34:32Z,Defensive rebound by D. White,,9-8,,,q1,272S
+35,2024-06-14T20:34:48Z,D. White misses 3-pt jump shot from 25 ft,,9-8,,,q1,288S
+36,2024-06-14T20:34:51Z,,,9-8,,Defensive rebound by L. Dončić,q1,291S
+37,2024-06-14T20:34:57Z,,,9-8,,K. Irving misses 2-pt layup from 3 ft (block by J. Tatum),q1,297S
+38,2024-06-14T20:34:58Z,,,9-8,,Offensive rebound by D. Lively,q1,298S
+39,2024-06-14T20:34:58Z,,,9-8,,Personal foul by A. Horford (drawn by D. Lively),q1,298S
+40,2024-06-14T20:35:10Z,,,9-10,2,K. Irving makes 2-pt layup from 3 ft,q1,310S
+41,2024-06-14T20:35:16Z,Personal foul by L. Dončić (drawn by J. Brown),,9-10,,,q1,316S
+42,2024-06-14T20:35:16Z,,,9-10,,Dallas full timeout,q1,316S
+43,2024-06-14T20:35:16Z,X. Tillman enters the game for A. Horford,,9-10,,,q1,316S
+44,2024-06-14T20:35:24Z,J. Tatum makes 2-pt layup from 1 ft (assist by X. Tillman),2,11-10,,,q1,324S
+45,2024-06-14T20:35:46Z,,,11-13,3,D. Lively makes 3-pt jump shot from 23 ft (assist by L. Dončić),q1,346S
+46,2024-06-14T20:36:01Z,X. Tillman misses 2-pt layup from 2 ft,,11-13,,,q1,361S
+47,2024-06-14T20:36:04Z,,,11-13,,Defensive rebound by D. Jones,q1,364S
+48,2024-06-14T20:36:10Z,,,11-15,2,D. Lively makes 2-pt dunk from 1 ft (assist by K. Irving),q1,370S
+49,2024-06-14T20:36:24Z,X. Tillman makes 2-pt layup from 3 ft,2,13-15,,,q1,384S
+50,2024-06-14T20:36:24Z,Shooting foul by P. Washington (drawn by X. Tillman),,13-15,,,q1,384S
+51,2024-06-14T20:36:24Z,,,13-15,,J. Green enters the game for K. Irving,q1,384S
+52,2024-06-14T20:36:24Z,,,13-15,,M. Kleber enters the game for P. Washington,q1,384S
+53,2024-06-14T20:36:24Z,X. Tillman makes free throw 1 of 1,1,14-15,,,q1,384S
+54,2024-06-14T20:36:38Z,,,14-17,2,L. Dončić makes 2-pt jump shot from 11 ft,q1,398S
+55,2024-06-14T20:36:50Z,J. Brown misses 2-pt jump shot from 11 ft,,14-17,,,q1,410S
+56,2024-06-14T20:36:52Z,,,14-17,,Defensive rebound by D. Lively,q1,412S
+57,2024-06-14T20:37:00Z,,,14-19,2,D. Jones makes 2-pt layup from 1 ft,q1,420S
+58,2024-06-14T20:37:26Z,J. Holiday misses 2-pt jump shot from 7 ft,,14-19,,,q1,446S
+59,2024-06-14T20:37:29Z,,,14-19,,Defensive rebound by J. Green,q1,449S
+60,2024-06-14T20:37:35Z,,,14-19,,D. Jones misses 3-pt jump shot from 25 ft,q1,455S
+61,2024-06-14T20:37:35Z,,,14-19,,Offensive rebound by D. Lively,q1,455S
+62,2024-06-14T20:37:49Z,,,14-19,,Shooting foul by X. Tillman (drawn by L. Dončić),q1,469S
+63,2024-06-14T20:37:49Z,,,14-20,1,L. Dončić makes free throw 1 of 3,q1,469S
+64,2024-06-14T20:37:49Z,,,14-21,1,L. Dončić makes free throw 2 of 3,q1,469S
+65,2024-06-14T20:37:49Z,Boston full timeout,,14-21,,,q1,469S
+66,2024-06-14T20:37:49Z,S. Hauser enters the game for D. White,,14-21,,,q1,469S
+67,2024-06-14T20:37:49Z,,,14-21,,K. Irving enters the game for D. Jones,q1,469S
+68,2024-06-14T20:37:49Z,,,14-21,,L. Dončić misses free throw 3 of 3,q1,469S
+69,2024-06-14T20:37:51Z,Defensive rebound by J. Tatum,,14-21,,,q1,471S
+70,2024-06-14T20:38:04Z,S. Hauser misses 3-pt jump shot from 25 ft,,14-21,,,q1,484S
+71,2024-06-14T20:38:07Z,,,14-21,,Defensive rebound by K. Irving,q1,487S
+72,2024-06-14T20:38:21Z,,,14-23,2,K. Irving makes 2-pt jump shot from 7 ft,q1,501S
+73,2024-06-14T20:38:33Z,Turnover by J. Holiday (lost ball; steal by L. Dončić),,14-23,,,q1,513S
+74,2024-06-14T20:38:41Z,,,14-25,2,L. Dončić makes 2-pt layup from 1 ft,q1,521S
+75,2024-06-14T20:38:47Z,Turnover by J. Holiday (bad pass),,14-25,,,q1,527S
+76,2024-06-14T20:38:47Z,A. Horford enters the game for J. Holiday,,14-25,,,q1,527S
+77,2024-06-14T20:38:47Z,D. White enters the game for X. Tillman,,14-25,,,q1,527S
+78,2024-06-14T20:38:59Z,,,14-25,,L. Dončić misses 2-pt jump shot from 13 ft,q1,539S
+79,2024-06-14T20:39:03Z,,,14-25,,Offensive rebound by D. Lively,q1,543S
+80,2024-06-14T20:39:03Z,,,14-25,,D. Lively misses 2-pt layup from 3 ft,q1,543S
+81,2024-06-14T20:39:04Z,,,14-25,,Offensive rebound by Team,q1,544S
+82,2024-06-14T20:39:13Z,,,14-25,,K. Irving misses 2-pt layup from 2 ft,q1,553S
+83,2024-06-14T20:39:15Z,Defensive rebound by D. White,,14-25,,,q1,555S
+84,2024-06-14T20:39:31Z,J. Tatum makes 2-pt layup from 1 ft (assist by A. Horford),2,16-25,,,q1,571S
+85,2024-06-14T20:39:42Z,,,16-25,,Shooting foul by A. Horford (drawn by L. Dončić),q1,582S
+86,2024-06-14T20:39:42Z,,,16-25,,L. Dončić misses free throw 1 of 2,q1,582S
+87,2024-06-14T20:39:42Z,,,16-25,,Offensive rebound by Team,q1,582S
+88,2024-06-14T20:39:42Z,,,16-25,,P. Washington enters the game for D. Lively,q1,582S
+89,2024-06-14T20:39:42Z,,,16-26,1,L. Dončić makes free throw 2 of 2,q1,582S
+90,2024-06-14T20:40:03Z,J. Tatum makes 2-pt jump shot from 5 ft (assist by A. Horford),2,18-26,,,q1,603S
+91,2024-06-14T20:40:13Z,,,18-26,,Personal foul by J. Tatum (drawn by L. Dončić),q1,613S
+92,2024-06-14T20:40:13Z,J. Holiday enters the game for A. Horford,,18-26,,,q1,613S
+93,2024-06-14T20:40:13Z,,,18-26,,D. Jones enters the game for L. Dončić,q1,613S
+94,2024-06-14T20:40:17Z,,,18-26,,Turnover by P. Washington (bad pass),q1,617S
+95,2024-06-14T20:40:28Z,J. Holiday misses 2-pt layup from 4 ft,,18-26,,,q1,628S
+96,2024-06-14T20:40:30Z,,,18-26,,Defensive rebound by J. Green,q1,630S
+97,2024-06-14T20:40:32Z,,,18-26,,K. Irving misses 3-pt jump shot from 25 ft,q1,632S
+98,2024-06-14T20:40:35Z,,,18-26,,Offensive rebound by J. Green,q1,635S
+99,2024-06-14T20:40:35Z,,,18-28,2,J. Green makes 2-pt dunk at rim,q1,635S
+100,2024-06-14T20:40:59Z,Jump ball: S. Hauser vs. J. Green (D. White gains possession),Jump ball: S. Hauser vs. J. Green (D. White gains possession),Jump ball: S. Hauser vs. J. Green (D. White gains possession),Jump ball: S. Hauser vs. J. Green (D. White gains possession),Jump ball: S. Hauser vs. J. Green (D. White gains possession),q1,659S
+101,2024-06-14T20:41:03Z,D. White makes 3-pt jump shot from 30 ft,3,21-28,,,q1,663S
+102,2024-06-14T20:41:17Z,,,21-31,3,K. Irving makes 3-pt jump shot from 27 ft,q1,677S
+103,2024-06-14T20:41:25Z,J. Brown misses 2-pt layup from 5 ft,,21-31,,,q1,685S
+104,2024-06-14T20:41:27Z,,,21-31,,Defensive rebound by P. Washington,q1,687S
+105,2024-06-14T20:41:31Z,,,21-34,3,P. Washington makes 3-pt jump shot from 25 ft (assist by K. Irving),q1,691S
+106,2024-06-14T20:41:38Z,Personal foul by D. Jones (drawn by J. Tatum),,21-34,,,q1,698S
+107,2024-06-14T20:41:53Z,J. Tatum misses 3-pt jump shot from 26 ft,,21-34,,,q1,713S
+108,2024-06-14T20:41:57Z,,,21-34,,Defensive rebound by Team,q1,717S
+109,2024-06-14T20:41:57Z,,,21-34,,L. Dončić enters the game for D. Jones,q1,717S
+110,2024-06-14T20:41:59Z,,,21-34,,Turnover by K. Irving (step out of bounds),q1,719S
+111,2024-06-14T20:41:59Z,P. Pritchard enters the game for J. Brown,,21-34,,,q1,719S
+112,2024-06-14T20:41:59Z,,,21-34,,D. Jones enters the game for L. Dončić,q1,719S
+113,2024-06-14T20:41:59Z,,,21-34,,D. Lively enters the game for K. Irving,q1,719S
+114,2024-06-14T20:41:59Z,Turnover by P. Pritchard (step out of bounds),,21-34,,,q1,719S
+115,2024-06-14T20:30:19Z,,,21-34,,L. Dončić misses 2-pt jump shot from 5 ft,q2,19S
+116,2024-06-14T20:30:21Z,Defensive rebound by J. Tatum,,21-34,,,q2,21S
+117,2024-06-14T20:30:28Z,Turnover by J. Tatum (lost ball; steal by J. Green),,21-34,,,q2,28S
+118,2024-06-14T20:30:45Z,,,21-34,,P. Washington misses 3-pt jump shot from 25 ft,q2,45S
+119,2024-06-14T20:30:47Z,,,21-34,,Offensive rebound by D. Lively,q2,47S
+120,2024-06-14T20:30:58Z,,,21-36,2,D. Exum makes 2-pt layup from 5 ft,q2,58S
+121,2024-06-14T20:31:18Z,J. Tatum misses 2-pt layup from 4 ft,,21-36,,,q2,78S
+122,2024-06-14T20:31:20Z,,,21-36,,Defensive rebound by P. Washington,q2,80S
+123,2024-06-14T20:31:31Z,,,21-36,,Turnover by D. Exum (step out of bounds),q2,91S
+124,2024-06-14T20:31:33Z,Boston full timeout,,21-36,,,q2,93S
+125,2024-06-14T20:31:33Z,Instant Replay (Request: Ruling Stands),,21-36,,,q2,93S
+126,2024-06-14T20:31:53Z,P. Pritchard misses 3-pt jump shot from 24 ft,,21-36,,,q2,113S
+127,2024-06-14T20:31:56Z,Offensive rebound by X. Tillman,,21-36,,,q2,116S
+128,2024-06-14T20:31:56Z,Personal foul by P. Washington (drawn by X. Tillman),,21-36,,,q2,116S
+129,2024-06-14T20:31:56Z,,,21-36,,M. Kleber enters the game for P. Washington,q2,116S
+130,2024-06-14T20:32:07Z,P. Pritchard misses 2-pt jump shot from 12 ft,,21-36,,,q2,127S
+131,2024-06-14T20:32:10Z,,,21-36,,Defensive rebound by D. Lively,q2,130S
+132,2024-06-14T20:32:18Z,,,21-36,,Turnover by L. Dončić (bad pass; steal by J. Tatum),q2,138S
+133,2024-06-14T20:32:25Z,Shooting foul by D. Exum (drawn by J. Brown),,21-36,,,q2,145S
+134,2024-06-14T20:32:25Z,J. Brown misses free throw 1 of 2,,21-36,,,q2,145S
+135,2024-06-14T20:32:25Z,Offensive rebound by Team,,21-36,,,q2,145S
+136,2024-06-14T20:32:25Z,J. Holiday enters the game for J. Tatum,,21-36,,,q2,145S
+137,2024-06-14T20:32:25Z,,,21-36,,K. Irving enters the game for J. Green,q2,145S
+138,2024-06-14T20:32:25Z,J. Brown makes free throw 2 of 2,1,22-36,,,q2,145S
+139,2024-06-14T20:32:43Z,,,22-39,3,D. Exum makes 3-pt jump shot from 25 ft (assist by L. Dončić),q2,163S
+140,2024-06-14T20:32:59Z,J. Brown makes 3-pt jump shot from 23 ft (assist by J. Holiday),3,25-39,,,q2,179S
+141,2024-06-14T20:33:15Z,,,25-39,,L. Dončić misses 2-pt jump shot from 8 ft,q2,195S
+142,2024-06-14T20:33:17Z,Defensive rebound by P. Pritchard,,25-39,,,q2,197S
+143,2024-06-14T20:33:23Z,P. Pritchard misses 3-pt jump shot from 27 ft,,25-39,,,q2,203S
+144,2024-06-14T20:33:26Z,,,25-39,,Defensive rebound by D. Exum,q2,206S
+145,2024-06-14T20:33:39Z,,,25-39,,Personal foul by P. Pritchard (drawn by M. Kleber),q2,219S
+146,2024-06-14T20:33:39Z,A. Horford enters the game for X. Tillman,,25-39,,,q2,219S
+147,2024-06-14T20:33:39Z,,,25-39,,D. Gafford enters the game for D. Lively,q2,219S
+148,2024-06-14T20:33:55Z,,,25-39,,K. Irving misses 3-pt jump shot from 24 ft,q2,235S
+149,2024-06-14T20:33:56Z,,,25-39,,Offensive rebound by D. Gafford,q2,236S
+150,2024-06-14T20:33:56Z,,,25-39,,Shooting foul by D. White (drawn by D. Gafford),q2,236S
+151,2024-06-14T20:33:56Z,,,25-40,1,D. Gafford makes free throw 1 of 2,q2,236S
+152,2024-06-14T20:33:56Z,S. Hauser enters the game for P. Pritchard,,25-40,,,q2,236S
+153,2024-06-14T20:33:56Z,J. Tatum enters the game for D. White,,25-40,,,q2,236S
+154,2024-06-14T20:33:56Z,,,25-40,,D. Gafford misses free throw 2 of 2,q2,236S
+155,2024-06-14T20:33:59Z,Defensive rebound by S. Hauser,,25-40,,,q2,239S
+156,2024-06-14T20:34:20Z,J. Holiday misses 2-pt layup from 4 ft,,25-40,,,q2,260S
+157,2024-06-14T20:34:22Z,,,25-40,,Defensive rebound by D. Gafford,q2,262S
+158,2024-06-14T20:34:31Z,,,25-40,,L. Dončić misses 3-pt jump shot from 26 ft,q2,271S
+159,2024-06-14T20:34:33Z,Defensive rebound by Team,,25-40,,,q2,273S
+160,2024-06-14T20:34:42Z,J. Brown misses 3-pt jump shot from 26 ft,,25-40,,,q2,282S
+161,2024-06-14T20:34:44Z,,,25-40,,Defensive rebound by D. Gafford,q2,284S
+162,2024-06-14T20:34:57Z,,,25-42,2,L. Dončić makes 2-pt layup from 3 ft (assist by K. Irving),q2,297S
+163,2024-06-14T20:34:57Z,,,25-42,,Shooting foul by J. Brown (drawn by L. Dončić),q2,297S
+164,2024-06-14T20:34:57Z,D. White enters the game for J. Brown,,25-42,,,q2,297S
+165,2024-06-14T20:34:57Z,,,25-43,1,L. Dončić makes free throw 1 of 1,q2,297S
+166,2024-06-14T20:35:08Z,D. White misses 3-pt jump shot from 25 ft,,25-43,,,q2,308S
+167,2024-06-14T20:35:10Z,,,25-43,,Defensive rebound by Team,q2,310S
+168,2024-06-14T20:35:24Z,,,25-45,2,L. Dončić makes 2-pt jump shot from 17 ft,q2,324S
+169,2024-06-14T20:35:25Z,Boston full timeout,,25-45,,,q2,325S
+170,2024-06-14T20:35:46Z,Offensive foul by J. Tatum (drawn by K. Irving),,25-45,,,q2,346S
+171,2024-06-14T20:35:46Z,Turnover by J. Tatum (offensive foul),,25-45,,,q2,346S
+172,2024-06-14T20:36:03Z,,,25-47,2,L. Dončić makes 2-pt layup from 3 ft,q2,363S
+173,2024-06-14T20:36:03Z,,,25-47,,Shooting foul by S. Hauser (drawn by L. Dončić),q2,363S
+174,2024-06-14T20:36:03Z,,,25-48,1,L. Dončić makes free throw 1 of 1,q2,363S
+175,2024-06-14T20:36:22Z,D. White misses 3-pt jump shot from 24 ft,,25-48,,,q2,382S
+176,2024-06-14T20:36:25Z,Offensive rebound by A. Horford,,25-48,,,q2,385S
+177,2024-06-14T20:36:26Z,Turnover by A. Horford (lost ball; steal by D. Exum),,25-48,,,q2,386S
+178,2024-06-14T20:36:44Z,,,25-50,2,K. Irving makes 2-pt layup from 1 ft (assist by L. Dončić),q2,404S
+179,2024-06-14T20:36:58Z,S. Hauser makes 3-pt jump shot from 23 ft (assist by J. Tatum),3,28-50,,,q2,418S
+180,2024-06-14T20:37:18Z,,,28-52,2,L. Dončić makes 2-pt jump shot from 8 ft,q2,438S
+181,2024-06-14T20:37:35Z,J. Holiday misses 2-pt jump shot from 6 ft,,28-52,,,q2,455S
+182,2024-06-14T20:37:36Z,,,28-52,,Defensive rebound by D. Gafford,q2,456S
+183,2024-06-14T20:37:49Z,,,28-52,,D. Exum misses 2-pt layup from 3 ft,q2,469S
+184,2024-06-14T20:37:51Z,Defensive rebound by A. Horford,,28-52,,,q2,471S
+185,2024-06-14T20:37:55Z,Personal foul by D. Gafford (drawn by D. White),,28-52,,,q2,475S
+186,2024-06-14T20:37:55Z,J. Brown enters the game for J. Holiday,,28-52,,,q2,475S
+187,2024-06-14T20:37:55Z,,,28-52,,J. Green enters the game for D. Exum,q2,475S
+188,2024-06-14T20:37:55Z,,,28-52,,D. Jones enters the game for D. Gafford,q2,475S
+189,2024-06-14T20:37:55Z,,,28-52,,D. Lively enters the game for M. Kleber,q2,475S
+190,2024-06-14T20:37:59Z,Personal foul by L. Dončić (drawn by D. White),,28-52,,,q2,479S
+191,2024-06-14T20:37:59Z,,,28-52,,D. Exum enters the game for L. Dončić,q2,479S
+192,2024-06-14T20:38:13Z,Turnover by Team (shot clock),,28-52,,,q2,493S
+193,2024-06-14T20:38:13Z,,,28-52,,Dallas full timeout,q2,493S
+194,2024-06-14T20:38:13Z,J. Holiday enters the game for S. Hauser,,28-52,,,q2,493S
+195,2024-06-14T20:38:13Z,,,28-52,,L. Dončić enters the game for D. Exum,q2,493S
+196,2024-06-14T20:38:31Z,,,28-52,,K. Irving misses 2-pt jump shot from 11 ft (block by J. Tatum),q2,511S
+197,2024-06-14T20:38:32Z,Defensive rebound by Team,,28-52,,,q2,512S
+198,2024-06-14T20:38:44Z,Shooting foul by D. Jones (drawn by J. Tatum),,28-52,,,q2,524S
+199,2024-06-14T20:38:44Z,J. Tatum makes free throw 1 of 2,1,29-52,,,q2,524S
+200,2024-06-14T20:38:44Z,J. Tatum makes free throw 2 of 2,1,30-52,,,q2,524S
+201,2024-06-14T20:39:01Z,,,30-52,,K. Irving misses 3-pt jump shot from 25 ft,q2,541S
+202,2024-06-14T20:39:03Z,,,30-52,,Offensive rebound by D. Lively,q2,543S
+203,2024-06-14T20:39:03Z,,,30-52,,Personal foul by D. White (drawn by D. Lively),q2,543S
+204,2024-06-14T20:39:03Z,,,30-52,,D. Lively misses free throw 1 of 2,q2,543S
+205,2024-06-14T20:39:03Z,,,30-52,,Offensive rebound by Team,q2,543S
+206,2024-06-14T20:39:03Z,,,30-53,1,D. Lively makes free throw 2 of 2,q2,543S
+207,2024-06-14T20:39:14Z,J. Brown misses 2-pt layup from 5 ft (block by D. Jones),,30-53,,,q2,554S
+208,2024-06-14T20:39:15Z,Offensive rebound by Team,,30-53,,,q2,555S
+209,2024-06-14T20:39:15Z,,,30-53,,M. Kleber enters the game for D. Jones,q2,555S
+210,2024-06-14T20:39:24Z,J. Brown misses 3-pt jump shot from 23 ft,,30-53,,,q2,564S
+211,2024-06-14T20:39:26Z,,,30-53,,Defensive rebound by K. Irving,q2,566S
+212,2024-06-14T20:39:36Z,,,30-53,,Shooting foul by J. Brown (drawn by J. Green),q2,576S
+213,2024-06-14T20:39:36Z,,,30-53,,J. Green misses free throw 1 of 3,q2,576S
+214,2024-06-14T20:39:36Z,,,30-53,,Offensive rebound by Team,q2,576S
+215,2024-06-14T20:39:36Z,,,30-53,,J. Green misses free throw 2 of 3,q2,576S
+216,2024-06-14T20:39:36Z,,,30-53,,Offensive rebound by Team,q2,576S
+217,2024-06-14T20:39:36Z,P. Pritchard enters the game for J. Brown,,30-53,,,q2,576S
+218,2024-06-14T20:39:36Z,,,30-54,1,J. Green makes free throw 3 of 3,q2,576S
+219,2024-06-14T20:39:49Z,J. Holiday misses 3-pt jump shot from 25 ft,,30-54,,,q2,589S
+220,2024-06-14T20:39:51Z,,,30-54,,Defensive rebound by D. Lively,q2,591S
+221,2024-06-14T20:40:03Z,,,30-54,,L. Dončić misses 2-pt jump shot from 9 ft,q2,603S
+222,2024-06-14T20:40:05Z,,,30-54,,Offensive rebound by Team,q2,605S
+223,2024-06-14T20:40:11Z,,,30-54,,K. Irving misses 3-pt jump shot from 24 ft,q2,611S
+224,2024-06-14T20:40:14Z,,,30-54,,Offensive rebound by D. Lively,q2,614S
+225,2024-06-14T20:40:17Z,,,30-54,,L. Dončić misses 3-pt jump shot from 30 ft,q2,617S
+226,2024-06-14T20:40:20Z,Defensive rebound by J. Holiday,,30-54,,,q2,620S
+227,2024-06-14T20:40:33Z,Shooting foul by K. Irving (drawn by J. Tatum),,30-54,,,q2,633S
+228,2024-06-14T20:40:33Z,J. Tatum makes free throw 1 of 2,1,31-54,,,q2,633S
+229,2024-06-14T20:40:33Z,X. Tillman enters the game for A. Horford,,31-54,,,q2,633S
+230,2024-06-14T20:40:33Z,J. Tatum makes free throw 2 of 2,1,32-54,,,q2,633S
+231,2024-06-14T20:40:49Z,,,32-54,,Personal foul by P. Pritchard (drawn by M. Kleber),q2,649S
+232,2024-06-14T20:40:49Z,,,32-55,1,M. Kleber makes free throw 1 of 2,q2,649S
+233,2024-06-14T20:40:49Z,A. Horford enters the game for X. Tillman,,32-55,,,q2,649S
+234,2024-06-14T20:40:49Z,,,32-56,1,M. Kleber makes free throw 2 of 2,q2,649S
+235,2024-06-14T20:41:05Z,J. Tatum misses 2-pt layup from 5 ft,,32-56,,,q2,665S
+236,2024-06-14T20:41:08Z,,,32-56,,Defensive rebound by M. Kleber,q2,668S
+237,2024-06-14T20:41:14Z,,,32-58,2,L. Dončić makes 2-pt jump shot from 5 ft,q2,674S
+238,2024-06-14T20:41:28Z,J. Holiday makes 3-pt jump shot from 25 ft,3,35-58,,,q2,688S
+239,2024-06-14T20:41:51Z,,,35-61,3,M. Kleber makes 3-pt jump shot from 23 ft (assist by L. Dončić),q2,711S
+240,2024-06-14T20:30:21Z,,,35-61,,Shooting foul by J. Tatum (drawn by D. Gafford),q3,21S
+241,2024-06-14T20:30:21Z,,,35-62,1,D. Gafford makes free throw 1 of 2,q3,21S
+242,2024-06-14T20:30:21Z,,,35-63,1,D. Gafford makes free throw 2 of 2,q3,21S
+243,2024-06-14T20:30:31Z,A. Horford makes 3-pt jump shot from 26 ft (assist by J. Tatum),3,38-63,,,q3,31S
+244,2024-06-14T20:30:58Z,,,38-63,,L. Dončić misses 3-pt jump shot from 35 ft,q3,58S
+245,2024-06-14T20:31:01Z,Defensive rebound by J. Tatum,,38-63,,,q3,61S
+246,2024-06-14T20:31:03Z,Turnover by J. Tatum (bad pass; steal by L. Dončić),,38-63,,,q3,63S
+247,2024-06-14T20:31:08Z,,,38-63,,Shooting foul by A. Horford (drawn by D. Gafford),q3,68S
+248,2024-06-14T20:31:08Z,,,38-64,1,D. Gafford makes free throw 1 of 2,q3,68S
+249,2024-06-14T20:31:08Z,,,38-65,1,D. Gafford makes free throw 2 of 2,q3,68S
+250,2024-06-14T20:31:24Z,J. Brown misses 2-pt layup from 4 ft,,38-65,,,q3,84S
+251,2024-06-14T20:31:26Z,,,38-65,,Defensive rebound by L. Dončić,q3,86S
+252,2024-06-14T20:31:29Z,,,38-67,2,D. Gafford makes 2-pt dunk from 1 ft (assist by L. Dončić),q3,89S
+253,2024-06-14T20:31:44Z,J. Tatum misses 3-pt jump shot from 25 ft (block by D. Gafford),,38-67,,,q3,104S
+254,2024-06-14T20:31:44Z,,,38-67,,Defensive rebound by Team,q3,104S
+255,2024-06-14T20:31:44Z,Loose ball foul by J. Tatum (drawn by D. Gafford),,38-67,,,q3,104S
+256,2024-06-14T20:31:44Z,S. Hauser enters the game for J. Tatum,,38-67,,,q3,104S
+257,2024-06-14T20:31:57Z,,,38-67,,D. Gafford misses 2-pt jump shot from 5 ft,q3,117S
+258,2024-06-14T20:31:59Z,Defensive rebound by J. Holiday,,38-67,,,q3,119S
+259,2024-06-14T20:32:05Z,J. Brown misses 2-pt layup from 3 ft,,38-67,,,q3,125S
+260,2024-06-14T20:32:07Z,,,38-67,,Defensive rebound by Team,q3,127S
+261,2024-06-14T20:32:21Z,,,38-70,3,P. Washington makes 3-pt jump shot from 24 ft (assist by K. Irving),q3,141S
+262,2024-06-14T20:32:30Z,Personal foul by D. Jones (drawn by D. White),,38-70,,,q3,150S
+263,2024-06-14T20:32:38Z,S. Hauser makes 2-pt jump shot from 15 ft (assist by A. Horford),2,40-70,,,q3,158S
+264,2024-06-14T20:32:54Z,,,40-73,3,D. Jones makes 3-pt jump shot from 23 ft (assist by K. Irving),q3,174S
+265,2024-06-14T20:33:07Z,Shooting foul by P. Washington (drawn by J. Brown),,40-73,,,q3,187S
+266,2024-06-14T20:33:07Z,J. Brown makes free throw 1 of 2,1,41-73,,,q3,187S
+267,2024-06-14T20:33:07Z,,,41-73,,M. Kleber enters the game for D. Gafford,q3,187S
+268,2024-06-14T20:33:07Z,,,41-73,,D. Lively enters the game for P. Washington,q3,187S
+269,2024-06-14T20:33:07Z,J. Brown makes free throw 2 of 2,1,42-73,,,q3,187S
+270,2024-06-14T20:33:22Z,,,42-75,2,L. Dončić makes 2-pt jump shot from 8 ft (assist by M. Kleber),q3,202S
+271,2024-06-14T20:33:22Z,Boston full timeout,,42-75,,,q3,202S
+272,2024-06-14T20:33:40Z,D. White misses 3-pt jump shot from 26 ft,,42-75,,,q3,220S
+273,2024-06-14T20:33:44Z,,,42-75,,Defensive rebound by D. Lively,q3,224S
+274,2024-06-14T20:33:52Z,,,42-75,,K. Irving misses 3-pt jump shot from 26 ft,q3,232S
+275,2024-06-14T20:33:56Z,Defensive rebound by D. White,,42-75,,,q3,236S
+276,2024-06-14T20:34:10Z,J. Holiday misses 3-pt jump shot from 26 ft,,42-75,,,q3,250S
+277,2024-06-14T20:34:11Z,,,42-75,,Defensive rebound by Team,q3,251S
+278,2024-06-14T20:34:19Z,,,42-75,,Personal foul by S. Hauser (drawn by M. Kleber),q3,259S
+279,2024-06-14T20:34:30Z,,,42-75,,L. Dončić misses 3-pt jump shot from 24 ft,q3,270S
+280,2024-06-14T20:34:32Z,,,42-75,,Offensive rebound by D. Lively,q3,272S
+281,2024-06-14T20:34:32Z,,,42-75,,Shooting foul by J. Holiday (drawn by D. Lively),q3,272S
+282,2024-06-14T20:34:32Z,,,42-75,,D. Lively misses free throw 1 of 2,q3,272S
+283,2024-06-14T20:34:32Z,,,42-75,,Offensive rebound by Team,q3,272S
+284,2024-06-14T20:34:32Z,,,42-76,1,D. Lively makes free throw 2 of 2,q3,272S
+285,2024-06-14T20:34:46Z,J. Holiday makes 2-pt layup from 2 ft,2,44-76,,,q3,286S
+286,2024-06-14T20:35:05Z,,,44-76,,L. Dončić misses 2-pt jump shot from 8 ft,q3,305S
+287,2024-06-14T20:35:07Z,,,44-76,,Offensive rebound by K. Irving,q3,307S
+288,2024-06-14T20:35:10Z,,,44-78,2,K. Irving makes 2-pt jump shot from 7 ft,q3,310S
+289,2024-06-14T20:35:21Z,D. White makes 3-pt jump shot from 23 ft (assist by J. Brown),3,47-78,,,q3,321S
+290,2024-06-14T20:35:42Z,,,47-78,,L. Dončić misses 2-pt layup from 1 ft,q3,342S
+291,2024-06-14T20:35:45Z,Defensive rebound by J. Holiday,,47-78,,,q3,345S
+292,2024-06-14T20:35:45Z,J. Tatum enters the game for S. Hauser,,47-78,,,q3,345S
+293,2024-06-14T20:35:45Z,,,47-78,,J. Green enters the game for D. Jones,q3,345S
+294,2024-06-14T20:35:53Z,Personal foul by L. Dončić (drawn by D. White),,47-78,,,q3,353S
+295,2024-06-14T20:36:01Z,Turnover by J. Holiday (lost ball; steal by L. Dončić),,47-78,,,q3,361S
+296,2024-06-14T20:36:06Z,,,47-78,,M. Kleber misses 2-pt layup from 2 ft,q3,366S
+297,2024-06-14T20:36:09Z,Defensive rebound by J. Tatum,,47-78,,,q3,369S
+298,2024-06-14T20:36:20Z,Turnover by J. Brown (bad pass; steal by M. Kleber),,47-78,,,q3,380S
+299,2024-06-14T20:36:31Z,,,47-80,2,K. Irving makes 2-pt layup from 1 ft,q3,391S
+300,2024-06-14T20:36:31Z,Boston full timeout,,47-80,,,q3,391S
+301,2024-06-14T20:36:44Z,Turnover by J. Holiday (out of bounds lost ball),,47-80,,,q3,404S
+302,2024-06-14T20:37:04Z,,,47-80,,J. Green misses 2-pt layup from 3 ft (block by J. Holiday),q3,424S
+303,2024-06-14T20:37:06Z,Defensive rebound by J. Tatum,,47-80,,,q3,426S
+304,2024-06-14T20:37:13Z,J. Holiday makes 2-pt jump shot from 5 ft (assist by J. Brown),2,49-80,,,q3,433S
+305,2024-06-14T20:37:28Z,,,49-82,2,K. Irving makes 2-pt layup from 2 ft,q3,448S
+306,2024-06-14T20:37:39Z,J. Holiday makes 3-pt jump shot from 23 ft (assist by A. Horford),3,52-82,,,q3,459S
+307,2024-06-14T20:38:01Z,,,52-84,2,K. Irving makes 2-pt jump shot from 11 ft,q3,481S
+308,2024-06-14T20:38:14Z,D. White misses 3-pt jump shot from 23 ft,,52-84,,,q3,494S
+309,2024-06-14T20:38:16Z,,,52-84,,Defensive rebound by L. Dončić,q3,496S
+310,2024-06-14T20:38:25Z,,,52-86,2,D. Lively makes 2-pt dunk from 1 ft (assist by J. Green),q3,505S
+311,2024-06-14T20:38:34Z,Turnover by J. Holiday (lost ball; steal by D. Lively),,52-86,,,q3,514S
+312,2024-06-14T20:38:42Z,,,52-88,2,D. Lively makes 2-pt dunk at rim (assist by K. Irving),q3,522S
+313,2024-06-14T20:38:42Z,Boston full timeout,,52-88,,,q3,522S
+314,2024-06-14T20:38:42Z,O. Brissett enters the game for J. Brown,,52-88,,,q3,522S
+315,2024-06-14T20:38:42Z,S. Hauser enters the game for J. Holiday,,52-88,,,q3,522S
+316,2024-06-14T20:38:42Z,L. Kornet enters the game for A. Horford,,52-88,,,q3,522S
+317,2024-06-14T20:38:42Z,S. Mykhailiuk enters the game for J. Tatum,,52-88,,,q3,522S
+318,2024-06-14T20:38:42Z,P. Pritchard enters the game for D. White,,52-88,,,q3,522S
+319,2024-06-14T20:39:01Z,Turnover by P. Pritchard (bad pass),,52-88,,,q3,541S
+320,2024-06-14T20:39:21Z,,,52-90,2,L. Dončić makes 2-pt jump shot from 6 ft,q3,561S
+321,2024-06-14T20:39:40Z,P. Pritchard makes 2-pt jump shot from 6 ft,2,54-90,,,q3,580S
+322,2024-06-14T20:39:54Z,,,54-92,2,K. Irving makes 2-pt layup from 5 ft,q3,594S
+323,2024-06-14T20:40:08Z,S. Hauser makes 3-pt jump shot from 25 ft (assist by L. Kornet),3,57-92,,,q3,608S
+324,2024-06-14T20:40:19Z,,,57-92,,L. Dončić misses 3-pt jump shot from 30 ft,q3,619S
+325,2024-06-14T20:40:23Z,,,57-92,,Offensive rebound by J. Green,q3,623S
+326,2024-06-14T20:40:28Z,,,57-92,,L. Dončić misses 3-pt jump shot from 26 ft,q3,628S
+327,2024-06-14T20:40:31Z,Defensive rebound by Team,,57-92,,,q3,631S
+328,2024-06-14T20:40:31Z,,,57-92,,D. Exum enters the game for L. Dončić,q3,631S
+329,2024-06-14T20:40:31Z,,,57-92,,J. Hardy enters the game for K. Irving,q3,631S
+330,2024-06-14T20:40:31Z,,,57-92,,D. Powell enters the game for D. Lively,q3,631S
+331,2024-06-14T20:40:31Z,Jump ball: L. Kornet vs. M. Kleber (P. Pritchard gains possession),Jump ball: L. Kornet vs. M. Kleber (P. Pritchard gains possession),Jump ball: L. Kornet vs. M. Kleber (P. Pritchard gains possession),Jump ball: L. Kornet vs. M. Kleber (P. Pritchard gains possession),Jump ball: L. Kornet vs. M. Kleber (P. Pritchard gains possession),q3,631S
+332,2024-06-14T20:40:52Z,S. Hauser makes 3-pt jump shot from 26 ft (assist by P. Pritchard),3,60-92,,,q3,652S
+333,2024-06-14T20:41:07Z,,,60-92,,J. Hardy misses 2-pt jump shot from 11 ft,q3,667S
+334,2024-06-14T20:41:09Z,,,60-92,,Offensive rebound by D. Powell,q3,669S
+335,2024-06-14T20:41:13Z,,,60-92,,D. Exum misses 3-pt jump shot from 25 ft,q3,673S
+336,2024-06-14T20:41:17Z,Defensive rebound by O. Brissett,,60-92,,,q3,677S
+337,2024-06-14T20:41:22Z,S. Mykhailiuk misses 3-pt jump shot from 26 ft,,60-92,,,q3,682S
+338,2024-06-14T20:41:25Z,,,60-92,,Defensive rebound by D. Exum,q3,685S
+339,2024-06-14T20:41:38Z,,,60-92,,J. Hardy misses 2-pt layup from 7 ft (block by O. Brissett),q3,698S
+340,2024-06-14T20:41:41Z,Defensive rebound by P. Pritchard,,60-92,,,q3,701S
+341,2024-06-14T20:41:58Z,P. Pritchard misses 3-pt jump shot from 26 ft,,60-92,,,q3,718S
+342,2024-06-14T20:42:00Z,,,60-92,,Defensive rebound by J. Green,q3,720S
+343,2024-06-14T20:30:13Z,P. Pritchard misses 3-pt jump shot from 28 ft,,60-92,,,q4,13S
+344,2024-06-14T20:30:17Z,,,60-92,,Defensive rebound by T. Hardaway,q4,17S
+345,2024-06-14T20:30:32Z,,,60-92,,Offensive foul by D. Powell (drawn by S. Hauser),q4,32S
+346,2024-06-14T20:30:32Z,,,60-92,,Turnover by D. Powell (offensive foul),q4,32S
+347,2024-06-14T20:30:47Z,S. Mykhailiuk misses 2-pt jump shot from 5 ft,,60-92,,,q4,47S
+348,2024-06-14T20:30:49Z,,,60-92,,Defensive rebound by D. Powell,q4,49S
+349,2024-06-14T20:30:54Z,,,60-95,3,D. Exum makes 3-pt jump shot from 26 ft (assist by J. Hardy),q4,54S
+350,2024-06-14T20:31:07Z,S. Mykhailiuk misses 3-pt jump shot from 25 ft,,60-95,,,q4,67S
+351,2024-06-14T20:31:09Z,,,60-95,,Defensive rebound by M. Morris,q4,69S
+352,2024-06-14T20:31:23Z,,,60-95,,M. Morris misses 2-pt jump shot from 17 ft,q4,83S
+353,2024-06-14T20:31:25Z,Defensive rebound by S. Hauser,,60-95,,,q4,85S
+354,2024-06-14T20:31:31Z,S. Hauser misses 3-pt jump shot from 25 ft,,60-95,,,q4,91S
+355,2024-06-14T20:31:31Z,,,60-95,,Defensive rebound by M. Morris,q4,91S
+356,2024-06-14T20:31:46Z,,,60-97,2,D. Exum makes 2-pt hook shot from 8 ft,q4,106S
+357,2024-06-14T20:32:12Z,S. Hauser makes 3-pt jump shot from 24 ft,3,63-97,,,q4,132S
+358,2024-06-14T20:32:31Z,,,63-100,3,T. Hardaway makes 3-pt jump shot from 24 ft (assist by D. Powell),q4,151S
+359,2024-06-14T20:32:41Z,P. Pritchard makes 2-pt jump shot from 12 ft,2,65-100,,,q4,161S
+360,2024-06-14T20:33:04Z,,,65-100,,D. Exum misses 3-pt jump shot from 26 ft,q4,184S
+361,2024-06-14T20:33:07Z,Defensive rebound by S. Hauser,,65-100,,,q4,187S
+362,2024-06-14T20:33:12Z,P. Pritchard misses 2-pt jump shot from 10 ft,,65-100,,,q4,192S
+363,2024-06-14T20:33:16Z,Offensive rebound by S. Hauser,,65-100,,,q4,196S
+364,2024-06-14T20:33:20Z,O. Brissett misses 2-pt jump shot from 3 ft,,65-100,,,q4,200S
+365,2024-06-14T20:33:23Z,Offensive rebound by O. Brissett,,65-100,,,q4,203S
+366,2024-06-14T20:33:23Z,O. Brissett makes 2-pt layup at rim,2,67-100,,,q4,203S
+367,2024-06-14T20:33:34Z,,,67-103,3,T. Hardaway makes 3-pt jump shot from 26 ft (assist by D. Powell),q4,214S
+368,2024-06-14T20:33:49Z,S. Mykhailiuk misses 2-pt layup from 2 ft,,67-103,,,q4,229S
+369,2024-06-14T20:33:51Z,,,67-103,,Defensive rebound by D. Powell,q4,231S
+370,2024-06-14T20:33:57Z,,,67-106,3,T. Hardaway makes 3-pt jump shot from 24 ft,q4,237S
+371,2024-06-14T20:33:59Z,Boston full timeout,,67-106,,,q4,239S
+372,2024-06-14T20:33:59Z,J. Springer enters the game for S. Hauser,,67-106,,,q4,239S
+373,2024-06-14T20:33:59Z,,,67-106,,A. Lawson enters the game for D. Exum,q4,239S
+374,2024-06-14T20:34:18Z,S. Mykhailiuk misses 3-pt jump shot from 26 ft,,67-106,,,q4,258S
+375,2024-06-14T20:34:22Z,,,67-106,,Defensive rebound by J. Hardy,q4,262S
+376,2024-06-14T20:34:34Z,,,67-109,3,T. Hardaway makes 3-pt jump shot from 26 ft (assist by J. Hardy),q4,274S
+377,2024-06-14T20:34:52Z,P. Pritchard misses 3-pt jump shot from 26 ft,,67-109,,,q4,292S
+378,2024-06-14T20:34:55Z,,,67-109,,Defensive rebound by J. Hardy,q4,295S
+379,2024-06-14T20:35:10Z,,,67-112,3,T. Hardaway makes 3-pt jump shot from 27 ft (assist by J. Hardy),q4,310S
+380,2024-06-14T20:35:35Z,S. Mykhailiuk misses 3-pt jump shot from 27 ft,,67-112,,,q4,335S
+381,2024-06-14T20:35:37Z,,,67-112,,Defensive rebound by T. Hardaway,q4,337S
+382,2024-06-14T20:35:43Z,,,67-112,,T. Hardaway misses 3-pt jump shot from 26 ft,q4,343S
+383,2024-06-14T20:35:46Z,Defensive rebound by S. Mykhailiuk,,67-112,,,q4,346S
+384,2024-06-14T20:35:51Z,L. Kornet misses 2-pt jump shot from 13 ft,,67-112,,,q4,351S
+385,2024-06-14T20:35:54Z,,,67-112,,Defensive rebound by T. Hardaway,q4,354S
+386,2024-06-14T20:36:02Z,,,67-115,3,J. Hardy makes 3-pt jump shot from 25 ft (assist by T. Hardaway),q4,362S
+387,2024-06-14T20:36:24Z,S. Mykhailiuk makes 3-pt jump shot from 26 ft (assist by L. Kornet),3,70-115,,,q4,384S
+388,2024-06-14T20:36:35Z,,,70-115,,Personal foul by L. Kornet (drawn by T. Hardaway),q4,395S
+389,2024-06-14T20:36:35Z,N. Queta enters the game for L. Kornet,,70-115,,,q4,395S
+390,2024-06-14T20:36:35Z,J. Walsh enters the game for S. Mykhailiuk,,70-115,,,q4,395S
+391,2024-06-14T20:36:35Z,,,70-115,,O. Prosper enters the game for D. Powell,q4,395S
+392,2024-06-14T20:36:42Z,,,70-115,,A. Lawson misses 2-pt layup from 5 ft,q4,402S
+393,2024-06-14T20:36:44Z,Defensive rebound by O. Brissett,,70-115,,,q4,404S
+394,2024-06-14T20:36:47Z,Shooting foul by M. Morris (drawn by O. Brissett),,70-115,,,q4,407S
+395,2024-06-14T20:36:47Z,O. Brissett makes free throw 1 of 2,1,71-115,,,q4,407S
+396,2024-06-14T20:36:47Z,O. Brissett makes free throw 2 of 2,1,72-115,,,q4,407S
+397,2024-06-14T20:36:59Z,,,72-115,,O. Prosper misses 2-pt layup from 5 ft (block by N. Queta),q4,419S
+398,2024-06-14T20:36:59Z,Defensive rebound by Team,,72-115,,,q4,419S
+399,2024-06-14T20:37:13Z,N. Queta makes 2-pt dunk at rim (assist by P. Pritchard),2,74-115,,,q4,433S
+400,2024-06-14T20:37:34Z,,,74-115,,M. Morris misses 3-pt jump shot from 25 ft,q4,454S
+401,2024-06-14T20:37:36Z,Defensive rebound by J. Springer,,74-115,,,q4,456S
+402,2024-06-14T20:37:44Z,O. Brissett misses 2-pt layup from 2 ft,,74-115,,,q4,464S
+403,2024-06-14T20:37:46Z,,,74-115,,Defensive rebound by M. Morris,q4,466S
+404,2024-06-14T20:37:50Z,,,74-117,2,J. Hardy makes 2-pt layup from 1 ft,q4,470S
+405,2024-06-14T20:38:03Z,P. Pritchard makes 3-pt jump shot from 26 ft,3,77-117,,,q4,483S
+406,2024-06-14T20:38:20Z,,,77-117,,M. Morris misses 2-pt jump shot from 20 ft,q4,500S
+407,2024-06-14T20:38:23Z,Defensive rebound by J. Walsh,,77-117,,,q4,503S
+408,2024-06-14T20:38:26Z,P. Pritchard misses 2-pt jump shot from 23 ft,,77-117,,,q4,506S
+409,2024-06-14T20:38:28Z,,,77-117,,Defensive rebound by M. Morris,q4,508S
+410,2024-06-14T20:38:35Z,,,77-119,2,A. Lawson makes 2-pt layup from 1 ft (assist by O. Prosper),q4,515S
+411,2024-06-14T20:38:56Z,Personal foul by J. Hardy (drawn by J. Springer),,77-119,,,q4,536S
+412,2024-06-14T20:39:05Z,P. Pritchard misses 2-pt jump shot from 13 ft,,77-119,,,q4,545S
+413,2024-06-14T20:39:06Z,Offensive rebound by Team,,77-119,,,q4,546S
+414,2024-06-14T20:39:06Z,,,77-119,,Dallas full timeout,q4,546S
+415,2024-06-14T20:39:11Z,J. Walsh misses 2-pt jump shot from 10 ft,,77-119,,,q4,551S
+416,2024-06-14T20:39:13Z,,,77-119,,Defensive rebound by Team,q4,553S
+417,2024-06-14T20:39:25Z,,,77-119,,O. Prosper misses 2-pt jump shot from 12 ft,q4,565S
+418,2024-06-14T20:39:26Z,Defensive rebound by Team,,77-119,,,q4,566S
+419,2024-06-14T20:39:44Z,J. Springer misses 2-pt layup from 2 ft,,77-119,,,q4,584S
+420,2024-06-14T20:39:46Z,,,77-119,,Defensive rebound by O. Prosper,q4,586S
+421,2024-06-14T20:39:59Z,,,77-119,,J. Hardy misses 3-pt jump shot from 25 ft,q4,599S
+422,2024-06-14T20:40:03Z,Defensive rebound by J. Springer,,77-119,,,q4,603S
+423,2024-06-14T20:40:05Z,Personal foul by J. Hardy (drawn by N. Queta),,77-119,,,q4,605S
+424,2024-06-14T20:40:07Z,J. Walsh misses 3-pt jump shot from 28 ft,,77-119,,,q4,607S
+425,2024-06-14T20:40:09Z,,,77-119,,Defensive rebound by O. Prosper,q4,609S
+426,2024-06-14T20:40:16Z,,,77-119,,Turnover by M. Morris (out of bounds lost ball),q4,616S
+427,2024-06-14T20:40:32Z,O. Brissett makes 3-pt jump shot from 25 ft (assist by P. Pritchard),3,80-119,,,q4,632S
+428,2024-06-14T20:40:43Z,,,80-119,,M. Morris misses 3-pt jump shot from 23 ft,q4,643S
+429,2024-06-14T20:40:46Z,,,80-119,,Offensive rebound by J. Hardy,q4,646S
+430,2024-06-14T20:40:48Z,,,80-122,3,M. Morris makes 3-pt jump shot from 23 ft (assist by J. Hardy),q4,648S
+431,2024-06-14T20:40:54Z,P. Pritchard makes 2-pt layup from 1 ft,2,82-122,,,q4,654S
+432,2024-06-14T20:41:11Z,,,82-122,,T. Hardaway misses 3-pt jump shot from 23 ft,q4,671S
+433,2024-06-14T20:41:13Z,Defensive rebound by P. Pritchard,,82-122,,,q4,673S
+434,2024-06-14T20:41:16Z,P. Pritchard makes 2-pt layup from 3 ft,2,84-122,,,q4,676S
+435,2024-06-14T20:41:40Z,,,84-122,,Turnover by Team (shot clock),q4,700S
+1,2024-06-17T20:30:00Z,Jump ball: D. Gafford vs. A. Horford (J. Brown gains possession),Jump ball: D. Gafford vs. A. Horford (J. Brown gains possession),Jump ball: D. Gafford vs. A. Horford (J. Brown gains possession),Jump ball: D. Gafford vs. A. Horford (J. Brown gains possession),Jump ball: D. Gafford vs. A. Horford (J. Brown gains possession),q1,0S
+2,2024-06-17T20:30:20Z,,,0-2,2,J. Holiday makes 2-pt layup from 1 ft (assist by J. Tatum),q1,20S
+3,2024-06-17T20:30:37Z,L. Dončić misses 3-pt jump shot from 28 ft,,0-2,,,q1,37S
+4,2024-06-17T20:30:38Z,,,0-2,,Defensive rebound by J. Tatum,q1,38S
+5,2024-06-17T20:30:44Z,,,0-2,,Personal foul by L. Dončić (drawn by J. Brown),q1,44S
+6,2024-06-17T20:30:55Z,,,0-2,,J. Brown misses 3-pt jump shot from 31 ft,q1,55S
+7,2024-06-17T20:30:57Z,Defensive rebound by L. Dončić,,0-2,,,q1,57S
+8,2024-06-17T20:31:03Z,Turnover by L. Dončić (lost ball; steal by D. White),,0-2,,,q1,63S
+9,2024-06-17T20:31:14Z,,,0-2,,J. Tatum misses 2-pt jump shot from 9 ft,q1,74S
+10,2024-06-17T20:31:15Z,,,0-2,,Offensive rebound by Team,q1,75S
+11,2024-06-17T20:31:17Z,,,0-2,,J. Brown misses 3-pt jump shot from 25 ft,q1,77S
+12,2024-06-17T20:31:18Z,Defensive rebound by Team,,0-2,,,q1,78S
+13,2024-06-17T20:31:18Z,,,0-2,,Loose ball foul by J. Holiday (drawn by L. Dončić),q1,78S
+14,2024-06-17T20:31:34Z,K. Irving misses 3-pt jump shot from 27 ft,,0-2,,,q1,94S
+15,2024-06-17T20:31:37Z,,,0-2,,Defensive rebound by A. Horford,q1,97S
+16,2024-06-17T20:31:50Z,,,0-2,,J. Brown misses 2-pt jump shot from 9 ft,q1,110S
+17,2024-06-17T20:31:51Z,Defensive rebound by P. Washington,,0-2,,,q1,111S
+18,2024-06-17T20:32:05Z,L. Dončić misses 3-pt jump shot from 28 ft,,0-2,,,q1,125S
+19,2024-06-17T20:32:06Z,,,0-2,,Defensive rebound by J. Tatum,q1,126S
+20,2024-06-17T20:32:26Z,,,0-4,2,J. Holiday makes 2-pt layup from 2 ft (assist by J. Tatum),q1,146S
+21,2024-06-17T20:32:52Z,D. Jones misses 3-pt jump shot from 26 ft,,0-4,,,q1,172S
+22,2024-06-17T20:32:55Z,Offensive rebound by Team,,0-4,,,q1,175S
+23,2024-06-17T20:33:01Z,D. Jones makes 2-pt dunk from 2 ft (assist by L. Dončić),2,2-4,,,q1,181S
+24,2024-06-17T20:33:18Z,,,2-4,,J. Tatum misses 3-pt jump shot from 26 ft,q1,198S
+25,2024-06-17T20:33:19Z,Defensive rebound by Team,,2-4,,,q1,199S
+26,2024-06-17T20:33:31Z,K. Irving misses 2-pt layup from 11 ft (block by J. Holiday),,2-4,,,q1,211S
+27,2024-06-17T20:33:32Z,,,2-4,,Defensive rebound by D. White,q1,212S
+28,2024-06-17T20:33:36Z,,,2-6,2,J. Holiday makes 2-pt layup from 1 ft (assist by D. White),q1,216S
+29,2024-06-17T20:33:48Z,L. Dončić misses 2-pt jump shot from 11 ft,,2-6,,,q1,228S
+30,2024-06-17T20:33:51Z,,,2-6,,Defensive rebound by A. Horford,q1,231S
+31,2024-06-17T20:33:51Z,Jump ball: A. Horford vs. D. Gafford (J. Tatum gains possession),Jump ball: A. Horford vs. D. Gafford (J. Tatum gains possession),Jump ball: A. Horford vs. D. Gafford (J. Tatum gains possession),Jump ball: A. Horford vs. D. Gafford (J. Tatum gains possession),Jump ball: A. Horford vs. D. Gafford (J. Tatum gains possession),q1,231S
+32,2024-06-17T20:34:11Z,,,2-6,,J. Brown misses 2-pt layup from 8 ft (block by P. Washington),q1,251S
+33,2024-06-17T20:34:12Z,Defensive rebound by P. Washington,,2-6,,,q1,252S
+34,2024-06-17T20:34:21Z,D. Jones misses 3-pt jump shot from 24 ft,,2-6,,,q1,261S
+35,2024-06-17T20:34:22Z,Offensive rebound by D. Gafford,,2-6,,,q1,262S
+36,2024-06-17T20:34:22Z,D. Gafford misses 2-pt layup at rim,,2-6,,,q1,262S
+37,2024-06-17T20:34:24Z,,,2-6,,Defensive rebound by J. Brown,q1,264S
+38,2024-06-17T20:34:32Z,,,2-9,3,A. Horford makes 3-pt jump shot from 26 ft (assist by J. Brown),q1,272S
+39,2024-06-17T20:34:34Z,Dallas full timeout,,2-9,,,q1,274S
+40,2024-06-17T20:34:34Z,J. Green enters the game for D. Gafford,,2-9,,,q1,274S
+41,2024-06-17T20:34:34Z,D. Lively enters the game for D. Jones,,2-9,,,q1,274S
+42,2024-06-17T20:34:48Z,Personal foul by J. Brown (drawn by D. Lively),,2-9,,,q1,288S
+43,2024-06-17T20:34:58Z,L. Dončić makes 2-pt jump shot from 7 ft,2,4-9,,,q1,298S
+44,2024-06-17T20:34:58Z,Shooting foul by A. Horford (drawn by L. Dončić),,4-9,,,q1,298S
+45,2024-06-17T20:34:58Z,L. Dončić makes free throw 1 of 1,1,5-9,,,q1,298S
+46,2024-06-17T20:35:11Z,,,5-9,,Shooting foul by K. Irving (drawn by D. White),q1,311S
+47,2024-06-17T20:35:11Z,,,5-10,1,D. White makes free throw 1 of 2,q1,311S
+48,2024-06-17T20:35:11Z,,,5-10,,K. Porziņģis enters the game for A. Horford,q1,311S
+49,2024-06-17T20:35:11Z,,,5-11,1,D. White makes free throw 2 of 2,q1,311S
+50,2024-06-17T20:35:26Z,K. Irving misses 3-pt jump shot from 28 ft,,5-11,,,q1,326S
+51,2024-06-17T20:35:28Z,,,5-11,,Defensive rebound by J. Tatum,q1,328S
+52,2024-06-17T20:35:35Z,,,5-13,2,J. Brown makes 2-pt jump shot from 7 ft,q1,335S
+53,2024-06-17T20:35:53Z,J. Green makes 3-pt jump shot from 27 ft (assist by L. Dončić),3,8-13,,,q1,353S
+54,2024-06-17T20:36:14Z,,,8-13,,J. Holiday misses 2-pt layup from 1 ft,q1,374S
+55,2024-06-17T20:36:15Z,Defensive rebound by J. Green,,8-13,,,q1,375S
+56,2024-06-17T20:36:32Z,J. Green makes 3-pt jump shot from 28 ft (assist by L. Dončić),3,11-13,,,q1,392S
+57,2024-06-17T20:36:51Z,,,11-13,,J. Tatum misses 2-pt layup from 7 ft (block by P. Washington),q1,411S
+58,2024-06-17T20:36:52Z,,,11-13,,Offensive rebound by Team,q1,412S
+59,2024-06-17T20:36:52Z,,,11-13,,S. Hauser enters the game for J. Holiday,q1,412S
+60,2024-06-17T20:36:52Z,Jump ball: J. Tatum vs. P. Washington (J. Tatum gains possession),Jump ball: J. Tatum vs. P. Washington (J. Tatum gains possession),Jump ball: J. Tatum vs. P. Washington (J. Tatum gains possession),Jump ball: J. Tatum vs. P. Washington (J. Tatum gains possession),Jump ball: J. Tatum vs. P. Washington (J. Tatum gains possession),q1,412S
+61,2024-06-17T20:36:57Z,,,11-16,3,D. White makes 3-pt jump shot from 26 ft (assist by J. Tatum),q1,417S
+62,2024-06-17T20:37:13Z,P. Washington misses 3-pt jump shot from 27 ft,,11-16,,,q1,433S
+63,2024-06-17T20:37:15Z,,,11-16,,Defensive rebound by J. Brown,q1,435S
+64,2024-06-17T20:37:26Z,,,11-16,,K. Porziņģis misses 3-pt jump shot from 25 ft,q1,446S
+65,2024-06-17T20:37:28Z,,,11-16,,Offensive rebound by S. Hauser,q1,448S
+66,2024-06-17T20:37:37Z,,,11-16,,J. Tatum misses 2-pt jump shot from 7 ft,q1,457S
+67,2024-06-17T20:37:39Z,Defensive rebound by L. Dončić,,11-16,,,q1,459S
+68,2024-06-17T20:38:03Z,D. Lively makes 2-pt dunk from 1 ft (assist by K. Irving),2,13-16,,,q1,483S
+69,2024-06-17T20:38:04Z,,,13-16,,Boston full timeout,q1,484S
+70,2024-06-17T20:38:04Z,M. Kleber enters the game for P. Washington,,13-16,,,q1,484S
+71,2024-06-17T20:38:18Z,,,13-16,,D. White misses 3-pt jump shot from 27 ft,q1,498S
+72,2024-06-17T20:38:20Z,Defensive rebound by M. Kleber,,13-16,,,q1,500S
+73,2024-06-17T20:38:37Z,L. Dončić makes 2-pt jump shot from 20 ft,2,15-16,,,q1,517S
+74,2024-06-17T20:38:53Z,,,15-16,,Shooting foul by J. Green (drawn by K. Porziņģis),q1,533S
+75,2024-06-17T20:38:53Z,,,15-16,,K. Porziņģis misses free throw 1 of 2,q1,533S
+76,2024-06-17T20:38:53Z,,,15-16,,Offensive rebound by Team,q1,533S
+77,2024-06-17T20:38:53Z,P. Washington enters the game for J. Green,,15-16,,,q1,533S
+78,2024-06-17T20:38:53Z,,,15-17,1,K. Porziņģis makes free throw 2 of 2,q1,533S
+79,2024-06-17T20:39:07Z,L. Dončić misses 2-pt jump shot from 18 ft,,15-17,,,q1,547S
+80,2024-06-17T20:39:08Z,,,15-17,,Defensive rebound by J. Brown,q1,548S
+81,2024-06-17T20:39:21Z,,,15-17,,D. White misses 2-pt jump shot from 5 ft,q1,561S
+82,2024-06-17T20:39:22Z,Defensive rebound by L. Dončić,,15-17,,,q1,562S
+83,2024-06-17T20:39:27Z,Offensive foul by D. Lively (drawn by D. White),,15-17,,,q1,567S
+84,2024-06-17T20:39:27Z,Turnover by D. Lively (offensive foul),,15-17,,,q1,567S
+85,2024-06-17T20:39:27Z,D. Exum enters the game for K. Irving,,15-17,,,q1,567S
+86,2024-06-17T20:39:27Z,J. Green enters the game for D. Lively,,15-17,,,q1,567S
+87,2024-06-17T20:39:27Z,,,15-17,,J. Holiday enters the game for D. White,q1,567S
+88,2024-06-17T20:39:38Z,,,15-17,,J. Brown misses 3-pt jump shot from 26 ft,q1,578S
+89,2024-06-17T20:39:40Z,,,15-17,,Offensive rebound by J. Holiday,q1,580S
+90,2024-06-17T20:39:48Z,,,15-19,2,J. Tatum makes 2-pt layup at rim,q1,588S
+91,2024-06-17T20:40:05Z,D. Exum makes 3-pt jump shot from 27 ft,3,18-19,,,q1,605S
+92,2024-06-17T20:40:21Z,,,18-21,2,J. Brown makes 2-pt dunk from 1 ft (assist by J. Holiday),q1,621S
+93,2024-06-17T20:40:47Z,M. Kleber misses 3-pt jump shot from 28 ft,,18-21,,,q1,647S
+94,2024-06-17T20:40:48Z,,,18-21,,Defensive rebound by J. Holiday,q1,648S
+95,2024-06-17T20:40:56Z,,,18-24,3,S. Hauser makes 3-pt jump shot from 27 ft (assist by J. Holiday),q1,656S
+96,2024-06-17T20:41:06Z,Turnover by L. Dončić (bad pass; steal by S. Hauser),,18-24,,,q1,666S
+97,2024-06-17T20:41:11Z,,,18-26,2,J. Brown makes 2-pt layup from 2 ft (assist by J. Tatum),q1,671S
+98,2024-06-17T20:41:19Z,Turnover by P. Washington (lost ball; steal by J. Tatum),,18-26,,,q1,679S
+99,2024-06-17T20:41:22Z,,,18-28,2,J. Tatum makes 2-pt layup from 2 ft,q1,682S
+100,2024-06-17T20:41:32Z,M. Kleber misses 3-pt jump shot from 31 ft,,18-28,,,q1,692S
+101,2024-06-17T20:41:34Z,,,18-28,,Defensive rebound by J. Brown,q1,694S
+102,2024-06-17T20:41:55Z,,,18-28,,J. Tatum misses 3-pt jump shot from 27 ft,q1,715S
+103,2024-06-17T20:41:57Z,Defensive rebound by P. Washington,,18-28,,,q1,717S
+104,2024-06-17T20:30:24Z,D. Jones makes 2-pt layup from 3 ft (assist by K. Irving),2,20-28,,,q2,24S
+105,2024-06-17T20:30:45Z,,,20-31,3,S. Hauser makes 3-pt jump shot from 27 ft (assist by J. Tatum),q2,45S
+106,2024-06-17T20:31:11Z,K. Irving makes 2-pt jump shot from 5 ft,2,22-31,,,q2,71S
+107,2024-06-17T20:31:37Z,,,22-34,3,J. Brown makes 3-pt jump shot from 23 ft (assist by J. Tatum),q2,97S
+108,2024-06-17T20:31:49Z,K. Irving misses 2-pt layup from 4 ft,,22-34,,,q2,109S
+109,2024-06-17T20:31:50Z,,,22-34,,Defensive rebound by A. Horford,q2,110S
+110,2024-06-17T20:32:00Z,,,22-34,,Personal foul by P. Washington (drawn by J. Brown),q2,120S
+111,2024-06-17T20:32:00Z,L. Dončić enters the game for D. Exum,,22-34,,,q2,120S
+112,2024-06-17T20:32:00Z,,,22-34,,K. Porziņģis enters the game for S. Hauser,q2,120S
+113,2024-06-17T20:32:10Z,,,22-34,,J. Brown misses 3-pt jump shot from 26 ft,q2,130S
+114,2024-06-17T20:32:11Z,Defensive rebound by D. Lively,,22-34,,,q2,131S
+115,2024-06-17T20:32:19Z,P. Washington misses 3-pt jump shot from 27 ft,,22-34,,,q2,139S
+116,2024-06-17T20:32:21Z,Offensive rebound by D. Lively,,22-34,,,q2,141S
+117,2024-06-17T20:32:31Z,L. Dončić misses 3-pt jump shot from 26 ft,,22-34,,,q2,151S
+118,2024-06-17T20:32:32Z,,,22-34,,Defensive rebound by J. Tatum,q2,152S
+119,2024-06-17T20:32:37Z,,,22-34,,Personal foul by P. Washington (drawn by K. Porziņģis),q2,157S
+120,2024-06-17T20:32:37Z,M. Kleber enters the game for P. Washington,,22-34,,,q2,157S
+121,2024-06-17T20:32:50Z,,,22-36,2,K. Porziņģis makes 2-pt jump shot from 5 ft (assist by J. Tatum),q2,170S
+122,2024-06-17T20:33:14Z,M. Kleber makes 2-pt layup from 3 ft (assist by L. Dončić),2,24-36,,,q2,194S
+123,2024-06-17T20:33:33Z,,,24-36,,Shooting foul by K. Irving (drawn by J. Tatum),q2,213S
+124,2024-06-17T20:33:33Z,,,24-37,1,J. Tatum makes free throw 1 of 2,q2,213S
+125,2024-06-17T20:33:33Z,,,24-37,,D. White enters the game for J. Brown,q2,213S
+126,2024-06-17T20:33:33Z,,,24-38,1,J. Tatum makes free throw 2 of 2,q2,213S
+127,2024-06-17T20:33:39Z,K. Irving makes 3-pt jump shot from 27 ft,3,27-38,,,q2,219S
+128,2024-06-17T20:33:50Z,,,27-41,3,J. Holiday makes 3-pt jump shot from 25 ft,q2,230S
+129,2024-06-17T20:33:57Z,Personal foul by K. Porziņģis (drawn by K. Irving),,27-41,,,q2,237S
+130,2024-06-17T20:33:57Z,,,27-41,,J. Brown enters the game for K. Porziņģis,q2,237S
+131,2024-06-17T20:34:04Z,D. Jones makes 3-pt jump shot from 24 ft (assist by K. Irving),3,30-41,,,q2,244S
+132,2024-06-17T20:34:28Z,,,30-43,2,J. Tatum makes 2-pt layup from 3 ft,q2,268S
+133,2024-06-17T20:34:37Z,Shooting foul by J. Brown (drawn by D. Jones),,30-43,,,q2,277S
+134,2024-06-17T20:34:37Z,D. Jones misses free throw 1 of 2,,30-43,,,q2,277S
+135,2024-06-17T20:34:37Z,Offensive rebound by Team,,30-43,,,q2,277S
+136,2024-06-17T20:34:37Z,D. Jones makes free throw 2 of 2,1,31-43,,,q2,277S
+137,2024-06-17T20:34:52Z,,,31-45,2,J. Tatum makes 2-pt layup from 2 ft,q2,292S
+138,2024-06-17T20:34:52Z,,,31-45,,Shooting foul by M. Kleber (drawn by J. Tatum),q2,292S
+139,2024-06-17T20:34:52Z,D. Gafford enters the game for M. Kleber,,31-45,,,q2,292S
+140,2024-06-17T20:34:52Z,P. Washington enters the game for D. Lively,,31-45,,,q2,292S
+141,2024-06-17T20:34:52Z,,,31-45,,S. Hauser enters the game for J. Brown,q2,292S
+142,2024-06-17T20:34:52Z,,,31-46,1,J. Tatum makes free throw 1 of 1,q2,292S
+143,2024-06-17T20:35:04Z,Shooting foul by J. Tatum (drawn by L. Dončić),,31-46,,,q2,304S
+144,2024-06-17T20:35:04Z,,,31-46,,Boston full timeout,q2,304S
+145,2024-06-17T20:35:04Z,L. Dončić misses free throw 1 of 2,,31-46,,,q2,304S
+146,2024-06-17T20:35:04Z,Offensive rebound by Team,,31-46,,,q2,304S
+147,2024-06-17T20:35:04Z,L. Dončić misses free throw 2 of 2,,31-46,,,q2,304S
+148,2024-06-17T20:35:05Z,,,31-46,,Defensive rebound by J. Holiday,q2,305S
+149,2024-06-17T20:35:13Z,,,31-46,,J. Holiday misses 2-pt layup from 4 ft,q2,313S
+150,2024-06-17T20:35:15Z,,,31-46,,Offensive rebound by J. Holiday,q2,315S
+151,2024-06-17T20:35:15Z,,,31-46,,J. Holiday misses 2-pt layup from 3 ft,q2,315S
+152,2024-06-17T20:35:17Z,Defensive rebound by L. Dončić,,31-46,,,q2,317S
+153,2024-06-17T20:35:28Z,K. Irving misses 3-pt jump shot from 26 ft,,31-46,,,q2,328S
+154,2024-06-17T20:35:29Z,Offensive rebound by D. Gafford,,31-46,,,q2,329S
+155,2024-06-17T20:35:29Z,,,31-46,,J. Brown enters the game for A. Horford,q2,329S
+156,2024-06-17T20:35:35Z,D. Gafford makes 2-pt dunk from 2 ft (assist by P. Washington),2,33-46,,,q2,335S
+157,2024-06-17T20:35:52Z,,,33-46,,Turnover by J. Holiday (bad pass),q2,352S
+158,2024-06-17T20:36:00Z,D. Gafford makes 2-pt dunk at rim (assist by K. Irving),2,35-46,,,q2,360S
+159,2024-06-17T20:36:21Z,,,35-46,,D. White misses 3-pt jump shot from 26 ft,q2,381S
+160,2024-06-17T20:36:23Z,,,35-46,,Offensive rebound by S. Hauser,q2,383S
+161,2024-06-17T20:36:27Z,,,35-48,2,J. Tatum makes 2-pt layup from 2 ft (assist by S. Hauser),q2,387S
+162,2024-06-17T20:36:50Z,P. Washington makes 2-pt layup from 1 ft (assist by K. Irving),2,37-48,,,q2,410S
+163,2024-06-17T20:37:00Z,,,37-48,,J. Holiday misses 2-pt layup from 3 ft,q2,420S
+164,2024-06-17T20:37:01Z,Defensive rebound by L. Dončić,,37-48,,,q2,421S
+165,2024-06-17T20:37:06Z,D. Jones makes 2-pt layup from 3 ft (assist by P. Washington),2,39-48,,,q2,426S
+166,2024-06-17T20:37:07Z,,,39-48,,Boston full timeout,q2,427S
+167,2024-06-17T20:37:07Z,,,39-48,,A. Horford enters the game for J. Tatum,q2,427S
+168,2024-06-17T20:37:24Z,,,39-48,,J. Brown misses 2-pt layup from 7 ft (block by D. Jones),q2,444S
+169,2024-06-17T20:37:25Z,,,39-48,,Offensive rebound by Team,q2,445S
+170,2024-06-17T20:37:27Z,,,39-48,,D. White misses 3-pt jump shot from 23 ft,q2,447S
+171,2024-06-17T20:37:31Z,,,39-48,,Offensive rebound by S. Hauser,q2,451S
+172,2024-06-17T20:37:33Z,,,39-48,,S. Hauser misses 3-pt jump shot from 23 ft,q2,453S
+173,2024-06-17T20:37:35Z,Defensive rebound by L. Dončić,,39-48,,,q2,455S
+174,2024-06-17T20:37:53Z,Turnover by P. Washington (traveling),,39-48,,,q2,473S
+175,2024-06-17T20:38:06Z,,,39-48,,J. Brown misses 2-pt layup from 1 ft,q2,486S
+176,2024-06-17T20:38:08Z,Defensive rebound by D. Gafford,,39-48,,,q2,488S
+177,2024-06-17T20:38:14Z,L. Dončić misses 2-pt jump shot from 12 ft,,39-48,,,q2,494S
+178,2024-06-17T20:38:15Z,,,39-48,,Defensive rebound by D. White,q2,495S
+179,2024-06-17T20:38:35Z,,,39-50,2,A. Horford makes 2-pt layup from 3 ft,q2,515S
+180,2024-06-17T20:38:49Z,Turnover by L. Dončić (bad pass),,39-50,,,q2,529S
+181,2024-06-17T20:38:49Z,Dallas full timeout,,39-50,,,q2,529S
+182,2024-06-17T20:38:49Z,J. Green enters the game for D. Gafford,,39-50,,,q2,529S
+183,2024-06-17T20:38:49Z,D. Lively enters the game for D. Jones,,39-50,,,q2,529S
+184,2024-06-17T20:38:49Z,,,39-50,,J. Tatum enters the game for S. Hauser,q2,529S
+185,2024-06-17T20:39:09Z,,,39-52,2,J. Holiday makes 2-pt layup at rim (assist by J. Tatum),q2,549S
+186,2024-06-17T20:39:30Z,Turnover by P. Washington (bad pass; steal by A. Horford),,39-52,,,q2,570S
+187,2024-06-17T20:39:34Z,,,39-54,2,J. Brown makes 2-pt layup from 2 ft (assist by A. Horford),q2,574S
+188,2024-06-17T20:39:49Z,J. Green makes 3-pt jump shot from 24 ft (assist by P. Washington),3,42-54,,,q2,589S
+189,2024-06-17T20:40:08Z,,,42-57,3,J. Brown makes 3-pt jump shot from 24 ft (assist by J. Tatum),q2,608S
+190,2024-06-17T20:40:25Z,K. Irving misses 2-pt layup from 6 ft,,42-57,,,q2,625S
+191,2024-06-17T20:40:27Z,,,42-57,,Defensive rebound by J. Holiday,q2,627S
+192,2024-06-17T20:40:40Z,,,42-60,3,D. White makes 3-pt jump shot from 22 ft (assist by J. Brown),q2,640S
+193,2024-06-17T20:40:57Z,L. Dončić makes 2-pt layup from 2 ft,2,44-60,,,q2,657S
+194,2024-06-17T20:41:11Z,,,44-60,,Turnover by D. White (lost ball; steal by K. Irving),q2,671S
+195,2024-06-17T20:41:14Z,Turnover by K. Irving (bad pass; steal by J. Brown),,44-60,,,q2,674S
+196,2024-06-17T20:41:19Z,,,44-60,,Shooting foul by L. Dončić (drawn by J. Brown),q2,679S
+197,2024-06-17T20:41:19Z,,,44-60,,J. Brown misses free throw 1 of 2,q2,679S
+198,2024-06-17T20:41:19Z,,,44-60,,Offensive rebound by Team,q2,679S
+199,2024-06-17T20:41:19Z,,,44-61,1,J. Brown makes free throw 2 of 2,q2,679S
+200,2024-06-17T20:41:27Z,P. Washington misses 3-pt jump shot from 28 ft,,44-61,,,q2,687S
+201,2024-06-17T20:41:29Z,,,44-61,,Defensive rebound by J. Holiday,q2,689S
+202,2024-06-17T20:41:47Z,,,44-64,3,J. Tatum makes 3-pt jump shot from 28 ft,q2,707S
+203,2024-06-17T20:41:56Z,L. Dončić makes 2-pt jump shot from 5 ft,2,46-64,,,q2,716S
+204,2024-06-17T20:41:56Z,Shooting foul by J. Tatum (drawn by L. Dončić),,46-64,,,q2,716S
+205,2024-06-17T20:41:56Z,D. Jones enters the game for K. Irving,,46-64,,,q2,716S
+206,2024-06-17T20:41:56Z,,,46-64,,P. Pritchard enters the game for D. White,q2,716S
+207,2024-06-17T20:41:56Z,L. Dončić misses free throw 1 of 1,,46-64,,,q2,716S
+208,2024-06-17T20:41:58Z,,,46-64,,Defensive rebound by A. Horford,q2,718S
+209,2024-06-17T20:42:00Z,,,46-67,3,P. Pritchard makes 3-pt jump shot from 49 ft (assist by A. Horford),q2,720S
+210,2024-06-17T20:42:00Z,,,46-67,,Instant Replay (Request: Ruling Stands),q2,720S
+211,2024-06-17T20:30:15Z,D. Gafford misses 2-pt layup from 3 ft,,46-67,,,q3,15S
+212,2024-06-17T20:30:16Z,,,46-67,,Defensive rebound by J. Tatum,q3,16S
+213,2024-06-17T20:30:25Z,,,46-67,,J. Tatum misses 2-pt jump shot from 12 ft,q3,25S
+214,2024-06-17T20:30:26Z,Defensive rebound by P. Washington,,46-67,,,q3,26S
+215,2024-06-17T20:30:36Z,L. Dončić makes 2-pt jump shot from 13 ft,2,48-67,,,q3,36S
+216,2024-06-17T20:30:56Z,,,48-69,2,J. Tatum makes 2-pt dunk from 1 ft (assist by J. Holiday),q3,56S
+217,2024-06-17T20:31:12Z,K. Irving misses 3-pt jump shot from 25 ft,,48-69,,,q3,72S
+218,2024-06-17T20:31:13Z,,,48-69,,Defensive rebound by D. White,q3,73S
+219,2024-06-17T20:31:29Z,,,48-69,,Personal foul by D. Gafford (drawn by J. Tatum),q3,89S
+220,2024-06-17T20:31:38Z,,,48-72,3,D. White makes 3-pt jump shot from 27 ft (assist by J. Holiday),q3,98S
+221,2024-06-17T20:31:57Z,Personal foul by J. Holiday (drawn by D. Gafford),,48-72,,,q3,117S
+222,2024-06-17T20:32:00Z,D. Gafford makes 2-pt layup from 3 ft (assist by K. Irving),2,50-72,,,q3,120S
+223,2024-06-17T20:32:14Z,,,50-75,3,A. Horford makes 3-pt jump shot from 24 ft (assist by J. Brown),q3,134S
+224,2024-06-17T20:32:23Z,Personal foul by J. Brown (drawn by L. Dončić),,50-75,,,q3,143S
+225,2024-06-17T20:32:23Z,D. Lively enters the game for D. Gafford,,50-75,,,q3,143S
+226,2024-06-17T20:32:28Z,Shooting foul by J. Holiday (drawn by K. Irving),,50-75,,,q3,148S
+227,2024-06-17T20:32:28Z,K. Irving makes free throw 1 of 2,1,51-75,,,q3,148S
+228,2024-06-17T20:32:28Z,K. Irving makes free throw 2 of 2,1,52-75,,,q3,148S
+229,2024-06-17T20:32:41Z,,,52-75,,Shooting foul by D. Lively (drawn by A. Horford),q3,161S
+230,2024-06-17T20:32:41Z,,,52-76,1,A. Horford makes free throw 1 of 2,q3,161S
+231,2024-06-17T20:32:41Z,,,52-76,,A. Horford misses free throw 2 of 2,q3,161S
+232,2024-06-17T20:32:43Z,,,52-76,,Offensive rebound by D. White,q3,163S
+233,2024-06-17T20:32:50Z,,,52-78,2,J. Holiday makes 2-pt layup from 5 ft (assist by J. Brown),q3,170S
+234,2024-06-17T20:32:50Z,Dallas full timeout,,52-78,,,q3,170S
+235,2024-06-17T20:32:50Z,J. Green enters the game for P. Washington,,52-78,,,q3,170S
+236,2024-06-17T20:33:10Z,K. Irving misses 3-pt jump shot from 25 ft,,52-78,,,q3,190S
+237,2024-06-17T20:33:11Z,,,52-78,,Defensive rebound by A. Horford,q3,191S
+238,2024-06-17T20:33:27Z,,,52-78,,J. Tatum misses 2-pt layup from 4 ft,q3,207S
+239,2024-06-17T20:33:28Z,Defensive rebound by D. Lively,,52-78,,,q3,208S
+240,2024-06-17T20:33:41Z,L. Dončić misses 3-pt jump shot from 24 ft,,52-78,,,q3,221S
+241,2024-06-17T20:33:42Z,Offensive rebound by J. Green,,52-78,,,q3,222S
+242,2024-06-17T20:33:43Z,J. Green makes 2-pt layup from 1 ft,2,54-78,,,q3,223S
+243,2024-06-17T20:33:53Z,,,54-78,,A. Horford misses 3-pt jump shot from 24 ft,q3,233S
+244,2024-06-17T20:33:54Z,Defensive rebound by L. Dončić,,54-78,,,q3,234S
+245,2024-06-17T20:34:06Z,L. Dončić misses 2-pt jump shot from 17 ft,,54-78,,,q3,246S
+246,2024-06-17T20:34:08Z,,,54-78,,Defensive rebound by D. White,q3,248S
+247,2024-06-17T20:34:20Z,,,54-78,,J. Holiday misses 3-pt jump shot from 28 ft,q3,260S
+248,2024-06-17T20:34:21Z,Defensive rebound by K. Irving,,54-78,,,q3,261S
+249,2024-06-17T20:34:34Z,K. Irving makes 2-pt jump shot from 11 ft,2,56-78,,,q3,274S
+250,2024-06-17T20:34:56Z,,,56-78,,Turnover by J. Tatum (bad pass; steal by L. Dončić),q3,296S
+251,2024-06-17T20:35:05Z,L. Dončić misses 3-pt jump shot from 26 ft,,56-78,,,q3,305S
+252,2024-06-17T20:35:06Z,,,56-78,,Defensive rebound by J. Brown,q3,306S
+253,2024-06-17T20:35:19Z,,,56-78,,J. Brown misses 3-pt jump shot from 28 ft,q3,319S
+254,2024-06-17T20:35:22Z,,,56-78,,Offensive rebound by J. Holiday,q3,322S
+255,2024-06-17T20:35:29Z,,,56-78,,Personal foul by L. Dončić (drawn by J. Brown),q3,329S
+256,2024-06-17T20:35:29Z,,,56-78,,K. Porziņģis enters the game for A. Horford,q3,329S
+257,2024-06-17T20:35:32Z,,,56-78,,Personal foul by D. Lively (drawn by K. Porziņģis),q3,332S
+258,2024-06-17T20:35:46Z,,,56-78,,J. Tatum misses 3-pt jump shot from 27 ft,q3,346S
+259,2024-06-17T20:35:50Z,,,56-78,,Offensive rebound by D. White,q3,350S
+260,2024-06-17T20:35:58Z,,,56-78,,J. Holiday misses 2-pt layup from 3 ft,q3,358S
+261,2024-06-17T20:36:00Z,Defensive rebound by L. Dončić,,56-78,,,q3,360S
+262,2024-06-17T20:36:05Z,J. Green makes 3-pt jump shot from 23 ft (assist by K. Irving),3,59-78,,,q3,365S
+263,2024-06-17T20:36:35Z,,,59-80,2,J. Holiday makes 2-pt jump shot from 16 ft (assist by J. Tatum),q3,395S
+264,2024-06-17T20:36:51Z,L. Dončić makes 2-pt layup from 2 ft,2,61-80,,,q3,411S
+265,2024-06-17T20:36:51Z,Shooting foul by K. Porziņģis (drawn by L. Dončić),,61-80,,,q3,411S
+266,2024-06-17T20:36:51Z,T. Hardaway enters the game for D. Jones,,61-80,,,q3,411S
+267,2024-06-17T20:36:51Z,L. Dončić makes free throw 1 of 1,1,62-80,,,q3,411S
+268,2024-06-17T20:37:08Z,,,62-80,,J. Brown misses 2-pt dunk from 1 ft (block by D. Lively),q3,428S
+269,2024-06-17T20:37:10Z,Defensive rebound by L. Dončić,,62-80,,,q3,430S
+270,2024-06-17T20:37:15Z,Turnover by L. Dončić (lost ball; steal by J. Tatum),,62-80,,,q3,435S
+271,2024-06-17T20:37:19Z,,,62-80,,Shooting foul by T. Hardaway (drawn by J. Tatum),q3,439S
+272,2024-06-17T20:37:19Z,,,62-81,1,J. Tatum makes free throw 1 of 2,q3,439S
+273,2024-06-17T20:37:19Z,P. Washington enters the game for D. Lively,,62-81,,,q3,439S
+274,2024-06-17T20:37:19Z,,,62-81,,S. Hauser enters the game for J. Holiday,q3,439S
+275,2024-06-17T20:37:19Z,,,62-81,,A. Horford enters the game for K. Porziņģis,q3,439S
+276,2024-06-17T20:37:19Z,,,62-82,1,J. Tatum makes free throw 2 of 2,q3,439S
+277,2024-06-17T20:37:28Z,K. Irving misses 2-pt jump shot from 10 ft,,62-82,,,q3,448S
+278,2024-06-17T20:37:31Z,,,62-82,,Defensive rebound by A. Horford,q3,451S
+279,2024-06-17T20:37:48Z,,,62-82,,J. Tatum misses 2-pt layup from 3 ft,q3,468S
+280,2024-06-17T20:37:50Z,Defensive rebound by L. Dončić,,62-82,,,q3,470S
+281,2024-06-17T20:37:55Z,L. Dončić makes 2-pt layup from 3 ft,2,64-82,,,q3,475S
+282,2024-06-17T20:37:55Z,,,64-82,,Boston full timeout,q3,475S
+283,2024-06-17T20:37:55Z,D. Exum enters the game for J. Green,,64-82,,,q3,475S
+284,2024-06-17T20:37:55Z,M. Kleber enters the game for K. Irving,,64-82,,,q3,475S
+285,2024-06-17T20:38:19Z,,,64-82,,J. Brown misses 2-pt jump shot from 17 ft,q3,499S
+286,2024-06-17T20:38:21Z,,,64-82,,Offensive rebound by D. White,q3,501S
+287,2024-06-17T20:38:35Z,,,64-82,,J. Brown misses 2-pt jump shot from 8 ft,q3,515S
+288,2024-06-17T20:38:36Z,,,64-82,,Offensive rebound by A. Horford,q3,516S
+289,2024-06-17T20:38:37Z,,,64-82,,A. Horford misses 2-pt layup from 4 ft,q3,517S
+290,2024-06-17T20:38:38Z,,,64-82,,Offensive rebound by A. Horford,q3,518S
+291,2024-06-17T20:38:39Z,,,64-82,,A. Horford misses 2-pt layup from 4 ft,q3,519S
+292,2024-06-17T20:38:40Z,Defensive rebound by L. Dončić,,64-82,,,q3,520S
+293,2024-06-17T20:38:47Z,T. Hardaway misses 3-pt jump shot from 26 ft,,64-82,,,q3,527S
+294,2024-06-17T20:38:48Z,,,64-82,,Defensive rebound by S. Hauser,q3,528S
+295,2024-06-17T20:38:55Z,,,64-82,,J. Brown misses 3-pt jump shot from 26 ft,q3,535S
+296,2024-06-17T20:38:57Z,Defensive rebound by Team,,64-82,,,q3,537S
+297,2024-06-17T20:38:57Z,,,64-82,,Loose ball foul by A. Horford (drawn by D. Exum),q3,537S
+298,2024-06-17T20:38:57Z,D. Exum makes free throw 1 of 2,1,65-82,,,q3,537S
+299,2024-06-17T20:38:57Z,J. Green enters the game for T. Hardaway,,65-82,,,q3,537S
+300,2024-06-17T20:38:57Z,,,65-82,,J. Holiday enters the game for D. White,q3,537S
+301,2024-06-17T20:38:57Z,D. Exum misses free throw 2 of 2,,65-82,,,q3,537S
+302,2024-06-17T20:39:00Z,,,65-82,,Defensive rebound by A. Horford,q3,540S
+303,2024-06-17T20:39:21Z,,,65-82,,S. Hauser misses 3-pt jump shot from 27 ft,q3,561S
+304,2024-06-17T20:39:23Z,Defensive rebound by M. Kleber,,65-82,,,q3,563S
+305,2024-06-17T20:39:33Z,L. Dončić misses 3-pt jump shot from 29 ft,,65-82,,,q3,573S
+306,2024-06-17T20:39:34Z,,,65-82,,Defensive rebound by Team,q3,574S
+307,2024-06-17T20:39:34Z,K. Irving enters the game for D. Exum,,65-82,,,q3,574S
+308,2024-06-17T20:39:51Z,,,65-84,2,S. Hauser makes 2-pt jump shot from 16 ft (assist by J. Brown),q3,591S
+309,2024-06-17T20:40:04Z,J. Green misses 3-pt jump shot from 23 ft,,65-84,,,q3,604S
+310,2024-06-17T20:40:05Z,,,65-84,,Defensive rebound by J. Brown,q3,605S
+311,2024-06-17T20:40:18Z,,,65-86,2,J. Brown makes 2-pt jump shot from 21 ft,q3,618S
+312,2024-06-17T20:40:29Z,J. Green misses 2-pt dunk from 3 ft,,65-86,,,q3,629S
+313,2024-06-17T20:40:31Z,,,65-86,,Defensive rebound by J. Holiday,q3,631S
+314,2024-06-17T20:40:38Z,,,65-86,,Turnover by J. Tatum (bad pass; steal by L. Dončić),q3,638S
+315,2024-06-17T20:40:43Z,L. Dončić misses 2-pt layup from 2 ft,,65-86,,,q3,643S
+316,2024-06-17T20:40:45Z,Offensive rebound by M. Kleber,,65-86,,,q3,645S
+317,2024-06-17T20:40:48Z,P. Washington misses 3-pt jump shot from 23 ft,,65-86,,,q3,648S
+318,2024-06-17T20:40:49Z,,,65-86,,Defensive rebound by J. Tatum,q3,649S
+319,2024-06-17T20:41:10Z,,,65-86,,J. Tatum misses 3-pt jump shot from 26 ft,q3,670S
+320,2024-06-17T20:41:11Z,,,65-86,,Offensive rebound by J. Holiday,q3,671S
+321,2024-06-17T20:41:21Z,,,65-86,,S. Hauser misses 3-pt jump shot from 24 ft,q3,681S
+322,2024-06-17T20:41:23Z,Defensive rebound by P. Washington,,65-86,,,q3,683S
+323,2024-06-17T20:41:37Z,L. Dončić makes 2-pt jump shot from 7 ft,2,67-86,,,q3,697S
+324,2024-06-17T20:30:21Z,,,67-86,,K. Porziņģis misses 3-pt jump shot from 25 ft,q4,21S
+325,2024-06-17T20:30:23Z,Defensive rebound by K. Irving,,67-86,,,q4,23S
+326,2024-06-17T20:30:35Z,L. Dončić misses 2-pt jump shot from 16 ft,,67-86,,,q4,35S
+327,2024-06-17T20:30:37Z,Offensive rebound by D. Lively,,67-86,,,q4,37S
+328,2024-06-17T20:30:39Z,D. Lively misses 2-pt dunk from 3 ft (block by D. White),,67-86,,,q4,39S
+329,2024-06-17T20:30:41Z,,,67-86,,Defensive rebound by K. Porziņģis,q4,41S
+330,2024-06-17T20:30:48Z,,,67-86,,Personal foul by D. Lively (drawn by K. Porziņģis),q4,48S
+331,2024-06-17T20:30:54Z,,,67-86,,Turnover by D. White (out of bounds lost ball),q4,54S
+332,2024-06-17T20:31:09Z,D. Jones misses 3-pt jump shot from 25 ft,,67-86,,,q4,69S
+333,2024-06-17T20:31:11Z,,,67-86,,Defensive rebound by J. Holiday,q4,71S
+334,2024-06-17T20:31:21Z,,,67-86,,Personal foul by P. Washington (drawn by K. Porziņģis),q4,81S
+335,2024-06-17T20:31:21Z,,,67-86,,J. Brown enters the game for A. Horford,q4,81S
+336,2024-06-17T20:31:30Z,,,67-86,,J. Holiday misses 3-pt jump shot from 24 ft,q4,90S
+337,2024-06-17T20:31:35Z,,,67-86,,Offensive rebound by Team,q4,95S
+338,2024-06-17T20:31:35Z,,,67-86,,Turnover by Team (shot clock),q4,95S
+339,2024-06-17T20:31:49Z,D. Jones misses 2-pt jump shot from 9 ft,,67-86,,,q4,109S
+340,2024-06-17T20:31:50Z,,,67-86,,Defensive rebound by J. Tatum,q4,110S
+341,2024-06-17T20:32:02Z,,,67-86,,Offensive foul by J. Brown (drawn by D. Jones),q4,122S
+342,2024-06-17T20:32:02Z,,,67-86,,Turnover by J. Brown (offensive foul),q4,122S
+343,2024-06-17T20:32:02Z,J. Green enters the game for D. Jones,,67-86,,,q4,122S
+344,2024-06-17T20:32:18Z,P. Washington misses 3-pt jump shot from 27 ft,,67-86,,,q4,138S
+345,2024-06-17T20:32:22Z,Offensive rebound by Team,,67-86,,,q4,142S
+346,2024-06-17T20:32:32Z,K. Irving misses 3-pt jump shot from 27 ft,,67-86,,,q4,152S
+347,2024-06-17T20:32:33Z,,,67-86,,Defensive rebound by J. Holiday,q4,153S
+348,2024-06-17T20:32:51Z,,,67-88,2,K. Porziņģis makes 2-pt dunk from 3 ft (assist by J. Brown),q4,171S
+349,2024-06-17T20:32:52Z,Dallas full timeout,,67-88,,,q4,172S
+350,2024-06-17T20:32:52Z,T. Hardaway enters the game for P. Washington,,67-88,,,q4,172S
+351,2024-06-17T20:33:10Z,L. Dončić makes 3-pt jump shot from 28 ft (assist by K. Irving),3,70-88,,,q4,190S
+352,2024-06-17T20:33:35Z,,,70-91,3,D. White makes 3-pt jump shot from 26 ft (assist by J. Tatum),q4,215S
+353,2024-06-17T20:33:51Z,L. Dončić makes 2-pt layup from 3 ft (assist by K. Irving),2,72-91,,,q4,231S
+354,2024-06-17T20:34:08Z,,,72-93,2,J. Tatum makes 2-pt layup from 5 ft,q4,248S
+355,2024-06-17T20:34:08Z,,,72-93,,Shooting foul by D. Lively (drawn by J. Tatum),q4,248S
+356,2024-06-17T20:34:08Z,,,72-94,1,J. Tatum makes free throw 1 of 1,q4,248S
+357,2024-06-17T20:34:18Z,K. Irving makes 3-pt jump shot from 25 ft,3,75-94,,,q4,258S
+358,2024-06-17T20:34:42Z,,,75-96,2,J. Tatum makes 2-pt jump shot from 18 ft,q4,282S
+359,2024-06-17T20:34:55Z,Turnover by L. Dončić (bad pass; steal by J. Brown),,75-96,,,q4,295S
+360,2024-06-17T20:35:11Z,,,75-96,,J. Tatum misses 3-pt jump shot from 27 ft,q4,311S
+361,2024-06-17T20:35:12Z,Defensive rebound by L. Dončić,,75-96,,,q4,312S
+362,2024-06-17T20:35:20Z,J. Green misses 3-pt jump shot from 27 ft,,75-96,,,q4,320S
+363,2024-06-17T20:35:22Z,Offensive rebound by K. Irving,,75-96,,,q4,322S
+364,2024-06-17T20:35:25Z,K. Irving misses 2-pt jump shot from 20 ft,,75-96,,,q4,325S
+365,2024-06-17T20:35:27Z,,,75-96,,Defensive rebound by J. Brown,q4,327S
+366,2024-06-17T20:35:29Z,,,75-96,,Shooting foul by T. Hardaway (drawn by J. Brown),q4,329S
+367,2024-06-17T20:35:29Z,,,75-97,1,J. Brown makes free throw 1 of 2,q4,329S
+368,2024-06-17T20:35:29Z,,,75-97,,A. Horford enters the game for K. Porziņģis,q4,329S
+369,2024-06-17T20:35:29Z,,,75-98,1,J. Brown makes free throw 2 of 2,q4,329S
+370,2024-06-17T20:35:41Z,L. Dončić makes 3-pt jump shot from 26 ft,3,78-98,,,q4,341S
+371,2024-06-17T20:36:06Z,,,78-98,,J. Brown misses 3-pt jump shot from 29 ft,q4,366S
+372,2024-06-17T20:36:13Z,Defensive rebound by Team,,78-98,,,q4,373S
+373,2024-06-17T20:36:13Z,M. Kleber enters the game for J. Green,,78-98,,,q4,373S
+374,2024-06-17T20:36:13Z,P. Washington enters the game for D. Lively,,78-98,,,q4,373S
+375,2024-06-17T20:36:24Z,L. Dončić misses 3-pt jump shot from 25 ft,,78-98,,,q4,384S
+376,2024-06-17T20:36:27Z,,,78-98,,Defensive rebound by J. Brown,q4,387S
+377,2024-06-17T20:36:50Z,,,78-100,2,J. Tatum makes 2-pt layup from 3 ft,q4,410S
+378,2024-06-17T20:37:02Z,Turnover by P. Washington (bad pass; steal by D. White),,78-100,,,q4,422S
+379,2024-06-17T20:37:21Z,,,78-102,2,J. Tatum makes 2-pt layup from 4 ft,q4,441S
+380,2024-06-17T20:37:21Z,Dallas full timeout,,78-102,,,q4,441S
+381,2024-06-17T20:37:36Z,Turnover by L. Dončić (lost ball; steal by A. Horford),,78-102,,,q4,456S
+382,2024-06-17T20:37:38Z,,,78-102,,J. Brown misses 2-pt layup from 3 ft,q4,458S
+383,2024-06-17T20:37:39Z,,,78-102,,Offensive rebound by J. Tatum,q4,459S
+384,2024-06-17T20:37:40Z,,,78-102,,Shooting foul by M. Kleber (drawn by J. Tatum),q4,460S
+385,2024-06-17T20:37:40Z,,,78-103,1,J. Tatum makes free throw 1 of 2,q4,460S
+386,2024-06-17T20:37:40Z,,,78-104,1,J. Tatum makes free throw 2 of 2,q4,460S
+387,2024-06-17T20:37:58Z,L. Dončić makes 2-pt layup from 3 ft (assist by M. Kleber),2,80-104,,,q4,478S
+388,2024-06-17T20:38:20Z,,,80-104,,Shooting foul by T. Hardaway (drawn by J. Brown),q4,500S
+389,2024-06-17T20:38:20Z,,,80-105,1,J. Brown makes free throw 1 of 2,q4,500S
+390,2024-06-17T20:38:20Z,,,80-106,1,J. Brown makes free throw 2 of 2,q4,500S
+391,2024-06-17T20:38:33Z,K. Irving makes 3-pt jump shot from 26 ft,3,83-106,,,q4,513S
+392,2024-06-17T20:38:45Z,,,83-106,,Turnover by J. Holiday (lost ball; steal by L. Dončić),q4,525S
+393,2024-06-17T20:38:50Z,P. Washington makes 2-pt layup from 2 ft (assist by L. Dončić),2,85-106,,,q4,530S
+394,2024-06-17T20:38:50Z,,,85-106,,Boston full timeout,q4,530S
+395,2024-06-17T20:39:14Z,,,85-106,,J. Tatum misses 2-pt layup from 4 ft,q4,554S
+396,2024-06-17T20:39:15Z,Defensive rebound by P. Washington,,85-106,,,q4,555S
+397,2024-06-17T20:39:23Z,Turnover by L. Dončić (out of bounds lost ball),,85-106,,,q4,563S
+398,2024-06-17T20:39:23Z,,,85-106,,Boston full timeout,q4,563S
+399,2024-06-17T20:39:23Z,,,85-106,,Instant Replay (Challenge: Ruling Stands),q4,563S
+400,2024-06-17T20:39:23Z,D. Exum enters the game for L. Dončić,,85-106,,,q4,563S
+401,2024-06-17T20:39:23Z,J. Hardy enters the game for T. Hardaway,,85-106,,,q4,563S
+402,2024-06-17T20:39:23Z,A. Lawson enters the game for K. Irving,,85-106,,,q4,563S
+403,2024-06-17T20:39:23Z,D. Powell enters the game for M. Kleber,,85-106,,,q4,563S
+404,2024-06-17T20:39:23Z,O. Prosper enters the game for P. Washington,,85-106,,,q4,563S
+405,2024-06-17T20:39:35Z,,,85-106,,J. Brown misses 2-pt layup from 4 ft,q4,575S
+406,2024-06-17T20:39:36Z,,,85-106,,Offensive rebound by D. White,q4,576S
+407,2024-06-17T20:39:41Z,,,85-106,,D. White misses 3-pt jump shot from 27 ft,q4,581S
+408,2024-06-17T20:39:42Z,Defensive rebound by Team,,85-106,,,q4,582S
+409,2024-06-17T20:39:58Z,Shooting foul by A. Horford (drawn by J. Hardy),,85-106,,,q4,598S
+410,2024-06-17T20:39:58Z,J. Hardy misses free throw 1 of 2,,85-106,,,q4,598S
+411,2024-06-17T20:39:58Z,Offensive rebound by Team,,85-106,,,q4,598S
+412,2024-06-17T20:39:58Z,,,85-106,,L. Kornet enters the game for A. Horford,q4,598S
+413,2024-06-17T20:39:58Z,J. Hardy makes free throw 2 of 2,1,86-106,,,q4,598S
+414,2024-06-17T20:40:22Z,,,86-106,,J. Tatum misses 3-pt jump shot from 26 ft,q4,622S
+415,2024-06-17T20:40:25Z,,,86-106,,Offensive rebound by L. Kornet,q4,625S
+416,2024-06-17T20:40:39Z,,,86-106,,Turnover by Team (shot clock),q4,639S
+417,2024-06-17T20:40:39Z,,,86-106,,S. Hauser enters the game for J. Brown,q4,639S
+418,2024-06-17T20:40:39Z,,,86-106,,P. Pritchard enters the game for J. Tatum,q4,639S
+419,2024-06-17T20:40:51Z,J. Hardy makes 2-pt jump shot from 18 ft,2,88-106,,,q4,651S
+420,2024-06-17T20:41:12Z,,,88-106,,D. White misses 2-pt jump shot from 21 ft,q4,672S
+421,2024-06-17T20:41:14Z,Defensive rebound by O. Prosper,,88-106,,,q4,674S
+422,2024-06-17T20:41:22Z,Personal take foul by S. Hauser (drawn by O. Prosper),,88-106,,,q4,682S
+423,2024-06-17T20:41:22Z,,,88-106,,O. Brissett enters the game for J. Holiday,q4,682S
+424,2024-06-17T20:41:22Z,,,88-106,,S. Mykhailiuk enters the game for D. White,q4,682S
+425,2024-06-17T20:41:27Z,J. Hardy misses 2-pt dunk from 2 ft,,88-106,,,q4,687S
+426,2024-06-17T20:41:28Z,,,88-106,,Defensive rebound by S. Mykhailiuk,q4,688S
+427,2024-06-17T20:41:38Z,,,88-106,,S. Hauser misses 3-pt jump shot from 27 ft,q4,698S
+428,2024-06-17T20:41:39Z,Defensive rebound by D. Powell,,88-106,,,q4,699S
