@@ -1,0 +1,252 @@
+---
+title: "NBA 2024 Final Play-by-Play Scape"
+author: "Kurtis Smith"
+date: "`r Sys.Date()`"
+output: 
+ html_document:
+  toc: TRUE
+  fig_width: 10
+  fig_height: 6
+  theme: spacelab
+  highlight: kate
+---
+
+## Project Introduction
+
+My intent was to explore process mining techniques on the NBA final, to that end I webscraped the play by play (pbp) data, cleaned and combined until realising. The data is not in the write format to use process mining...gutted. In an effort to make sure my time wasn't a total waste. I've uploaded the data on Kaggle and posted this here script. Hope someone finds it remotely useful. For the curious, to see the process mining analysis see `link`
+
+```{r setup, include = FALSE, class.source = 'fold-hide'}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Load packages
+library(tidyverse)
+library(rvest)
+
+# Load custom function
+
+## Gets dates from scorebox
+
+get_scorebox_date <- function(pbp_html){
+
+ pbp_html %>% 
+ html_nodes("div.scorebox_meta") %>% 
+ html_children() %>% 
+ pluck(1) %>% 
+ html_text() %>% 
+ strptime(format = "%I:%M %p, %B %d, %Y", tz = "UTC")
+
+}
+ 
+## Retrieves the rows for each quarter
+
+get_quarter_row_indicies <- function(pbp_raw){
+
+ ### Get row references for quarters
+ quarter_1_row_location = 3:(which(pbp_raw$X1 == "2nd Q") -2)
+ quarter_2_row_location = (max(quarter_1_row_location) +5):(which(pbp_raw$X1 == "3rd Q") -2)
+ quarter_3_row_location = (max(quarter_2_row_location) +5):(which(pbp_raw$X1 == "4th Q") -2)
+ quarter_4_row_location = (max(quarter_3_row_location) +5):(nrow(pbp_raw) -1)
+ 
+ quarters_list <- list(
+  quarter_1_row_location, 
+  quarter_2_row_location, 
+  quarter_3_row_location, 
+  quarter_4_row_location
+ )
+ 
+ # Get min and max rows references for each quarter
+ row_references <- data.frame(
+  min = map(quarters_list, ~min(.x)) %>% 
+   unlist(),
+  
+  max = map(quarters_list, ~max(.x)) %>% 
+   unlist()
+ )
+ 
+ return(row_references)
+ 
+}
+
+## Filters play by play data and adds relevant quarter
+
+add_quarters_col <- function(pbp_raw) {
+ 
+ quarter_rows <- get_quarter_row_indicies(pbp_raw)
+ 
+ q1_pbp <- pbp_raw[quarter_rows[1, "min"]:quarter_rows[1, "max"], ] %>%
+  mutate(quarter = "q1")
+ 
+ q2_pbp <- pbp_raw[quarter_rows[2, "min"]:quarter_rows[2, "max"], ] %>%
+  mutate(quarter = "q2")
+ 
+ q3_pbp <- pbp_raw[quarter_rows[3, "min"]:quarter_rows[3, "max"], ] %>%
+  mutate(quarter = "q3")
+ 
+ q4_pbp <- pbp_raw[quarter_rows[4, "min"]:quarter_rows[4, "max"], ] %>%
+  mutate(quarter = "q4")
+ 
+ pbp_with_quarters <- bind_rows(
+  q1_pbp,
+  q2_pbp,
+  q3_pbp,
+  q4_pbp
+ )
+ 
+ return(pbp_with_quarters)
+ 
+}
+
+## Gets gameday team names
+
+get_team_names <- function(pbp_raw) {
+
+ team_names <- pbp_raw[2, c(2, 6)] 
+ 
+ }
+
+## Calculates cumulative timestamp
+
+calc_timestamp <- function(pbp_with_quarters, scorebox_dates){
+
+ ### Requires scorebox dates
+ scorebox_date <- as.Date(scorebox_dates)
+ 
+ pbp_with_timestamp <- pbp_with_quarters %>%
+ rename(timestamp = X1) %>%
+ mutate(
+  timestamp = lubridate::ymd_hms(
+   paste0(scorebox_date, " 0:", timestamp)
+  ),
+  ### Calculate time difference using timestamp
+  timediff = if_else(
+   is.na(lag(timestamp, 1)),
+   as.numeric(timestamp - timestamp),
+   as.numeric(lag(timestamp, 1) - timestamp)),
+  ### Calculate cumulative time difference using timediff
+  timediff = seconds(cumsum(timediff)),
+  timestamp = lubridate::ymd_hms(
+   scorebox_dates + timediff
+  )
+ )
+
+return(pbp_with_timestamp)
+
+}
+
+```
+
+## Data
+
+### Scrape Data
+
+```{r read_data}
+
+# Read play by play html
+
+pbp_html <- list(
+  pbp_2024_06_06 = read_html("https://www.basketball-reference.com/boxscores/pbp/202406060BOS.html") 
+ ,pbp_2024_06_09 = read_html("https://www.basketball-reference.com/boxscores/pbp/202406090BOS.html")
+ ,pbp_2024_06_12 = read_html("https://www.basketball-reference.com/boxscores/pbp/202406120DAL.html")
+ ,pbp_2024_06_14 = read_html("https://www.basketball-reference.com/boxscores/pbp/202406140DAL.html")
+ ,pbp_2024_06_17 = read_html("https://www.basketball-reference.com/boxscores/pbp/202406170BOS.html")
+)
+
+# Get scorebox dates
+scorebox_dates <- map(pbp_html, ~get_scorebox_date(.x))
+
+# Read roster html
+
+roster_html <- list(
+ bos_roster = read_html("https://www.basketball-reference.com/teams/BOS/2024.html"), 
+ dal_roster = read_html("https://www.basketball-reference.com/teams/DAL/2024.html")
+) 
+
+```
+
+### Transform Roster Data
+
+```{r}
+
+# Transform roster data
+
+roster_raw <- map(
+ # Get roster table and convert to data frame
+ roster_html, ~html_element(., "table") %>% 
+                    html_table()) 
+
+# Add team names to roster data
+roster_raw$bos_roster["team_name"] <- "Boston Celtics"
+roster_raw$dal_roster["team_name"] <- "Dallas Mavericks"
+
+# Cleaning columns
+roster_data <- roster_raw %>% 
+ bind_rows() %>% 
+ janitor::clean_names() %>% 
+ rename(number = no, 
+        birth_country_code = birth, 
+        experience = exp)
+
+roster_data
+
+```
+
+### Transform PBP Data
+
+```{r}
+
+# Transform pbp data
+
+ pbp_raw <- map(
+ # Get play by play table and convert to data frame
+ pbp_html, ~html_element(., "table") %>%
+                         html_table(header = FALSE))
+ 
+team_names <- map(
+ # Get team names, switches depending on who's home
+ pbp_raw, ~get_team_names(.)
+) %>% 
+ bind_rows()
+
+ pbp_with_quarters <- map(
+ # Select rows with times only and add quarter column
+  pbp_raw, ~add_quarters_col(.x)) %>% 
+  map(~tibble::rowid_to_column(.x, var = "order"))
+
+ pbp_with_timestamp <- pmap(
+ # Calculate cumlulative timestamp
+ list(pbp_with_quarters, scorebox_dates), ~calc_timestamp(..1, ..2))
+ 
+ 
+
+ pbp_finals_data <- pbp_with_timestamp %>% map(
+   ~rename(.x, 
+          DAL_play = X2, 
+          DAL_score_tally = X3, 
+          score_board = X4,
+          BOS_score_tally = X5, 
+          BOS_play = X6, 
+          )
+  ) %>% 
+  bind_rows()
+
+ pbp_finals_data
+ 
+```
+
+## Acknowledgements
+
+Packages and package maintainer(s):
+
+-   tidyverse \| Hadley Wickham
+
+-   rvest \| Hadley Wickham
+
+## Data Sources
+
+-   <https://www.basketball-reference.com/>
+
+## References
+
+
+
+## Dependancies

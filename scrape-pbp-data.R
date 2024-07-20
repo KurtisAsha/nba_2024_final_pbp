@@ -8,10 +8,7 @@
 # on Kaggle and posted this here script. Hope someone finds it remotely useful. 
 # For the curious, to see what I was trying to do, see `link`
 
-# Acknowledgements
-# data source - https://www.basketball-reference.com/
-# Package Maintainer(s):
-## tidyverse and rvest - Hadley Wickham
+
 
 # Setup -------------------------------------------------------------------
 
@@ -41,32 +38,24 @@ roster_html <- list(
  dal_roster = read_html("https://www.basketball-reference.com/teams/DAL/2024.html")
 ) 
 
-# Transform roster data ---------------------------------------------------
-
-roster_raw <- map(
- # Get roster table and convert to data frame
- roster_html, ~html_element(., "table") %>% 
-                    html_table()) 
-
-# Add team names to roster data
-roster_raw$bos_roster["team_name"] <- "Boston Celtics"
-roster_raw$dal_roster["team_name"] <- "Dallas Mavericks"
-
-# Cleaning columns
-roster_data <- roster_raw %>% 
- bind_rows() %>% 
- janitor::clean_names() %>% 
- rename(number = no, 
-        birth_country_code = birth, 
-        experience = exp)
-
 # Transform pbp data ------------------------------------------------------
 
  pbp_raw <- map(
  # Get play by play table and convert to data frame
  pbp_html, ~html_element(., "table") %>%
                          html_table(header = FALSE))
- 
+
+team_names <- map(
+ pbp_raw, ~get_team_names(.)
+) %>% 
+ bind_rows()
+
+## ????
+pmap(
+ list(pbp_with_timestamp, pull(team_names, 1), list(team_names[ ,2])),
+ ~rename(..1, "{..2}_play" := X2)
+)
+
  pbp_with_quarters <- map(
  # Select rows with times only and add quarter column
   pbp_raw, ~add_quarters_col(.x)) %>% 
@@ -76,6 +65,9 @@ roster_data <- roster_raw %>%
  # Calculate cumlulative timestamp
  list(pbp_with_quarters, scorebox_dates), ~calc_timestamp(..1, ..2))
 
+ 
+ pbp_raw
+ 
  pbp_finals <- pbp_with_timestamp %>% map(
    ~rename(.x, 
           DAL_play = X2, 
@@ -97,5 +89,8 @@ roster_data <- roster_raw %>%
            sheet = "NBA 2024 Play-by-play Finals Data")
 
  
+
+
+
  
  

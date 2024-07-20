@@ -46,6 +46,8 @@ add_quarters_col <- function(pbp_raw) {
  
  quarter_rows <- get_quarter_row_indicies(pbp_raw)
  
+ col_names <- pbp_raw[2, ] %>% flatten_chr()
+ 
  q1_pbp <- pbp_raw[quarter_rows[1, "min"]:quarter_rows[1, "max"], ] %>%
   mutate(quarter = "q1")
  
@@ -65,10 +67,19 @@ add_quarters_col <- function(pbp_raw) {
   q4_pbp
  )
  
+ colnames(pbp_with_quarters) <- col_names
+ 
  return(pbp_with_quarters)
  
 }
 
+# Gets gameday team names -------------------------------------------------
+
+get_team_names <- function(pbp_raw) {
+
+ team_names <- pbp_raw[2, c(2, 6)]
+
+}
 
 # Calculates cumulative timestamp -----------------------------------------
 # Requires scorebox dates
