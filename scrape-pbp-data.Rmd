@@ -15,12 +15,22 @@ output:
 
 My intent was to explore process mining techniques on the NBA final, to that end I webscraped the play by play (pbp) data, cleaned and combined until realising. The data is not in the write format to use process mining...gutted. In an effort to make sure my time wasn't a total waste. I've uploaded the data on Kaggle and posted this here script. Hope someone finds it remotely useful. For the curious, to see the process mining analysis see `link`
 
-```{r setup, include = FALSE, class.source = 'fold-hide'}
+```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 
 # Load packages
 library(tidyverse)
 library(rvest)
+library(DT)
+library(readODS)
+
+```
+
+## Data
+
+### Load Custom Functions
+
+```{r}
 
 # Load custom function
 
@@ -132,10 +142,7 @@ calc_timestamp <- function(pbp_with_quarters, scorebox_dates){
 return(pbp_with_timestamp)
 
 }
-
 ```
-
-## Data
 
 ### Scrape Data
 
@@ -186,7 +193,11 @@ roster_data <- roster_raw %>%
         birth_country_code = birth, 
         experience = exp)
 
-roster_data
+# write_ods(x = roster_data, 
+#          path = "./Outputs/nba_2024_roster_finals_data.ods", 
+#          na_as_string = FALSE)
+
+datatable(roster_data)
 
 ```
 
@@ -197,39 +208,44 @@ roster_data
 # Transform pbp data
 
  pbp_raw <- map(
- # Get play by play table and convert to data frame
+ ## Get play by play table and convert to data frame
  pbp_html, ~html_element(., "table") %>%
                          html_table(header = FALSE))
  
 team_names <- map(
- # Get team names, switches depending on who's home
+ ## Get team names, switches depending on who's home
  pbp_raw, ~get_team_names(.)
 ) %>% 
  bind_rows()
 
  pbp_with_quarters <- map(
- # Select rows with times only and add quarter column
+ ## Select rows with times only and add quarter column
   pbp_raw, ~add_quarters_col(.x)) %>% 
   map(~tibble::rowid_to_column(.x, var = "order"))
 
  pbp_with_timestamp <- pmap(
- # Calculate cumlulative timestamp
+ ## Calculate cumlulative timestamp
  list(pbp_with_quarters, scorebox_dates), ~calc_timestamp(..1, ..2))
  
- 
-
- pbp_finals_data <- pbp_with_timestamp %>% map(
-   ~rename(.x, 
-          DAL_play = X2, 
-          DAL_score_tally = X3, 
-          score_board = X4,
-          BOS_score_tally = X5, 
-          BOS_play = X6, 
-          )
-  ) %>% 
+ pbp_finals_data <-  pmap(
+ ## Rename columns
+  list(pbp_with_timestamp, 
+  pull(team_names[ ,1]), 
+  pull(team_names[ ,2])), 
+     ~rename(..1,
+             "{..2}_play" := X2, 
+             "{..2}_score_tally" := X3, 
+             "score_board" := X4,
+             "{..3}_play" := X5, 
+             "{..3}_score_tally" := X6)
+     ) %>% 
   bind_rows()
 
- pbp_finals_data
+ datatable(pbp_finals_data)
+ 
+ # write_ods(x = pbp_finals_data, 
+ #          path = "./Outputs/nba_2024_pbp_finals_data.ods", 
+ #          na_as_string = FALSE)
  
 ```
 
@@ -238,15 +254,10 @@ team_names <- map(
 Packages and package maintainer(s):
 
 -   tidyverse \| Hadley Wickham
-
 -   rvest \| Hadley Wickham
+-   DT \| 	Joe Cheng
+-   readODS \| Chung-hong Chan
 
 ## Data Sources
 
--   <https://www.basketball-reference.com/>
-
-## References
-
-
-
-## Dependancies
+-   Thanks <https://www.basketball-reference.com/>
