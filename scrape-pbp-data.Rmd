@@ -1,19 +1,20 @@
 ---
 title: "NBA 2024 Final Play-by-Play Scape"
-author: "Kurtis Smith"
-date: "`r Sys.Date()`"
+author: "Author: Kurtis Smith"
+date: "Published Date: 23rd July 2024"
 output: 
  html_document:
   toc: TRUE
+  toc_float: TRUE
   fig_width: 10
   fig_height: 6
-  theme: spacelab
+  theme: journal
   highlight: kate
 ---
 
-## Project Introduction
+## Project Introduction 👋🏽
 
-My intent was to explore process mining techniques on the NBA final, to that end I webscraped the play by play (pbp) data, cleaned and combined until realising. The data is not in the write format to use process mining...gutted. In an effort to make sure my time wasn't a total waste. I've uploaded the data on Kaggle and posted this here script. Hope someone finds it remotely useful. For the curious, to see the process mining analysis see `link`
+My intent was to explore process mining techniques on the NBA final, to that end I web scraped the play by play (pbp) data, cleaned and combined until realising. The data is not in the write format to use process mining...gutted. In an effort to make sure my time wasn't a total waste. I've uploaded the data on Kaggle and posted this here script. Hope someone finds it remotely useful. For the curious, to see the process mining analysis see `link`
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -22,20 +23,16 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 library(rvest)
 library(DT)
-library(readODS)
 
 ```
 
-## Data
+## Data 💾
 
 ### Load Custom Functions
 
-```{r}
+```{r load_custom_functions}
 
-# Load custom function
-
-## Gets dates from scorebox
-
+# Gets dates from scorebox
 get_scorebox_date <- function(pbp_html){
 
  pbp_html %>% 
@@ -47,78 +44,58 @@ get_scorebox_date <- function(pbp_html){
 
 }
  
-## Retrieves the rows for each quarter
-
+# Retrieves the rows for each quarter
 get_quarter_row_indicies <- function(pbp_raw){
 
- ### Get row references for quarters
+ ## Get row references for quarters
  quarter_1_row_location = 3:(which(pbp_raw$X1 == "2nd Q") -2)
  quarter_2_row_location = (max(quarter_1_row_location) +5):(which(pbp_raw$X1 == "3rd Q") -2)
  quarter_3_row_location = (max(quarter_2_row_location) +5):(which(pbp_raw$X1 == "4th Q") -2)
  quarter_4_row_location = (max(quarter_3_row_location) +5):(nrow(pbp_raw) -1)
  
- quarters_list <- list(
-  quarter_1_row_location, 
-  quarter_2_row_location, 
-  quarter_3_row_location, 
-  quarter_4_row_location
- )
+ quarters_list <- list(quarter_1_row_location, 
+                       quarter_2_row_location, 
+                       quarter_3_row_location, 
+                       quarter_4_row_location)
  
- # Get min and max rows references for each quarter
+ ## Get min and max rows references for each quarter
  row_references <- data.frame(
-  min = map(quarters_list, ~min(.x)) %>% 
-   unlist(),
-  
-  max = map(quarters_list, ~max(.x)) %>% 
-   unlist()
+  min = map(quarters_list, ~min(.x)) %>% unlist(),
+  max = map(quarters_list, ~max(.x)) %>% unlist()
  )
  
  return(row_references)
  
 }
 
-## Filters play by play data and adds relevant quarter
-
+# Filters play by play data and adds relevant quarter
 add_quarters_col <- function(pbp_raw) {
  
  quarter_rows <- get_quarter_row_indicies(pbp_raw)
  
- q1_pbp <- pbp_raw[quarter_rows[1, "min"]:quarter_rows[1, "max"], ] %>%
-  mutate(quarter = "q1")
+ q1_pbp <- pbp_raw[quarter_rows[1, "min"]:quarter_rows[1, "max"], ] %>% mutate(quarter = "q1")
+ q2_pbp <- pbp_raw[quarter_rows[2, "min"]:quarter_rows[2, "max"], ] %>% mutate(quarter = "q2")
+ q3_pbp <- pbp_raw[quarter_rows[3, "min"]:quarter_rows[3, "max"], ] %>% mutate(quarter = "q3")
+ q4_pbp <- pbp_raw[quarter_rows[4, "min"]:quarter_rows[4, "max"], ] %>% mutate(quarter = "q4")
  
- q2_pbp <- pbp_raw[quarter_rows[2, "min"]:quarter_rows[2, "max"], ] %>%
-  mutate(quarter = "q2")
- 
- q3_pbp <- pbp_raw[quarter_rows[3, "min"]:quarter_rows[3, "max"], ] %>%
-  mutate(quarter = "q3")
- 
- q4_pbp <- pbp_raw[quarter_rows[4, "min"]:quarter_rows[4, "max"], ] %>%
-  mutate(quarter = "q4")
- 
- pbp_with_quarters <- bind_rows(
-  q1_pbp,
-  q2_pbp,
-  q3_pbp,
-  q4_pbp
- )
+ pbp_with_quarters <- bind_rows(q1_pbp, q2_pbp, q3_pbp, q4_pbp)
  
  return(pbp_with_quarters)
  
 }
 
-## Gets gameday team names
-
+# Gets gameday team names
 get_team_names <- function(pbp_raw) {
 
- team_names <- pbp_raw[2, c(2, 6)] 
- 
+  team_names <- pbp_raw[2, c(2, 6)] 
+  
+  return(team_names)
  }
 
-## Calculates cumulative timestamp
-
+# Calculates cumulative timestamp
 calc_timestamp <- function(pbp_with_quarters, scorebox_dates){
 
- ### Requires scorebox dates
+ ## Requires scorebox dates
  scorebox_date <- as.Date(scorebox_dates)
  
  pbp_with_timestamp <- pbp_with_quarters %>%
@@ -127,12 +104,12 @@ calc_timestamp <- function(pbp_with_quarters, scorebox_dates){
   timestamp = lubridate::ymd_hms(
    paste0(scorebox_date, " 0:", timestamp)
   ),
-  ### Calculate time difference using timestamp
+  ## Calculate time difference using timestamp
   timediff = if_else(
    is.na(lag(timestamp, 1)),
    as.numeric(timestamp - timestamp),
    as.numeric(lag(timestamp, 1) - timestamp)),
-  ### Calculate cumulative time difference using timediff
+  ## Calculate cumulative time difference using timediff
   timediff = seconds(cumsum(timediff)),
   timestamp = lubridate::ymd_hms(
    scorebox_dates + timediff
@@ -146,10 +123,9 @@ return(pbp_with_timestamp)
 
 ### Scrape Data
 
-```{r read_data}
+```{r scrape_data}
 
 # Read play by play html
-
 pbp_html <- list(
   pbp_2024_06_06 = read_html("https://www.basketball-reference.com/boxscores/pbp/202406060BOS.html") 
  ,pbp_2024_06_09 = read_html("https://www.basketball-reference.com/boxscores/pbp/202406090BOS.html")
@@ -162,7 +138,6 @@ pbp_html <- list(
 scorebox_dates <- map(pbp_html, ~get_scorebox_date(.x))
 
 # Read roster html
-
 roster_html <- list(
  bos_roster = read_html("https://www.basketball-reference.com/teams/BOS/2024.html"), 
  dal_roster = read_html("https://www.basketball-reference.com/teams/DAL/2024.html")
@@ -172,12 +147,11 @@ roster_html <- list(
 
 ### Transform Roster Data
 
-```{r}
+```{r transform_roster_data}
 
 # Transform roster data
-
 roster_raw <- map(
- # Get roster table and convert to data frame
+ ## Get roster table and convert to data frame
  roster_html, ~html_element(., "table") %>% 
                     html_table()) 
 
@@ -193,21 +167,16 @@ roster_data <- roster_raw %>%
         birth_country_code = birth, 
         experience = exp)
 
-# write_ods(x = roster_data, 
-#          path = "./Outputs/nba_2024_roster_finals_data.ods", 
-#          na_as_string = FALSE)
-
-datatable(roster_data)
+datatable(roster_data, class = c("compact", "hover", "row-border"),  rownames = FALSE)
 
 ```
 
 ### Transform PBP Data
 
-```{r}
+```{r transform_pbp_data}
 
 # Transform pbp data
-
- pbp_raw <- map(
+pbp_raw <- map(
  ## Get play by play table and convert to data frame
  pbp_html, ~html_element(., "table") %>%
                          html_table(header = FALSE))
@@ -215,13 +184,13 @@ datatable(roster_data)
 team_names <- map(
  ## Get team names, switches depending on who's home
  pbp_raw, ~get_team_names(.)
-) %>% 
+ ) %>% 
  bind_rows()
 
- pbp_with_quarters <- map(
+pbp_with_quarters <- map(
  ## Select rows with times only and add quarter column
-  pbp_raw, ~add_quarters_col(.x)) %>% 
-  map(~tibble::rowid_to_column(.x, var = "order"))
+ pbp_raw, ~add_quarters_col(.x)) %>% 
+ map(~tibble::rowid_to_column(.x, var = "order"))
 
  pbp_with_timestamp <- pmap(
  ## Calculate cumlulative timestamp
@@ -229,9 +198,9 @@ team_names <- map(
  
  pbp_finals_data <-  pmap(
  ## Rename columns
-  list(pbp_with_timestamp, 
-  pull(team_names[ ,1]), 
-  pull(team_names[ ,2])), 
+ list(pbp_with_timestamp, 
+ pull(team_names[ ,1]), 
+ pull(team_names[ ,2])), 
      ~rename(..1,
              "{..2}_play" := X2, 
              "{..2}_score_tally" := X3, 
@@ -241,23 +210,23 @@ team_names <- map(
      ) %>% 
   bind_rows()
 
- datatable(pbp_finals_data)
- 
- # write_ods(x = pbp_finals_data, 
- #          path = "./Outputs/nba_2024_pbp_finals_data.ods", 
- #          na_as_string = FALSE)
- 
+datatable(pbp_finals_data, class = c("compact", "hover", "row-border"),  rownames = FALSE)
+
 ```
 
-## Acknowledgements
+## Reproducibility 🔂
+
+I attempt to make a habit of coding functionally and with reproducibility in mind. However, for this project I only needed the final 5 games of the 2024 NBA final. As such, for those wanting to reuse code to scrape other games, please check: - List names for object `roster_html` - In code chunk `transform_roster_data` the team names have been manually added
+
+## Acknowledgements 👏🏽
 
 Packages and package maintainer(s):
 
 -   tidyverse \| Hadley Wickham
 -   rvest \| Hadley Wickham
--   DT \| 	Joe Cheng
+-   DT \| Joe Cheng
 -   readODS \| Chung-hong Chan
 
-## Data Sources
+## Data Sources 📚
 
 -   Thanks <https://www.basketball-reference.com/>
