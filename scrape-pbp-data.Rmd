@@ -26,7 +26,7 @@ library(DT)
 
 ```
 
-## Data 💾
+## Data
 
 ### Load Custom Functions
 
@@ -214,11 +214,11 @@ datatable(pbp_finals_data, class = c("compact", "hover", "row-border"),  rowname
 
 ```
 
-## Reproducibility 🔂
+## Reproducibility
 
 I attempt to make a habit of coding functionally and with reproducibility in mind. However, for this project I only needed the final 5 games of the 2024 NBA final. As such, for those wanting to reuse code to scrape other games, please check: - List names for object `roster_html` - In code chunk `transform_roster_data` the team names have been manually added
 
-## Acknowledgements 👏🏽
+## Acknowledgements
 
 Packages and package maintainer(s):
 
@@ -227,6 +227,6 @@ Packages and package maintainer(s):
 -   DT \| Joe Cheng
 -   readODS \| Chung-hong Chan
 
-## Data Sources 📚
+## Data Sources
 
 -   Thanks <https://www.basketball-reference.com/>
